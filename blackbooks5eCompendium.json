@@ -1,0 +1,888 @@
+{
+
+    "_meta": {
+		"sources": [
+			{
+				"json": "BB5E",
+				"abbreviation": "BB5E",
+				"full": "Black Books: Guide to Therion",
+				"authors": [
+					"Gibson1027 "
+				],
+				"convertedBy": [
+					"Gibson1027"
+				],
+				"version": "1.0.0",
+				"url": "",
+				"targetSchema": "1.0.0",
+				"color": "e180ff"
+			}
+		],
+		"dateAdded": 1647370398,
+		"dateLastModified": 1647370398
+	},
+    "subclass": [
+        {
+			"name": "College of the Battlesong",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"shortName": "Battlesong",
+			"subclassFeatures": [
+				"BattleSong Readiness|Bard|PHB|Battlesong|BB5E|3",
+				"Dirge of Doom|Bard|PHB|Battlesong|BB5E|3",
+				"Heroic Boast|Bard|PHB|BattleSong|BB5E|6",
+				"If I Can Do It, So Can You|Bard|PHB|Battlesong|BB5E|6",
+				"Cower, Villein! Thy End is Nigh!|Bard|PHB|Battlesong|BB5E|6",
+				"Bolstering Roast|Bard|PHB|Battlesong|BB5E|14"
+			]
+		},
+        {
+			"name": "Flame Hammer Domain",
+			"source": "BB5E",
+			"className": "Cleric",
+			"classSource": "PHB",
+			"shortName": "Flame Hammer",
+			"subclassSpells": [
+				"Armor of Agathys",
+				"Thunder Wave",
+				"Heat Metal",
+				"Scorching Ray",
+				"Fireball",
+				"Pulse Wave|egw",
+				"Fire Shield",
+				"Wall of Fire",
+				"Destructive Wave",
+				"Steel Wind Strike|xge"
+			],
+			"subclassFeatures": [
+                "Bonus Proficiencies|Cleric|PHB|Flame Hammer|BB5E|1",
+				"Channel Divinity: Shield of the Forgemaster|Cleric|PHB|Flame Hammer|BB5E|2",
+				"Fanning the Flames|Cleric|PHB|Flame Hammer|BB5E|6",
+                "Channel Divinity: Blade of the Forgemaster|Cleric|PHB|Flame Hammer|BB5E|6",
+				"Divine Strike|Cleric|PHB|Flame Hammer|BB5E|8",
+				"True Forge Lord|Cleric|PHB|Flame Hammer|BB5E|17"
+			]
+		},
+        {
+			"name": "Circle of the Woe Warden",
+			"source": "BB5e",
+			"className": "Druid",
+			"classSource": "PHB",
+			"shortName": "Woe",
+			"subclassFeatures": [
+				"Primordial Panoply|Druid|PHB|Woe|BB5E|2",
+				"Grove of Woe|Druid|PHB|Woe|BB5E|2",
+				"Extra Attack|Druid|PHB|Woe|BB5E|6",
+				"Greater Grove|Druid|PHB|Woe|BB5E|10",
+				"Steelbark & Spiterazor|Druid|PHB|Woe|BB5E|14"
+			]
+		},
+        {
+			"name": "Oath of the Gallant Crusader",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"shortName": "Gallant",
+			"subclassSpells": [
+				"Absorb Elements|xge",
+				"Shield",
+				"Immovable Object|egw",
+				"Spiritual Weapon",
+				"Haste",
+				"Protection from Energy",
+				"Guardian of Faith",
+				"Otiluke's Resilient Sphere",
+				"Hold Monster",
+				"Wall of Light|xge"
+			],
+			"subclassFeatures": [
+				"Oath Spells|Paladin|PHB|Gallant|BB5E|3",
+				"Channel Divinity: Crusader’s Challenge|Paladin|PHB|Gallant|BB5E|3",
+				"Channel Divinity: Blessed Arcs|Paladin|PHB|Gallant|BB5E|3",
+				"Oath Proficiencies|Paladin|PHB|Gallant|BB5E|3",
+				"Aura of the Holy Bulwark|Paladin|PHB|Gallant|BB5E|7",
+				"Immovable Object|Paladin|PHB|Gallant|BB5E|15",
+				"Unstoppable Force|Paladin|PHB|Gallant|BB5E|20"
+			]
+		},
+        {
+			"name": "Fragment of Divinity",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"shortName": "Fragment",
+			"subclassSpells": [
+				"Command",
+				"Gift of Alacrity",
+				"Enhance Ability",
+				"Enlarge Reduce",
+				"Conjure Barrage",
+				"Sending",
+                "Polymorph",
+				"Gravity Sinkhole",
+				"Creation",
+				"Geas"
+			],
+			"subclassFeatures": [
+				"Expanded Spell List|Warlock|PHB|Fragment|BB5E|1",
+				"A Piece of the Gods|Warlock|PHB|Fragment|BB5E|1",
+				"Manifest Soul|Warlock|PHB|Fragment|BB5E|1",
+				"Unarmored Defense|Warlock|PHB|Fragment|BB5E|1",
+				"Imposing Splendor|Warlock|PHB|Fragment|BB5E|1",
+				"Battle Rush|Warlock|PHB|Fragment|BB5E|6",
+				"Physical Manifestation|Warlock|PHB|Fragment|BB5E|10",
+				"Inspiring Awe, Powerful Menace|Warlock|PHB|Fragment|BB5E|14"
+			]
+		} 
+    ],
+    "subclassFeature": [
+		{
+			"name": "College of the Battlesong",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Battlesong",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"Votaries of the College of Battlesong are masters of blade and prose. While some feel that they need to prepare and perform for civilians, Battlesongs find their masterpieces amongst the clang of swords and blasts of cannons. This conductor of war inspires their allies and cuts down their enemies for the longer they play the more cacophonous their song of battle becomes.",
+				"Battlesong bards become adventurers for the hunt of combat and the release of inspiration with the bloodletting of their enemies. They focus heavily on orchestrating combat and become more powerful with each swing of the blade and firing of the arrow.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Dirge of Doom|Bard|PHB|BattleSong|BB5E|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "BattleSong Readiness|Bard|PHB|Battlesong|BB5E|3"
+				}
+			]
+		},
+		{
+			"name": "BattleSong Readiness",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Battlesong",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"At 3rd level, you have learned to perform despite the harsh, demanding conditions of the battlefield. You gain proficiency in medium armor, shields, and martial weapons."
+			]
+		},
+		{
+			"name": "Dirge of Doom",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Battlesong",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"At 3rd level, as a bonus action, you may spend 1 use of Bardic Inspiration to play a Dirge of Doom for one minute. When you begin your performance, choose either attack rolls, physical saving throws, mental saving throws, or ability checks. At the start of their turn, enemies that can hear the dirge of doom must make a Charisma saving throw against your spell save DC or take a -1 penalty on the selected rolls until the start of their next turn. At the end of each of your turns thereafter, the penalty worsens by 1, to a maximum penalty of your proficiency modifier.",
+				"Your Dirge of Doom ends early if you are in an area of magical silence or are otherwise unable to produce sound, such as being in a vacuum, or if you are affected by any condition that prevents you from taking an action on your turn. Maintaining the Dirge of Doom does not require any additional actions on subsequent rounds, and creatures that are deaf are unaffected by it entirely, as are creatures immune to the Frightened condition."
+			]
+		},
+		{
+			"name": "Heroic Boast",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Battlesong",
+			"subclassSource": "BB5E",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"At 6th level, you have mastered the art of championing the prowess of your comrades-in-arms, proudly proclaiming their strengths to the world at large. As a bonus action, you may spend 1 use of Bardic Inspiration to grant an ally other than yourself a bonus equal to your proficiency bonus on one skill check that they already have proficiency in. This is an extended performance, and the effects last for as long as the skill check takes, up to an hour per use of Bardic Inspiration."
+			]
+		},
+		{
+			"name": "If I Can Do It, So Can You",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Battlesong",
+			"subclassSource": "BB5E",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"At 6th level, you can speak up when you see someone being oppressed and harden their resolve. As a reaction, when a creature within 30 feet of you makes a saving throw against being {@condition frightened} or {@condition charmed}, you can start a performance per the Countercharm feature. The creature gains advantage on the saving throw as part of the performance."
+			]
+		},
+		{
+			"name": "Cower, Villein! Thy End is Nigh!",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Battlesong",
+			"subclassSource": "BB5E",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"At 6th level, you’ve learned how to focus your Dirge of Doom, lambasting your foes with focused, targeted, and genuinely quite hurtful remarks, describing in detail how brutally your comrades will obliterate them, or other means of verbally roasting your enemies. As an action, you may choose one creature currently affected by your Dirge of Doom. That creature must make a Wisdom saving throw or be Frightened of you until they are no longer affected by your Dirge of Doom, either by making their save against the Dirge, or if the Dirge ends for any reason.",
+				"This ability may affect no more than your Charisma modifier in creatures at once, as there is a limit to how many creatures you can cleverly insult in the brief span of a combat round, as impressive as your burns might be."
+			]
+		},
+		{
+			"name": "Bolstering Roast",
+			"source": "BB5E",
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Battlesong",
+			"subclassSource": "BB5E",
+			"level": 14,
+			"header": 2,
+			"entries": [
+				"At 14th-level, you have learned to lift your companions’ morale while you tear apart the enemy’s. By specifying who in particular is going to kick the ass of whom during your Dirge of Doom, your allies’ confidence and fighting-spirit is built-up as much as your enemies’ is torn down.",
+				"Allies that can hear your Dirge of Doom gain a number of temporary hit points equal to the sum of the penalties applied to all enemies by your Dirge at the start of their turn. For example, if your Dirge’s penalty is currently two, and three creatures are affected by it, your ally would gain six temporary hit points at the start of their turn.",
+				"Additionally, allies that can hear your Dirge of Doom may add your current Dirge penalty to all weapon and spell damage rolls they make; this damage of a type the weapon or spell already deals."
+			]
+		},
+		{
+			"name": "Flame Hammer Domain",
+			"source": "BB5E",
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Flame Hammer",
+			"subclassSource": "BB5E",
+			"level": 1,
+			"entries": [
+				"Amongst the ancient halls and great forge chambers of the Drukafaren, none revere the creations of the forge father Moradin more than clerics of the Flame Hammer. They see through the endless toil, and bountiful flame the forge father's gifts and endless blessings. Moradian teaches that, through struggle and strength, his followers may overcome any obstacle and forge their own path. Flame Hammers take this philosophy to heart as they baptize their armor and weapons in the blessed molten rivers of Mordain's forge in Dornarrvost. These imbued relics of the forge father give Flame Hammers the tools to create their own way and to overcome any that would desecrate or destroy Moradin's will. In one hand they wield the indestructible holy hammer of the dwarves while in the other, the inescapable wrath of Moradin's deific flame and molten metal.",
+                "Flame Hammers become adventurers to seek out and recover ancient temples, holy sites, and relics of Moradin. Many have been lost through the ages or have fallen into the hands of those unsuited to such relics. Flame Hammers will carve a path of burning fire and molten death to reach their prize for nothing stands in the way of the blazing hammers of the forge lord.",
+				{
+					"type": "table",
+					"caption": "Flame Hammer Domain Spells",
+					"colLabels": [
+						"Cleric Level",
+						"Spells"
+					],
+					"colStyles": [
+						"col-3 text-center",
+						"col-9 text-left"
+					],
+					"rows": [
+						[
+							"1st",
+							"{@spell armor of agathys}, {@spell thunder wave}"
+						],
+						[
+							"3rd",
+							"{@spell scorchig ray}, {@spell heat metal}"
+						],
+						[
+							"5th",
+							"{@spell fireball}, {@spell pulse wave|egw}"
+						],
+						[
+							"7th",
+							"{@spell wall of fire}, {@spell fire shield}"
+						],
+						[
+							"9th",
+							"{@spell destructive wave}, {@spell steel wind strike|xge}"
+						]
+					]
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Crucible Shield|Cleric|PHB|Flame Hammer|BB5E|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Bonus Proficiencies|Cleric|PHB|Flame Hammer|BB5E|1"
+				}
+			]
+		},
+        {
+            "name": "Crucible Shield",
+            "source": "BB5E",
+            "className": "Cleric",
+            "classSource": "PHB",
+            "subclassShortName": "Flame Hammer",
+            "subclassSource": "BB5E",
+            "level": 1,
+            "entries": [
+                "At 1st level, your faith in the gods of forge and flame arm you with a buffer of wreathing flames, superheated air, or floating, gleaming embers that blunt incoming strikes and enact divine retribution on your foes.",
+                "At the start of each of your turns in combat, you gain a number of temporary hit points equal to your Cleric level. These temporary hit points stack with other sources of temporary hit points, but do not stack with themselves, and unless otherwise specified, they are lost first when you take damage.",
+                "When you take damage while you have the temporary hit points granted by your Crucible Shield, you may spend your reaction to deal fire damage equal to twice your Cleric level, plus your Wisdom modifier, to the creature who caused the damage, so long as that creature is within 60 feet of you.",
+                "Lastly, flickering remnants of your shield can guide your strikes. Once per round while you have temporary hit points from this feature and make a melee attack with a bludgeoning melee weapon, you may use your Wisdom modifier instead of Strength for the attack and damage rolls; this is called a Crucible Strike."
+
+
+            ]
+        },
+        {
+            "name": "Bonus Proficiencies",
+            "source": "BB5E",
+            "className": "Cleric",
+            "classSource": "PHB",
+            "subclassShortName": "Flame Hammer",
+            "subclassSource": "BB5E",
+            "level": 1,
+            "entries": [
+               "At 1st level, you gain proficiency in heavy armor and all bludgeoning martial weapons.",
+                "Bludgeoning martial weapons count as a holy symbol and spellcasting focus for you."
+            ]
+        },
+        {
+            "name": "Channel Divinity: Shield of the Forgemaster",
+            "source": "BB5E",
+            "className": "Cleric",
+            "classSource": "PHB",
+            "subclassShortName": "Flame Hammer",
+            "subclassSource": "BB5E",
+            "level": 2,
+            "header": 2,
+            "entries": [
+               "Starting at 2nd level, you can use Channel Divinity to grant a mote of the fire of your faith to guard your allies for a moment. As a bonus action, this ability grants a number of allies up to your proficiency bonus the benefit of a Crucible Shield of their own. This grants the temporary hit points one time, and they do not refresh once consumed unless you use this ability again.",
+               "Your allies may spend their reaction when damaged to deal damage to their attacker in the same way you can, using your Cleric level and Wisdom modifier to determine the amount of fire damage dealt. If your ally does not have a reaction to spend, or chooses not to spend it, you may spend your reaction on their behalf, so long as they and their attacker are both within 60 feet of you."
+            ]
+        },
+        {
+            "name": "Fanning the Flames",
+            "source": "BB5E",
+            "className": "Cleric",
+            "classSource": "PHB",
+            "subclassShortName": "Flame Hammer",
+            "subclassSource": "BB5E",
+            "level": 6,
+            "header": 2,
+            "entries": [
+               "Beginning at 6th level, your power of faith fuels the flame of your Crucible Strikes. When you make a Crucible Strike, you add an additional number of fire damage dice equal to your proficiency modifier. By making Crucible Strikes consecutively, you can fan their flames to greater and greater intensity.",
+               "The size of the damage dice from this ability begins at a {@dice 1d4}. Each time you successfully land a Crucible Strike on a creature, the damage dice increases by one size, to a maximum of a {@dice d8}. The damage dice do not change if you attempt a Crucible Strike and miss, and if you do not make a Crucible Strike at some point during a round, the flames wither and the die size resets to a {@dice 1d4}."
+            ]
+        },
+		{
+            "name": "Channel Divinity: Blade of the Forgemaster",
+            "source": "BB5E",
+            "className": "Cleric",
+            "classSource": "PHB",
+            "subclassShortName": "Flame Hammer",
+            "subclassSource": "BB5E",
+            "level": 6,
+            "header": 2,
+            "entries": [
+               "Starting at 6th level, you can use Channel Divinity to wreath your allies’ arms in the flames of your holy crucible. As a bonus action, this ability grants a number of allies up to your proficiency bonus the benefit of your Crucible Strike’s bonus damage. The next successful melee or ranged weapon attack that they make deals as much additional fire damage as your Crucible Strike would gain that round."
+            ]
+        },
+        {
+            "name": "Divine Strike",
+            "source": "BB5E",
+            "className": "Cleric",
+            "classSource": "PHB",
+            "subclassShortName": "Flame Hammer",
+            "subclassSource": "BB5E",
+            "level": 8,
+            "header": 2,
+            "entries": [
+                "At 8th level, you gain the ability to infuse your weapon strikes with the burning fury of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. When you reach 14th level, the extra damage increases to {@dice 2d8}."
+            ]
+        },
+        {
+            "name": "True Forge Lord",
+            "source": "BB5E",
+            "className": "Cleric",
+            "classSource": "PHB",
+            "subclassShortName": "Flame Hammer",
+            "subclassSource": "BB5E",
+            "level": 17,
+            "header": 2,
+            "entries": [
+               "At 17th level, your blessed affinity with fire and metal reaches a point of near-absolute mastery. You gain immunity to fire damage, and while wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks."
+            ]
+        },
+		{
+			"name": "Circle of the Woe Warden",
+			"source": "BB5E",
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Woe",
+			"subclassSource": "BB5E",
+			"level": 2,
+			"entries": [
+				"Druids of the Circle of Woe Wardens are nature's staunch defenders and terrible executioners. These primordial and cogent druids recognize that, while most living beings deserve a place in the natural cycle, creatures that corrupt and destroy the connate order must be purged for the benefit of the land itself. Woe wardens, as they are known, protect the creatures of the antediluvian woe forests by manipulating the essence of the very plants and trees to obliterate any that would cause them harm. Towering sprouting fields of razor keen vines or mighty walls of thick bark are at the command of the woe warden and their ever growing connection to nature itself.",
+				"All woe warden druids hold their sacred oath as the highest of honors for nature and do not think twice about the actions they must take to defend the world they hold dear.",
+				"Members of this circle become adventurers to destroy and to purge forces that threaten their lands or to seek out greater natural secrets hidden in the plants of the land. Wherever these druids go, all that dare to corrupt or destroy Therion will cower in fear for their righteous natural convictions will stop them.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Primordial Panoply|Druid|PHB|Woe|BB5E|2"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Grove of Woe|Druid|PHB|Woe|BB5E|2"
+				}
+
+			]
+		},
+		{
+			"name": "Primordial Panoply",
+			"source": "BB5E",
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Woe",
+			"subclassSource": "BB5E",
+			"level": 2,
+			"entries": [
+				"At 2nd level, you learn to arm yourself with the traditional wargear of the Forests of Woe. At the end of a long rest, you may create the following for yourself:",
+				"-One suit of Ironbark Armor, granting an Armor Class of 14 + Dexterity modifier (maximum 2) when worn. The base value of the Ironbark Armor increases by 1 at 6th, 10th, and 14th level.",
+				"-One Ironbark Shield, granting a +2 to bonus to Armor Class when worn;",
+				"-Up to two Razorkeen Weapons, taking the shape of a Halberd or any other melee weapon in the Druid weapon proficiency list.",
+				"You are considered proficient with your Primordial Panoply. Additionally, your Razorkeen Weapons count as magical, and you may use your spell attack modifier when making melee attacks with them.",
+				"The damage dice of your Razorkeen Weapons increases by one at 10th and 14th level. These additional damage dice are not multiplied on a critical hit."
+			]
+		},
+		{
+			"name": "Grove of Woe",
+			"source": "BB5E",
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Woe",
+			"subclassSource": "BB5E",
+			"level": 2,
+			"entries": [
+				"Starting at 2nd level, you learn the Woe Warden’s signature ability, becoming a living conduit for the natural cycle of life, death, and rebirth. As a bonus action, you can magically conjure a 20’ radius of violent, entangling undergrowth around yourself for one minute; the radius remains centered on you, moving as you do. ",
+				"The gnarled roots and thorny vines of the Grove of Woe cause the affected area to count as difficult terrain for enemies, including enemies not touching the ground, as the lashing tendrils grasp and inhibit them as well as they do opponents standing on solid earth. Additionally, the Grove of Woe causes one additional effect from the following list, chosen when the Grove is conjured:",
+				
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "tanglegrove",
+							"entry": "Enemies that start their turn in the affected area must make a Dexterity saving throw against your spell save DC or be Grappled until they make a successful Strength (Athletics) check against the same DC as an Action, or until the end of your next turn, whichever comes first."
+						},
+						{
+							"type": "item",
+							"name": "Thorgrove",
+							"entry": "nemies that move into the affected area take 1d4 points of magical piercing damage per square they enter. Forced movement, such as Shove attacks or the Thorn Whip cantrip, cause damage normally, in a similar manner to the Spike Growth spell."
+						},
+						{
+							"type": "item",
+							"name": "Venomgrove",
+							"entry": "Enemies that start their turn in the affected area must make a Constitution saving throw or be Poisoned until the end of your next turn."
+						}
+					]
+				},
+				
+				"Enemies that are immune to difficult terrain are immune to the other effects of the Grove of Woe. The Grove counts as a spell effect of the highest-level spell slot you possess for the purposes of dispelling, though it cannot be counterspelled.",
+				"You can conjure your Grove of Woe a number of times equal to your Wisdom modifier, regaining all expended uses after a long rest."
+			]
+		},
+		{
+			"name": "Extra Attack",
+			"source": "BB5E",
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Woe",
+			"subclassSource": "BB5E",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn, so long as those attacks are made with your Primordial Panoply."
+			]
+		},
+		{
+			"name": "Greater Grove",
+			"source": "BB5E",
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Woe",
+			"subclassSource": "BB5E",
+			"level": 10,
+			"header": 2,
+			"entries": [
+				"At 10th level, the radius of your Grove of Woe increases to 30 feet. Additionally, each of the options for your Grove’s added effect is improved as follows:",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "tanglegrove",
+							"entry": "Enemies are Restrained, instead of Grappled."
+						},
+						{
+							"type": "item",
+							"name": "Thorgrove",
+							"entry": "The damage is multiplied by your Proficiency Bonus, but no longer stacks with the Spike Growth spell."
+						},
+						{
+							"type": "item",
+							"name": "Venomgrove",
+							"entry": "Creatures that fail their saving throw are Poisoned for one minute instead."
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Steelbark & Spiterazor",
+			"source": "BB5E",
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Woe",
+			"subclassSource": "BB5E",
+			"level": 14,
+			"header": 2,
+			"entries": [
+				"At 14th level, your Razorkeen weapons count as silver, and your Ironbark Armor functions similarly to Adamantine, rendering you immune to critical hits while worn. Additionally, if a creature hit by your Razorkeen weapons is vulnerable to, or possesses a Regeneration feature that is overcome by, a particular damage type, the extra damage dice gained at 10th and 14th level count as that damage type for those purposes."
+			]
+		},
+		{
+			"name": "Oath of the Gallant Crusader",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"The Oath of Protection calls to paladins whose burning drive is to shield the weak and defend the just. For these paladins, their lives and strength are a bulwark against the forces of evil and they will do all within their power to harbor those they care about. Most do this through the monolithic strength that is imbued to them by a blessed tower shield. These defenses are akin to a moving wall and are able to stand against even the strongest of strikes and mightiest of barrages. From behind their great bastions, Oath of Protection paladins summon forth great floating spiritual chains to help them defend against foes as they take on the brunt of danger.",
+				"The tenets of the Oath of the Gallant Crusader vary by knightly order and from one paladin to another, but all tend to follow a consistent set of just principles similar to the following. These are guiding principles, not harsh strictures, and as long as the Gallant Crusader knows in their heart that they have made the best choice available to them, they can hold their head high with their honor intact.",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Evil Shall Know My Name:",
+							"entry": "A righteous warrior’s reputation as keen a blade as the one he wields. When practical, a Gallant Crusader should introduce themselves to friend and foe alike, not out of a sense of pride, but to spread fear of their name among the ranks of the wicked."
+						},
+						{
+							"type": "item",
+							"name": "Justice, in all things:",
+							"entry": "A knight’s duty is to his people, the innocent lives they have sworn to spend theirs in guardianship of, especially if they are subordinates, serfs, servants, wards, or charges in the knight’s umbrella. The life and well-being of innocents, especially those in the knights’ care, must be protected, at any personal cost."
+						},
+						{
+							"type": "item",
+							"name": "To Each their Own in the Eyes of the Law:",
+							"entry": "A chevalier gallant can expect to travel to foreign lands and interact with unfamiliar customs. The way of life of an unfamiliar people should be respected, and the law of the land obeyed, except if those ways or those laws are undeniably corrupt, unnecessarily cruel, or brutally oppressive."
+						},
+						{
+							"type": "item",
+							"name": "Mercy is for the Innocent",
+							"entry": "The honor of a knightly crusader is paramount. Enemies should expect mercy if they yield truly, and terrible wrath should they yield falsely, as righteousness does not require one to cater to craven fools."
+						},
+						{
+							"type": "item",
+							"name": "To Each their Own in the Eyes of the Law:",
+							"entry": "A chevalier gallant can expect to travel to foreign lands and interact with unfamiliar customs. The way of life of an unfamiliar people should be respected, and the law of the land obeyed, except if those ways or those laws are undeniably corrupt, unnecessarily cruel, or brutally oppressive."
+						},
+						{
+							"type": "item",
+							"name": "Inevitability of Righteousness:",
+							"entry": "Gallant crusaders are often on journeys of their own, pilgrimages or sabbaticals in search of a divine artifact or a quest of self-discovery and deepening of their faith. An honorable knight must always perform what righteous acts they are able in their journeys, but must not expect to solve every problem, in every place, at every scale; it is a crusader’s right to choose what hill to die upon, and cannot be expected to attempt an unwinnable battle unless they choose to."
+						}
+					]
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Oath Spells|Paladin|PHB|Gallant|BB5E|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": 	"Channel Divinity: Crusader’s Challenge|Paladin|PHB|Gallant|BB5E|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Channel Divinity: Blessed Arcs|Paladin|PHB|Gallant|BB5E|3"
+				}
+			]
+		}, 
+		{
+			"name": "Oath Spells",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"You gain Oath Spells at the paladin levels listed.",
+				{
+					"type": "table",
+					"caption": "Oath of the Gallant Crusader Spells",
+					"colLabels": [
+						"Paladin Level",
+						"Spells"
+					],
+					"colStyles": [
+						"col-3 text-center",
+						"col-9 text-left"
+					],					
+					"rows": [
+						[
+							"3rd",
+							"{@spell absorb elements|xge}, {@spell shield}"
+						],
+						[
+							"5th",
+							"{@spell immovable object|egw}, {@spell spirtual weapon}"
+						],
+						[
+							"9th",
+							"{@spell haste}, {@spell protection from energy}"
+						],
+						[
+							"13th",
+							"{@spell guardian of faith}, {@spell otiluke's resilient sphere}"
+						],
+						[
+							"17th",
+							"{@spell hold monster}, {@spell wall of light|xge}"
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Channel Divinity: Crusader’s Challenge",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"At 3rd level as a bonus action, you can use your Channel Divinity to present your arms and declare a righteous challenge to all who stand against you in battle. All enemies that can see you when you make your challenge must make a Wisdom saving throw. Enemies that fail have disadvantage on attack rolls against allied creatures other than you. The effects of your Crusader’s Challenge last for one minute, or until you are rendered unconscious."
+			]
+		},
+		{
+			"name": "Channel Divinity: Blessed Arcs",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"At 3rd level as a bonus action, you can use your Channel Divinity to empower your strikes and bring the full brunt of your righteous might to bear against your foes. Your attacks deal their minimum damage to all enemy creatures within your threatened area when you make the attack, and if you successfully hit a creature with an attack during this effect, it takes additional damage equal to the minimum damage roll of that attack as well. This effect includes all additional damage from spells, divine smites, weapon enchantments, or other sources. The effect of Blessed Arcs lasts for one minute, or until you are rendered unconscious."
+			]
+		},
+		{
+			"name": "Oath Proficiencies",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 3,
+			"entries": [
+				"You gain proficiency with tower shields and the {@skill Medicine} skill."
+			]
+		},
+		{
+			"name": "Aura of the Holy Bulwark",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 7,
+			"header": 2,
+			"entries": [
+				"At 7th level, your devotion to protecting your comrades-in-arms and the innocents in your care manifests as golden threads, chains, or other restraints upon your foes. You gain an aura. You may use your reaction when an enemy enters, moves through, or leaves the radius of your aura to attempt to halt them in place. Make an Athletics (Strength) or Athletics (Charisma) check to Shove the target, knocking them prone on a success and additionally reducing their speed to 0 until the start of your next turn.",
+				"The radius of your Aura of the Holy Bulward is 10 feet, increasing to 30 feet at 18th level."
+			]
+		},
+		{
+			"name": "Immovable Object",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 15,
+			"header": 2,
+			"entries": [
+				"At 15th level, your steely resolve and trained stance make you an indomitable rock on the battlefield. You can no longer be knocked prone or forced to move against your will."
+			]
+		},
+		{
+			"name": "Unstoppable Force",
+			"source": "BB5E",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "Gallant",
+			"subclassSource": "BB5E",
+			"level": 20,
+			"header": 2,
+			"entries": [
+				"At 20th level, your righteous fervor in defense of those you care about can manifest as the divine right to spite death. As an action, once per long rest, you may enter a state of divine spite for one minute. While in this state, as long as one ally or creature you consider innocent or otherwise in your care is alive that you can see or hear, you may make a Constitution saving throw when you reach zero hit points to remain conscious with one hit point instead. The DC of this Constitution saving throw starts at 10 and increases by 2 each time you attempt one."
+			]
+		},
+        {
+			"name": "Fragment of Divinity",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 1,
+			"entries": [
+
+				"Your path is one that will be heralded by the songs of ancients and gods alike. You have stumbled across a fragment of divinity and absorbed its very essence into your own being. The changes to come of such a radical choice are unknown as only one other, the god-king of humankind Zarus, has done such a feat. As you feel your power grow your own deific aura presents itself as your own guardian and champion. Those who draw too near are enraptured by your radiance and are crushed by the force of your godly being. In return for such powers, you feel your mortal mind slipping away thus making this transition to godhood a war of attrition against yourself. ",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Expanded Spell List|Warlock|PHB|Fragment|BB5E|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "A Piece of the Gods|Warlock|PHB|Fragment|BB5E|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Manifest Soul|Warlock|PHB|Fragment|BB5E|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Unarmored Defense|Warlock|PHB|Fragment|BB5E|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Imposing Splendor|Warlock|PHB|Fragment|BB5E|1"
+				}
+			]
+		},
+		{
+			"name": "Expanded Spell List",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 1,
+			"entries": [
+				"The Fragment lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+				{
+					"type": "table",
+					"caption": "Fanbase Expanded Spells",
+					"colLabels": [
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles": [
+						"col-3 text-center",
+						"col-9 text-left"
+					],
+					"rows": [
+						[
+							"1st",
+							"{@spell command}, {@spell gift of alacrity|egw}"
+						],
+						[
+							"2nd",
+							"{@spell enlarge/reduce}, {@spell enhance ability}"
+						],
+						[
+							"3rd",
+							"{@spell conjure barrage}, {@spell sending}"
+						],
+						[
+							"4th",
+							"{@spell gravity sinkhole|egw, {@spell polymorph}"
+						],
+						[
+							"5th",
+							"{@spell creation}, {@spell geas}"
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "A Piece of the Gods",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 1,
+			"entries": [
+				"You possess a Fragment of Divinity, a small object of negligible weight that you must keep on or in your person at all times; if you lose it, you lose the benefits of this patron after a number of days equal to your warlock level, though they return immediately when the Fragment is returned.",
+				"You always know the direction of the shortest path to your Fragment of Divinity."
+			]
+		},
+		{
+			"name": "Manifest Soul",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 1,
+			"entries": [
+				"Your Fragment of Divinity grants you the power to project the power of your soul, applying the force of your tiny mote of deific power to influence the world in your immediate vicinity and granting awareness of other carriers of similar fragments.",
+				"You can tell at a glance if another creature possesses a Fragment of Divinity, and can see their Manifest Soul, if they have one.",
+				"You have a Manifest Soul. Your Manifest Soul is an invisible, humanoid-shaped intangible force that you project no further than 30 feet from you at a time. Your Manifest Soul allows you to choose to originate your spells from any space within 30 feet of you, and augments your spell attacks in a unique way.",
+				"The Manifest Soul allows you to make ranged spell attacks as melee spell attacks instead, so long as the target is within 30 feet of you. If the spell deals damage, you may add your Constitution modifier to the damage rolls when casting the spell through your Manifest Soul in this way."
+			]
+		},
+		{
+			"name": "Unarmored Defense",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 1,
+			"entries": [
+				"As long as you wear no armor and do not use a shield, you can choose for your Armor Class to be 10 + your Charisma modifier + your Constitution modifier."
+			]
+		},
+		{
+			"name": "Imposing Splendor",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 1,
+			"entries": [
+				"At 1st level, as a bonus action, you can present a pose displaying the majestic splendor of your ascended figure. So long as you benefit from the unarmored defense, this pose increases your AC by 2 until you move."
+			]
+		},
+		{
+			"name": "Battle Rush",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"Beginning at 6th level, you gain the Eldritch Blast cantrip if you do not already have it. When you use the Eldritch Blast cantrip through your Manifest Soul, the spell produces one more beam than normal, as long as you are not in an area of magical silence or otherwise unable to speak  and, thus, can let out a valiant cry with every strike."
+			]
+		},
+		{
+			"name": "Physical Manifestation",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 10,
+			"header": 2,
+			"entries": [
+				"At 10th level, your Manifest Soul can take physical actions on your behalf, allowing you to make attacks with weapons, manipulate objects, shove or grapple, or any other task you could accomplish yourself, within 30 feet of you. The Manifest Soul uses your Charisma score instead of Strength for these purposes.",
+				"You are treated as carrying any objects the Manifest Soul carries for the purposes of determining whether or not you are encumbered. The Manifest Soul shares your current effective size for determining whether or not it can attempt to shove or grapple a creature.",
+				"The Manifest Soul can grant you or any other ally within 30 feet of you a fly speed of 60 feet, so long as they do not move more than 30 feet from you; activating this ability does not require an action, but no more than one creature may benefit from it per round."
+			]
+		},
+		{
+			"name": "Inspiring Awe, Powerful Menace",
+			"source": "BB5E",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Fragment",
+			"subclassSource": "BB5E",
+			"level": 14,
+			"header": 2,
+			"entries": [
+				"At 14th level, when you use your Imposing Splendor to improve your armor class, allies within 30 feet of you gain the bonus as well.",
+				"Each turn that you spend your bonus action to pose, enemies that can see you or that can see your Manifest Soul must make a Wisdom saving throw against your spell save DC or be Frightened until the start of your next turn. "
+			]
+		}
+    ]
+}
