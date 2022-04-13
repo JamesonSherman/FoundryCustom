@@ -884,5 +884,2180 @@
 				"Each turn that you spend your bonus action to pose, enemies that can see you or that can see your Manifest Soul must make a Wisdom saving throw against your spell save DC or be Frightened until the start of your next turn. "
 			]
 		}
-    ]
+    ],
+
+"itemProperty": [
+	{
+		"abbreviation": "FA",
+		"source": "BB5E",
+		"page": 2,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Firearm.",
+				"entries": [
+					"The firearm property functions as the {@b {@i Ammunition}} and {@b {@i Loading}} properties, except that you can forego one attack or use a bonus action to reload it in order to fire it again on the same turn. Reloading a firearm requires two hands unless otherwise specified.",
+					"Any blacksmith could conceivably build, alter, or repair a firearm if given the designs or a specimen to copy."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "SP",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Spread.",
+				"entries": [
+					"When attacking a target within half this weapon's normal range, roll an additional damage die and add it to the weapon's damage. When fired at long range, you may apply the attack roll to an additional creature within 5 feet of the target. Roll damage against the secondary target separately."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "GB",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Gun Blade",
+				"entries": [
+					"As an action or bonus action you may attack a creature with the weapons secondary attack, usually a bayonet or saw, as if it were a standard melee weapon."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "DWRF",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Dwarven",
+				"entries": [
+					"Weapons with this property require a creature to have a dwarven racial specific trait or take the Dwarven Weapon Training feat to use."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "GITH",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Gith",
+				"entries": [
+					"Weapons with this property require a creature to be of race: Gith or take the Gith Weapon Training feat to use."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "KK",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Kenku",
+				"entries": [
+					"Weapons with this property require a creature to be of race: Kenku or take the Kenku Weapon Training feat to use."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "EX",
+		"source": "EW-BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Exotic",
+				"entries": [
+					"No characters are proficient with exotic weapons by default. To become proficient with an exotic weapon, a character must be trained in the use of that specific weapon."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "DBL",
+		"source": "EW-BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Double",
+				"entries": [
+					"When you take the Attack action and attack with a double weapon that you're holding, you can use a bonus action to attack again with the other part of the weapon. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "IC",
+		"source": "EW-BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Improved Critical",
+				"entries": [
+					"When you score a critical hit with a weapon attack using this weapon, roll the weapon dice three times instead of twice."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "HAND",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Handy",
+				"entries": [
+					"You have advantage on attack rolls against a creature you are grappling, as well as against creatures that are grappling you."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "SVG",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Savage",
+				"entries": [
+					" Savage weapons combine speed, weight and penetration, enabling them to deal decisive blows in combat. When you roll a 19 on an attack roll, roll an additional d6. If you roll the number given in parentheses next to the weapon, or higher, you score a critical hit. If the weapon has the versatile property reduce the number in the parentheses by 1, when it is wielded in two hands. If there is no number in parentheses, no need to roll a d6, a 19 is an automatic critical hit."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "SW",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Shield Wrap",
+				"entries": [
+					"You gain a +1 to attack rolls against opponents wielding a shield."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "PRY",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Parry",
+				"entries": [
+					"When you are wielding a weapon with the parry property and a creature you can see hits you with a melee attack, you can use your reaction to add 1 to your AC for that attack, potentially causing the attack to miss you. You must have a Dexterity score of 13 or higher to take advantage of this feature, which can be used in conjunction with the Defensive Duelist feat."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "RP",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Riposte",
+				"entries": [
+					"The speed of this weapon allows you to turn defence into attack. Whenever using the parry property of your weapon causes an attack to miss you, as part of the same reaction you make make a retaliatory melee attack, using your Dexterity modifier for the attack and damage rolls."
+				]
+			}
+		]
+	},
+	{
+		"abbreviation": "BLD",
+		"source": "BB5E",
+		"page": 0,
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Bleed",
+				"entries": [
+					"Bleeding creatures must make a Consitution save vs DC 13 at the end of their turns, or take 1d6 non-mitigatable damage. Beating DC 18 ends this condition. Multiple instances of bleeding stack (max 3). ",
+					"A DC 13 Wisdom (Medicine) check or magical healing will stop the bleeding."
+				]
+			}
+		]
+	}
+	
+],
+"item": [
+	{
+        "name": "Bastard Sword",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "Martial",
+        "rarity": "none",
+        "value": 3500,
+        "weight": 6,
+        "dmg1": "2d4",
+        "dmg2": "2d6",
+        "dmgType": "S",
+        "property": [
+            "H",
+            "V"
+        ],
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "This weapon requires 15 strength to weild.",
+					"Powerful: When you roll a 19 on an attack roll, roll an additional {@dice 1d6}. If the result is higher than a 3 you score a critical hit with this weapon. "
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Bladed Gauntlet",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "exotic",
+        "rarity": "none",
+        "value": 3000,
+        "weight": 4,
+        "dmg1": "1d6",
+        "dmgType": "S",
+        "property": [
+            "L",
+            "F",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "This weapon does not require a free hand.",
+					"This weapon may be used as a monk weapon.",
+					"Bleeding Fist: Once per turn you may take 1d6 non-mitigatable slashing damage to increase this weapons damage dice to {@dice 2d6} for one attack."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Bolas",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 500,
+        "weight": 2,
+        "dmg1": "1d4",
+        "dmgType": "B",
+        "property": [
+            "EX",
+            "L",
+            "S"
+        ],
+        "range": "10/40",
+        "source": "EW-BB5E",
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Wrap: A Medium or smaller creature hit by a bolas must succeed a DC 10 Strength saving throw or become {@condition restrained} until it is freed. A bolas has no effect on creatures that are formless, or creatures that are Large or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the bolas (AC 12) also frees the creature without harming it, ending the effect and destroying the bolas. When you use an action, bonus action, or reaction to attack with a bolas, you can make only one attack regardless of the number of attacks you can normally make."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Butterfly Sword",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 1000,
+        "weight": 2,
+        "dmg1": "1d6",
+        "dmgType": "S",
+        "property": [
+            "EX",
+            "L",
+            "F",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "This weapon can be used as a monk weapon.",
+                    "A monk using deflect missiles while wielding this weapon may roll {@dice 2d6} instead of {@dice 1d10} to determine the amount of damage reduced."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Chain-and-dagger",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 400,
+        "weight": 4,
+        "dmg1": "1d8",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "R",
+            "2H"
+        ],
+        "source": "EW-BB5E",
+        "entries": [
+            "This weapon can be used as a monk weapon.",
+			"Dagger Wall: If you are weilding this weapon and successfully reduce damage to zero using deflect missile, you may make a free attack action immediately after calculating the result of deflect missle. "
+        ]
+    },
+    {
+        "name": "Chakram",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 1500,
+        "weight": 2,
+        "dmg1": "1d4",
+        "dmgType": "S",
+        "property": [
+            "EX",
+            "L",
+            "T",
+            "IC"
+        ],
+        "range": "30/120",
+        "source": "EW-BB5E",
+        "entries": [
+			"This weapon can be used as a monk weapon.",
+			"Mighty Critical: this weapon crits on a 19-20."  ,
+			"This weapon inflicts one stack of bleeding on a successful attack",   
+			"Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+			"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+
+
+        ]
+    },
+    {
+        "name": "Claw Bracer",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 3000,
+        "weight": 2,
+        "dmg1": "1d4",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "L",
+            "F",
+            "S"
+        ],
+        "source": "EW-BB5E",
+
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"This weapon can be used as a monk weapon.",
+                    "double threat: If you successfully attack with this weapon you may roll the damage roll twice. If the attack is a critical you may roll damage four times."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dire Double Flail",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 9000,
+        "weight": 30,
+        "dmg1": "3d6",
+        "dmgType": "B",
+        "property": [
+            "H",
+            "2H",
+            "DBL",
+            "SW",
+            "R"
+        ],
+        "source": "EW-BB5E",
+
+
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"this weapon requires a minimum of 18 strength to wield.",
+					"Double: When you take the Attack action and attack with a double weapon that you're holding, you can use a bonus action to attack again with the other part of the weapon. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative."
+
+
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Double Scimitar",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 12500,
+        "weight": 15,
+        "dmg1": "1d6",
+        "dmgType": "S",
+        "property": [
+            "EX",
+            "2H",
+            "DBL"
+        ],
+        "source": "EW-BB5E",		
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"this weapon requires a minimum of 18 dexterity to wield.",
+					"Double: When you take the Attack action and attack with a double weapon that you're holding, you can use a bonus action to attack again with the other part of the weapon. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dwarven Urgrosh",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 5000,
+        "weight": 12,
+        "dmg1": "1d6",
+		"dmg2": "1d8",
+        "dmgType": "S",
+        "property": [
+            "H",
+            "2H",
+            "DBL",
+            "DWRF"
+
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
+					"Flexible damage: This weapon is both a hammer and an axe. You may choose to strike with eaither end. The axe deals {@dice 1d6} slashing damage and the hammer deals {@dice 1d8} bludgeoning."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dwarven Waraxe",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 3000,
+        "weight": 8,
+        "dmg1": "1d10",
+        "dmgType": "S",
+        "property": [
+            "DWRF",
+            "HAND"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
+					"Mighty Critical: this weapon crits on a 19-20."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Elven Double Bow",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 100000,
+        "weight": 3,
+        "dmg1": "1d8/1d8",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "A",
+            "2H",
+            "DBL"
+        ],
+        "range": "90/360",
+        "source": "EW-BB5E",
+        "ammoType": "arrow|phb",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"this weapon may only be wielded by elves or those with training in elven weaponry.",
+                    "Double Shot: You may fire two arrows from this bow when you make an attack. When you make an attack action you may make two seperate attacks with the secondary attack having disadvantage."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fukimi-bari (mouth darts)",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 100,
+        "weight": 0.1,
+        "dmg1": "1",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "You have advantage on Deterity (Stealth) checks made to conceal this weapon.",
+                    "Deadly Breath: When you make an attack with this weapon, you may fire three darts instead of one. Make a separate attack roll with each dart."
+                ]
+            }
+        ],
+        "range": "5/20",
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Fullblade",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 10000,
+        "weight": 120,
+        "dmg1": "2d8",
+        "dmgType": "S",
+        "property": [
+            "H",
+            "2H",
+            "SVG"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "This weapon requires 20 Strength to wield.",
+					"Power Critical: When you score a critical hit with the Fullblade you may double your Strength damage modifier, as well as the damage dice."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gnome Battlepick",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 1000,
+        "weight": 5,
+        "dmg1": "1d6",
+        "dmgType": "P",
+        "property": [
+            "L",
+            "F",
+            "IC"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "This weapon may only be wielded by a halfling or gnome or those with training in wimmelbilder weaponry.",
+					"Mighty Bloody Critical: this weapon crits on a 19-20. On a successful critical hit, the target gains 2 bleed stacks.",
+					"Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+					"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+
+
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gnome Calculus",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 5000,
+        "weight": 2,
+        "dmg1": "Special",
+        "property": [
+            "A",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"This weapon may only be wielded by a halfling or gnome or those with training in wimmelbilder weaponry.",
+                    "Launcher: This weapon can be used to launch flasks or bottles of liquid."
+                ]
+            }
+        ],
+        "range": "50/200",
+        "source": "EW-BB5E"
+    },
+	{
+        "name": "Gnome Hooked Hammer",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 2000,
+        "weight": 6,
+        "dmg1": "1d8",
+        "dmgType": "P",
+        "property": [
+            "2H",
+            "DBL"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"This weapon may only be wielded by a halfling or gnome or those with training in wimmelbilder weaponry.",
+                    "Trip: If this weapon successfully lands an attack, the creature must make a DC 13 (acrobatics) check or be knocked prone."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Great Crossbow",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 10000,
+        "weight": 22,
+        "dmg1": "1d12",
+        "dmgType": "P",
+        "property": [
+            "A",
+            "H",
+            "LD",
+            "2H"
+        ],
+        "range": "100/400",
+        "source": "EW-BB5E",
+        "ammoType": "crossbow bolt|phb",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"You must have 16 strength and 15 dexterity to wield this weapon",
+                    "Power Blow: Creatures successfully damaged by this weapon are knocked prone and are move five feet away from you."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gyrspike",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 9000,
+        "weight": 20,
+        "dmg1": "1d8",
+        "dmgType": "B",
+        "property": [
+            "DBL",
+            "PRY",
+            "RP"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"This weapon may only be wielded by a halfling or gnome or those with training in wimmelbilder weaponry.",
+                    "OW My Head: If you land a critical hit with this weapon the creature is stunned until they are able to roll a DC 10 (constitution) saving throw."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Halfling Skiprock",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 300,
+        "weight": 0.25,
+        "dmg1": "1d4",
+        "dmgType": "B",
+        "property": [
+            "L",
+            "T",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"This weapon may only be wielded by a halfling or gnome or those with training in wimmelbilder weaponry.",
+                    "Rocky: If you hit a target with this weapon, you may choose to make an attack against another target within 5 feet of the first. The attack roll has disadvantage and deals the mimimum damage for the dice rolled."
+                ]
+            }
+        ],
+        "range": "10/40",
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Harpoon Gun",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 1500,
+        "weight": 10,
+        "dmg1": "1d10",
+        "dmgType": "P",
+        "property": [
+            "2H",
+            "LD",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Yar she blows: If you hit a creature that is Large or smaller with this weapon, you can pull the creature up to 10 feet closer to you."
+                ]
+            }
+        ],
+        "range": "30/120",
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Kama",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 200,
+        "weight": 2,
+        "dmg1": "1d6",
+        "dmgType": "S",
+        "property": [
+            "EX",
+            "L",
+            "F",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "This weapon can be used as a monk weapon.",
+                    "Ankle Slice: When you attempt to knock a target prone while holding this weapon, you have advantage on the action."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Khopesh",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 2000,
+        "weight": 12,
+        "dmg1": "1d8",
+        "dmgType": "S",
+        "property": [
+            "EX",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"On a successful critical hit, this weapon inflicts 3 bleed stacks.",
+				    "Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+					"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Mantis hook",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 1500,
+        "weight": 9,
+        "dmg1": "1d8",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "2H",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Mantis Claw:The first opportuity attack you make with this weapon each round does not use your reaction."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Mercurial Greatsword",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 1000,
+        "weight": 1,
+        "dmg1": "2d6",
+        "dmgType": "I",
+        "property": [
+            "EX",
+            "H",
+            "2H",
+            "IC"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Liquid Form: This weapon is concealed in a tiny flask with a long neck to use as a handle. Upon opening the top of the flask a great mercurial blade errupts forth. You gain advanatge on checks to conceal this weapon in its unopened form",
+					"Poison: This weapon innately deals poison damage."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mercurial Longsword",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 40000,
+        "weight": 6,
+        "dmg1": "1d8",
+        "dmg2": "1d10",
+        "dmgType": "I",
+        "property": [
+            "EX",
+            "H",
+            "V",
+            "IC"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"Liquid Form: This weapon is concealed in a tiny flask with a long neck to use as a handle. Upon opening the top of the flask a great mercurial blade errupts forth. You gain advanatge on checks to conceal this weapon in its unopened form",
+					"Poison: This weapon innately deals poison damage."
+
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Orc Double Axe",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 6000,
+        "weight": 15,
+        "dmg1": "1d8",
+        "dmgType": "S",
+        "property": [
+            "EX",
+            "H",
+            "2H",
+            "DBL"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"Double: When you take the Attack action and attack with a double weapon that you're holding, you can use a bonus action to attack again with the other part of the weapon. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Orc Shotput",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 100,
+        "weight": 55,
+        "dmg1": "5d4",
+        "dmgType": "B",
+        "property": [
+            "EX",
+            "H",
+            "T",
+            "2H"
+        ],
+        "range": "10/40",
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"Slave Taking: If you successfully attack with this weapon, the create takes {@dice 5d4} bludgeoning damage and gains the {@condition restrained} condition. A DC 18 (strength) check can remove the device.",
+					"It is a full round action to successfully repack the OOrc Shotput before it may be used again."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Panther Claw",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 7500,
+        "weight": 3,
+        "dmg1": "1d4",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "L",
+            "F",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Clawed Hand: When you attempt to disarm a target with an attack while holding this weapon, you have advantage on the attack."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Repeating Heavy Crossbow",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 4000,
+        "weight": 12,
+        "dmg1": "1d10",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "A",
+            "H",
+            "RLD",
+            "2H"
+        ],
+        "range": "120/480",
+        "reload": 5,
+        "source": "EW-BB5E",
+        "ammoType": "crossbow bolt|phb",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Repeat Load: It is a free action to reload this crossbow"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Repeating Light Crossbow",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 2500,
+        "weight": 6,
+        "dmg1": "1d8",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "A",
+            "RLD",
+            "2H"
+        ],
+        "range": "80/320",
+        "reload": 5,
+        "source": "EW-BB5E",
+        "ammoType": "crossbow bolt|phb",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+					"Repeat Load: It is a free action to reload this crossbow"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sapara",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 1500,
+        "weight": 6,
+        "dmg1": "1d6",
+        "dmgType": "S",
+        "property": [
+            "EX",
+            "L",
+            "F"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Hooked: When you attempt to trip a target with an attack while holding this weapon, you have advantage on the attack."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Shuriken",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 100,
+        "weight": 0.5,
+        "dmg1": "1d2",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "A",
+            "F",
+            "T"
+        ],
+        "range": "10/40",
+        "source": "EW-BB5E",
+	"entries": [
+		{
+			"type": "entries",
+			"name": "Special",
+			"entries": [
+				"Upon landing a successful attack this weapon inflicts 1 bleed stack.",
+				"Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+				"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+		
+			]
+		}
+	]
+    },
+    {
+        "name": "Spiked Chain",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 2500,
+        "weight": 10,
+        "dmg1": "2d4",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "H",
+            "2H"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+			{
+				"type": "entries",
+				"name": "Special",
+				"entries": [
+					"Upon landing a successful attack this weapon inflicts 1 bleed stack.",
+					"Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+					"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+			
+				]
+			}
+		]
+	
+    },
+    {
+        "name": "Spinning Javelin",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 200,
+        "weight": 2,
+        "dmg1": "1d8",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "T",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Air Whif: You may use half your movement to wrap a spinning javelin with string and tie the string to your finger.",
+                    "If you use a spinning javelin without wrapping the javelin with string and tying it to your finger, treat it as a normal {@item javelin|phb}.",
+					"While wielding the spinning javelin, any attack directed at you involving a projectile has -2 to hit.",
+                    "This weapon deals {@dice 1d8} piercing damage when used for a melee attack."
+                ]
+            }
+        ],
+        "range": "30/120",
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Spring-loaded Gauntlet",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 20000,
+        "weight": 4,
+        "dmg1": "1d4",
+        "dmgType": "B",
+        "property": [
+            "EX",
+            "L",
+            "LD"
+        ],
+        "range": "10/15",
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Extendo fist: as an action you can make a ranged attack (up to 15 feet) with this weapon. "
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stump Knife",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 800,
+        "weight": 2,
+        "dmg1": "1d4",
+        "dmgType": "P",
+        "property": [
+            "EX",
+            "L",
+            "F",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "last line of defense: A stump knife can only be equipped to an arm which has had its hand amputated.",
+                    "A stump knife cannot be disarmed."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Three-section-staff",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 400,
+        "weight": 8,
+        "dmg1": "1d8",
+        "dmgType": "B",
+        "property": [
+            "EX",
+            "L",
+            "F",
+            "2H",
+            "IC"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "breakdown: you have advantage on concealing this weapon"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Two-ball Bolas",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 500,
+        "weight": 2,
+        "dmg1": "1d4",
+        "dmgType": "B",
+        "property": [
+            "EX",
+            "T",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "A Medium or smaller creature hit by a two-ball bolas must succeed a DC 13 Dexterity saving throw or be knocked {@condition prone} until it is freed. A two-ball bolas has no effect on creatures that are formless, or creatures that are Large or larger. When you use an action, bonus action, or reaction to attack with a bolas, you can make only one attack regardless of the number of attacks you can normally make."
+                ]
+            }
+        ],
+        "range": "10/40",
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Two-bladed Sword",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 10000,
+        "weight": 10,
+        "dmg1": "1d6",
+        "dmgType": "S",
+        "property": [
+            "H",
+            "2H",
+            "DBL"
+        ],
+        "source": "EW-BB5E",
+		"entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                   "arcing slash: When you make a melee weapon attack with an Two bladed sword, you may choose to target two creatures within your reach with a single attack. This attack uses the same attack roll for both targets and deals slashing damage equal to 1d6 plus your Strength modifier to each target."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ward Cestus",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "rarity": "none",
+        "value": 1000,
+        "weight": 4,
+        "dmg1": "Special",
+        "property": [
+            "EX",
+            "S"
+        ],
+        "entries": [
+            {
+                "type": "entries",
+                "name": "Special",
+                "entries": [
+                    "Attacks with this weapon are considered unarmed strikes.",
+                    "Powerful punch: When you make an unarmed strike while holding this weapon, add double your Strength modifier to the damage roll."
+                ]
+            }
+        ],
+        "source": "EW-BB5E"
+    },
+    {
+        "name": "Giant Slaying Sword",
+        "type": "M",
+        "weaponCategory": "martial",
+        "weight": 250,
+        "dmg1": "2d8",
+        "dmgType": "S",
+        "property": [
+            "2H"
+        ],
+        "rarity": "Common",
+        "value": 68000,
+        "source": "BB5E",
+        "entries": [
+            "It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, this weapons is a heap of sharpened raw iron. This weapon requires 20 Strength to wield and deals {@dice 2d8} damage when wielded.",
+            "Rend: If you succesfully land an attack with this weapon you may continue to make subsequent attacks against creatures adjacent to you. Every creature you attack after the first gains a -5 penalty to the attack roll."
+        ]
+    },
+    {
+        "name": "Small Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "F",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} fire damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+    {
+        "name": "Small Ice Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "C",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} cold damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+    {
+        "name": "Small Thunder Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "T",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} thunder damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+    {
+        "name": "Small Acid Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "A",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} acid damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+    {
+        "name": "Small Force Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "O",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} force damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+	{
+        "name": "Small Percing Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "O",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} piercing damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+	{
+        "name": "Small Necrotic Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "N",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} necrotic damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+	{
+        "name": "Small Radiant Explosive",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "simple",
+        "weight": 2,
+        "dmg1": "3d6",
+        "dmgType": "O",
+        "property": [
+            "A"
+        ],
+        "range": "60/60",
+        "rarity": "Common",
+        "source": "BB5E",
+        "value": 8000,
+        "entries": [
+            "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} radiant damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
+        ]
+    },
+    {
+        "name": "Round Buckler",
+        "type": "S",
+        "weight": 3,
+        "ac": 1,
+        "rarity": "none",
+        "value": 200,
+        "source": "BB5E",
+        "entries": [
+            "This small metal shield is held by a simple handle for ease of maneuvering. It increases your Armor Class by 1 (replacing the shield's normal bonus to AC) and you are proficient in its use if you are proficient with light armor. It also weighs half as much as a regular shield and can be donned or doffed without using an action."
+        ]
+    },
+    {
+        "name": "Dwarven Eagle Axe",
+        "weapon": true,
+        "type": "M",
+        "weight": 30,
+        "dmg1": "1d10",
+        "dmg2": "1d12",
+        "dmgType": "S",
+        "property": [
+            "V",
+            "DWRF"
+        ],
+        "rarity": "uncommon",
+        "value": 20000,
+        "source": "BB5E",
+        "entries": [
+            "This mighty silver and gem-bladed weapon deals {@dice 1d10} slashing damage when wielded one handed and {@dice 1d12} slashing damage when wielded with two hands.",
+			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
+            "Eagle Cleave: When you take the Attack action while wielding a Dwarven Eagle Axe, you may make one additional attack as a bonus action, using the “opposite” head of the axe. You do not add your Strength modifier to the damage of this attack unless you have the Two-Weapon Fighting fighting style."
+        ]
+    },
+    {
+        "name": "Dwarven Titan Hammer",
+        "weapon": true,
+        "type": "M",
+        "weight": 40,
+        "dmg1": "1d12",
+        "dmgType": "B",
+        "property": [
+            "2H",
+            "DWRF"
+        ],
+        "rarity": "uncommon",
+        "value": 20000,
+        "source": "BB5E",
+        "entries": [
+            "This power hammer shaped like a might titan deals {@dice 1d12} damage when wielded.",
+			"This weapon inflicts one stack of bleeding on a successful attack",
+			"Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+			"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+
+        ]
+    },
+    {
+        "name": "Dwarven Thorned Spear",
+        "weapon": true,
+        "type": "M",
+        "weight": 22,
+        "dmg1": "1d6",
+        "dmgType": "B",
+        "property": [
+            "R",
+            "DWRF"
+        ],
+        "rarity": "uncommon",
+        "value": 10000,
+        "source": "BB5E",
+        "entries": [
+            "This jagged heavy spear deals {@dice 1d6} damage",
+			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
+            "When you successfuly damage a living creature with this weapon on your turn, if they attempt to move away from your threatened range on their turn they take 1d6 piercing damage "
+        ]
+    },
+    {
+        "name": "Dwarven Sharp Throwing Hammer",
+        "weapon": true,
+        "type": "M",
+        "weaponCategory": "simple",
+        "weight": 3,
+        "dmg1": "1d6",
+        "dmgType": "S",
+        "property": [
+            "F",
+            "L",
+            "T",
+            "DWRF"
+        ],
+        "range": "20/60",
+        "rarity": "common",
+        "value": 400,
+        "source": "BB5E",
+        "entries": [
+			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
+            "This heavy small hammer, while commonly used for construction, makes for a great improvised throwing weapon. This weapon deals {@dice 1d6} slashing damage."
+        ]
+    },
+    {
+        "name": "Katana",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "weight": 3,
+        "dmg1": "1d8",
+        "dmg2": "1d10",
+        "dmgType": "S",
+        "property": [
+            "V",
+            "F"
+        ],
+        "rarity": "uncommon",
+        "value": 65000,
+        "source": "BB5E",
+        "entries": [
+            "This gently curved sword allows a properly trained wielder to make blindingly quick strikes.This weapon has the finesse property and deals {@dice 1d8} damage while wielded one handed and {@dice 1d10} while weilded in two hands.",
+            "blade master: At the start of combat, you gain advantage on your first attack with this weapon."
+        ]
+    },
+    {
+        "name": "Ritual Scythe",
+        "weapon": true,
+        "type": "M",
+        "weight": 11,
+        "dmg1": "1d8",
+        "dmgType": "S",
+        "property": [
+            "R",
+            "2H"	
+        ],
+        "rarity": "Common",
+        "value": 3000,
+        "source": "BB5E",
+        "entries": [
+            "This common farming tool is a common weapon used by cultists and those who worship death. The Ritual Scythe deals {@dice 1d8} damage",
+            "Drained Blade: Every time you kill a creature with the ritual scythe, your next successful attack deals an additional 1d8 necrotic damage."
+        ]
+    },
+    {
+        "name": "Gith Mind Blade",
+        "weapon": true,
+        "type": "M",
+        "weight": 1,
+        "dmg1": "1d4",
+        "dmg2": "1d6",
+        "dmgType": "Y",
+        "property": [
+            "V"	,
+            "GITH",
+			"SCF"
+        ],
+        "rarity": "Uncommon",
+        "value": 60000,
+        "source": "BB5E",
+        "entries": [
+			"this weapon may only be wielded by Gith or those with training in Korasiam weaponry.",
+            "This verstatile blade actually uses mental energy to create a sharp plasma based blade. THe Gith Mind blade deals {@dice 1d4} damage one handed and {@dice 1d6} two handed",
+            "This weapon can be used as an arcane focus for the purposes of casting spells.",
+			"Spells dealing psychic damage deal an additional damage die."
+        ]
+    },
+    {
+        "name": "Gith Mind Whip",
+        "weapon": true,
+        "type": "M",
+        "weight": 11,
+        "dmg1": "1d6",
+        "dmgType": "Y",
+        "property": [
+            "V",
+            "R",
+            "GITH",
+			"SCF"
+        ],
+        "rarity": "Uncommon",
+        "value": 50000,
+        "source": "BB5E",
+        "entries": [
+			"this weapon may only be wielded by Gith or those with training in Korasiam weaponry.",
+            "This peculiar verstatile whip uses mental energy to create a sharp plasma based blade. THe Gith Mind Whip deals {@dice 1d4} damage one handed and {@dice 1d6} two handed",
+			"This weapon can be used as an arcane focus for the purposes of casting spells.",
+			"Spells dealing psychic damage deal an additional damage die."
+        ]
+    },
+    {
+        "name": "Tower Shield",
+        "type": "S",
+        "weight": 12,
+        "ac": 3,
+        "stealth": true,
+        "rarity": "uncommon",
+        "value": 25000,
+        "source": "BB6E",
+        "entries": [
+            "This thick, unwieldy shield is large enough to cover you from ankle to shoulder. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor. It weighs twice as much as a regular shield."
+            ," Shield Wall: As a action you may angle your shield become a haven against arrows. Your speed is reduced to zero and you gain +10 to your ac against ranged melee attacks."
+        ]
+    },
+    {
+        "name": "Dwarven Tower Shield",
+        "type": "S",
+        "weight": 100,
+        "ac": 3,
+        "stealth": true,
+        "rarity": "Rare",
+        "value": 300000,
+        "source": "BB5E",
+        "entries": [
+            "This inhuman stone slab is enchanted with countless runes and is ordained with jewels and precious metals. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor.",
+            "Mountain Wall: As an action you may slam your shield into the ground and 'lock down'. While in this stance the shield acts as a 5 ft. full cover wall (200 HP. 22 AC) and is resistant to all damage types. It takes an action to lift your shield out of the ground."
+        
+        ]
+    },
+    {
+        "name": "Cog Revolver",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 20000,
+        "weight": 3,
+        "range": "50/150",
+        "dmg1": "1d8",
+        "dmgType": "P",
+        "reload": 4,
+        "property": [
+            "FA",
+            "A",
+            "L"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+                                "The most common and yet most deadly firearm, cog revolvers are staples of most modern armies.Cog revolvers use cartridge ammunition and do {@dice 1d8} piercing damage.",
+								"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
+								"Highnoon: As an action you may speed fire all the ammunition in the revolver. You may make separate attacks at creatures within range at disadvantage for every round fired. It takes half the rounds fired (rounded down) for the gun to cool down so it may be reloaded."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Boomstick",
+        
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 25000,
+        "weight": 3,
+        "range": "10/15",
+        "dmg1": "4d4",
+        "dmgType": "P",
+        "reload": 2,
+        "property": [
+            "FA",
+            "A",
+            "LD",
+            "SP",
+			"2H"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+                                "The short range but powerful boomstick is a common weapon of riflemen as it is able to unleash close range destruction. The boomstick does {@dice 4d4} piercing damage and consume two ammunition per shot.",
+                                "breakaction: As a bonus acction you may reload all ammunition in this weapon."								
+							]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Steam Rifle",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 35000,
+        "weight": 3,
+        "range": "60/120",
+        "dmg1": "3d6",
+        "dmgType": "P",
+        "reload": 1,
+        "property": [
+            "FA",
+            "A",
+            "LD"				
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+                                "A powerful long range weapon able to send destruction down range, steam rifles are common place amongst scouts. Steam rifles deal {@dice 3d6} piercing damage and use cartridge ammunition. It takes an action to reload the steam rifle",
+								"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
+								"Steady Shot: As an action you may crouch to steady your aim. Your movement speed is reduced to zero and you are treated as prone.  While in this state you gain an additonal +5 to all attack rolls made with the steam rifle. It is an action to stand up."								
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Harmonica Rifle",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 45000,
+        "weight": 3,
+        "range": "60/150",
+        "dmg1": "2d4",
+        "dmgType": "P",
+        "reload": 6,
+        "property": [
+            "FA",
+            "A",
+            "LD"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+                                "This peculiar weapon uses a harmonica like magazine to pass bullets into into the chamber.",
+                                "Quick Load: It is a Bonus action to reload this weapon with a premade harmonica clip."
+
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+	{
+        "name": "Pepperbox",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 10000,
+        "weight": 3,
+        "range": "10/60",
+        "dmg1": "1d4",
+        "dmgType": "P",
+        "reload": 3,
+        "property": [
+            "FA",
+            "A",
+            "L"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+								"This strange four barreled box loads four shells at a time to be used. Inaccurate but wildly effective against multiple targets clumped together.",
+                               "Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. "
+
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+	{
+        "name": "Arquebus",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 35000,
+        "weight": 3,
+        "range": "50/150",
+        "dmg1": "5d4",
+        "dmgType": "P",
+        "reload": 1,
+        "property": [
+            "FA",
+            "A",
+			"H"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+								"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
+								"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
+								"Firing Platform: as a bonus action you may stand the base of the arquebus into the ground. Your movement speed becomes zero and any attacks with the arquebus have advantage. It is a free action to abandon the arqebus and a full round action to restock the stand."
+
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+	{
+        "name": "Dragoon Revolver",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 25000,
+        "weight": 3,
+        "range": "60/150",
+        "dmg1": "1d8",
+		"dmg2": "1d4",
+        "dmgType": "B",
+        "reload": 4,
+        "property": [
+            "FA",
+            "A",
+            "LD",
+			"L"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+                                "A tried and true firearm from the United Empires to the West, the Dragoon is a testament to engineering as it is capable of being used in any weather or battle condition. The dragoon deals {@dice 1d8} bludgeoning damage.",
+								"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
+								"Scatter: Firearms with the scatter property have two types of damage, a regular damage roll and a scatter damage roll. When you make an attack roll with one of these guns against a creature, compare your attack roll to the AC of all creatures within 5 feet of the target. If your attack would hit them, deal the firearm's scatter damage roll to the creatures. You do not add your ability score modifier to the damage of this attack, unless that modifier is negative."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+	{
+        "name": "Flame Thrower",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 35000,
+        "weight": 3,
+        "range": "20/30",
+        "dmg1": "3d4",
+        "dmgType": "F",
+        "reload": 6,
+        "property": [
+            "A",
+			"2H",
+			"H"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+								"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
+								"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
+								"This item requires a special backpack item called a 'Fuel Tank' to be used. It is a full round action to attach a fuel tank to the flamethrower. Fuel Tanks carry 50 units of ammunition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+	{
+        "name": "Burst Rifle",
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 35000,
+        "weight": 3,
+        "range": "20/80",
+        "dmg1": "3d4",
+		"dmg2": "2d4",
+        "dmgType": "P",
+        "reload": 6,
+        "property": [
+            "FA",
+            "A",
+            "LD"
+        ],
+        "source": "BB5E",
+        "fluff": {
+            "entries": [
+                {
+                    "type": "entries",
+                    "entries": [
+                        {
+                            "type": "entries",
+                            "entries": [
+                                "Magazine Load: It is an action to reload this weapon with a premade Rifle clip.",
+                                "Burst Fire: Burst fire firearms are able to make a special attack that releases a stream of multiple bullets. As an action, you can force up to 3 creatures of your choice in a 15-foot square centered on a point within your gun's maximum range to make a Dexterity saving throw, taking your gun's burst fire damage on a failed save, and half that damage on a success. This action subtracts rounds from your gun equal to the number of creatures affected, to a maximum of 3.",
+								"Additionally, guns with the burst fire property always expend 3 rounds per attack.",
+								"Burst Fire Save DC (Not Proficienct) = 12",
+								"Burst Fire Save DC (Proficient) = 8 + Dexterity + Profiicency Bonus"
+
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Crow Quill",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "weight": 3,
+        "dmg1": "1d4",
+        "dmgType": "S",
+        "property": [
+            "V",
+            "F",
+            "BLD",
+            "KK"
+        ],
+        "rarity": "uncommon",
+        "value": 150,
+        "source": "BB5E",
+        "entries": [
+            "This strange combination of chained throwing knives and rope daggers seems to be obtuse to use but in the hands of a deadly kenku can have serious side effects for ones health.",
+			"this weapon may only be wielded by Kenku or those with training in Goldwing Rookery weaponry.",
+			"This weapon inflicts two stacks of bleeding on a successful attack",   
+			"Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+			"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+
+        ]
+    },
+    {
+        "name": "Talon Hook",
+        "type": "M",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "weight": 3,
+        "dmg1": "1d4",
+        "dmgType": "O",
+        "property": [
+            "R",
+            "2H",
+            "BLD",
+            "KK"
+        ],
+        "rarity": "uncommon",
+        "value": 150,
+        "source": "BB5E",
+        "entries": [
+            "This strange club contains a hollowed interior able to produce astonisingly powerful wind gusts. Those hit by it have their skin rended open.",
+			"this weapon may only be wielded by Kenku or those with training in Goldwing Rookery weaponry.",
+			"This weapon inflicts two stacks of bleeding on a successful attack",   
+			"Bleeding: creatures that gain a stack of bleeding take 1d6 non-mitigatable slashing damage on the start of their turn. Beating DC 18 ends this condition. A DC 16 Wisdom (Medicine) check or magical healing will stop the bleeding.",
+			"a creature can accrue multiple stacks of bleeding (max 6). Each time a stack is accrued the damage at the start of their turn is increased by one damage dice to a maximum of (6d6)."
+        ]
+    },
+    {
+        "name": "Stone Armor",
+        "source": "BB5E",
+        "type": "HA",
+        "rarity": "none",
+        "weight": 100,
+        "value": 3000,
+        "ac": 16,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "This finely crafted dwarven masterpiece is the peak of protection. If an attack were to be a critical hit against you, you take non-critical damage. This effect can only happens once per round of combat."
+        ]
+    },
+    {
+        "name": "Hunter's Armor",
+        "source": "BB5E",
+        "type": "HA",
+        "rarity": "none",
+        "weight": 45,
+        "value": 10000,
+        "ac": 16,
+        "armor": true,
+        "stealth": true,
+        "strength": "13",
+        "entries": [
+            "Designed for Huntsmen going into combat, Hunter's Armor is able to absorb blows better than any other material. Once per day you can choose to negate all bludgeoning, piercing, and slashing damage taken during a turn. This ability must be used before a damage roll is calculated. "
+        ]
+    },
+    
+    {
+        "name": "Void Armor",
+        "source": "BB5E",
+        "type": "HA",
+        "rarity": "none",
+        "weight": 65,
+        "value": 150000,
+        "ac": 22,
+        "armor": true,
+        "stealth": true,
+        "strength": "15",
+        "entries": [
+            "This terrifying armor made of pure void stone is nigh impervious to most standard atacks."
+        ]
+    }
+]
 }
