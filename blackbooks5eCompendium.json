@@ -2565,8 +2565,7 @@
         "dmgType": "Y",
         "property": [
             "V"	,
-            "GITH",
-			"SCF"
+            "GITH"
         ],
         "rarity": "Uncommon",
         "value": 60000,
@@ -2588,8 +2587,7 @@
         "property": [
             "V",
             "R",
-            "GITH",
-			"SCF"
+            "GITH"
         ],
         "rarity": "Uncommon",
         "value": 50000,
