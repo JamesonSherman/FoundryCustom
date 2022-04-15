@@ -2368,7 +2368,7 @@
         ]
     },
 	{
-        "name": "Small Percing Explosive",
+        "name": "Small Piercing Explosive",
         "type": "R",
         "weapon": true,
         "weaponCategory": "simple",
@@ -2791,12 +2791,11 @@
 			"H"
         ],
         "source": "BB5E",
-                            "entries": [
-								"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
-								"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
-								"Firing Platform: as a bonus action you may stand the base of the arquebus into the ground. Your movement speed becomes zero and any attacks with the arquebus have advantage. It is a free action to abandon the arqebus and a full round action to restock the stand."
-
-                            ]
+        "entries": [
+		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
+		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
+		"Firing Platform: as a bonus action you may stand the base of the arquebus into the ground. Your movement speed becomes zero and any attacks with the arquebus have advantage. It is a free action to abandon the arqebus and a full round action to restock the stand."
+        ]
     },
 	{
         "name": "Dragoon Revolver",
@@ -2818,12 +2817,11 @@
 			"L"
         ],
         "source": "BB5E",
-
-                            "entries": [
-                                "A tried and true firearm from the United Empires to the West, the Dragoon is a testament to engineering as it is capable of being used in any weather or battle condition. The dragoon deals {@dice 1d8} bludgeoning damage.",
-								"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
-								"Scatter: Firearms with the scatter property have two types of damage, a regular damage roll and a scatter damage roll. When you make an attack roll with one of these guns against a creature, compare your attack roll to the AC of all creatures within 5 feet of the target. If your attack would hit them, deal the firearm's scatter damage roll to the creatures. You do not add your ability score modifier to the damage of this attack, unless that modifier is negative."
-                            ]
+        "entries": [
+        "A tried and true firearm from the United Empires to the West, the Dragoon is a testament to engineering as it is capable of being used in any weather or battle condition. The dragoon deals {@dice 1d8} bludgeoning damage.",
+		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
+		"Scatter: Firearms with the scatter property have two types of damage, a regular damage roll and a scatter damage roll. When you make an attack roll with one of these guns against a creature, compare your attack roll to the AC of all creatures within 5 feet of the target. If your attack would hit them, deal the firearm's scatter damage roll to the creatures. You do not add your ability score modifier to the damage of this attack, unless that modifier is negative."
+        ]
     },
 	{
         "name": "Flame Thrower",
@@ -2843,12 +2841,11 @@
 			"H"
         ],
         "source": "BB5E",
-
-                            "entries": [
-								"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
-								"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
-								"This item requires a special backpack item called a 'Fuel Tank' to be used. It is a full round action to attach a fuel tank to the flamethrower. Fuel Tanks carry 50 units of ammunition."
-                            ]
+        "entries": [
+		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
+		"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
+		"This item requires a special backpack item called a 'Fuel Tank' to be used. It is a full round action to attach a fuel tank to the flamethrower. Fuel Tanks carry 50 units of ammunition."
+        ]
     },
 	{
         "name": "Burst Rifle",
@@ -2870,14 +2867,14 @@
         ],
         "source": "BB5E",
  
-                            "entries": [
-                                "Magazine Load: It is an action to reload this weapon with a premade Rifle clip.",
-                                "Burst Fire: Burst fire firearms are able to make a special attack that releases a stream of multiple bullets. As an action, you can force up to 3 creatures of your choice in a 15-foot square centered on a point within your gun's maximum range to make a Dexterity saving throw, taking your gun's burst fire damage on a failed save, and half that damage on a success. This action subtracts rounds from your gun equal to the number of creatures affected, to a maximum of 3.",
-								"Additionally, guns with the burst fire property always expend 3 rounds per attack.",
-								"Burst Fire Save DC (Not Proficienct) = 12",
-								"Burst Fire Save DC (Proficient) = 8 + Dexterity + Profiicency Bonus"
+        "entries": [
+        "Magazine Load: It is an action to reload this weapon with a premade Rifle clip.",
+        "Burst Fire: Burst fire firearms are able to make a special attack that releases a stream of multiple bullets. As an action, you can force up to 3 creatures of your choice in a 15-foot square centered on a point within your gun's maximum range to make a Dexterity saving throw, taking your gun's burst fire damage on a failed save, and half that damage on a success. This action subtracts rounds from your gun equal to the number of creatures affected, to a maximum of 3.",
+		"Additionally, guns with the burst fire property always expend 3 rounds per attack.",
+		"Burst Fire Save DC (Not Proficienct) = 12",
+		"Burst Fire Save DC (Proficient) = 8 + Dexterity + Profiicency Bonus"
 
-                            ]
+      ]
     },
     {
         "name": "Crow Quill",
@@ -2959,7 +2956,6 @@
             "Designed for Huntsmen going into combat, Hunter's Armor is able to absorb blows better than any other material. Once per day you can choose to negate all bludgeoning, piercing, and slashing damage taken during a turn. This ability must be used before a damage roll is calculated. "
         ]
     },
-    
     {
         "name": "Void Armor",
         "source": "BB5E",
@@ -2975,5 +2971,478 @@
             "This terrifying armor made of pure void stone is nigh impervious to most standard atacks."
         ]
     }
+],
+"spell":[
+    {
+        "name": "Forge Fire",
+        "source": "BB5EKT",
+        "page": 144,
+        "level": 1,
+        "school": "T",
+        "time": [
+            {
+                "number": 1,
+                "unit": "minute"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "feet",
+                "amount": 30
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true
+        },
+        "duration": [
+            {
+                "type": "timed",
+                "duration": {
+                    "type": "hour",
+                    "amount": 8
+                }
+            }
+        ],
+        "entries": [
+
+            "A Medium-sized fire within range, such as a campfire, burns with unnatural heat within its embers for the duration. It gives off intense heat, dealing twice as much damage to any creature that takes damage from it and consumes materials twice as fast as normal. For the duration, it can serve as a forge to smelt nonmagical metals, and counts as a forge for the purposes of blacksmithing."
+        ],
+        "classes": {
+            "fromClassList": [
+           
+                {
+                    "name": "Inventor",
+                    "source": "KT"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
+    },
+
+
+    {
+        "name": "Process Hide",
+        "source": "BB5EKT",
+        "page": 144,
+        "level": 1,
+        "school": "T",
+        "time": [
+            {
+                "number": 1,
+                "unit": "minute"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "touch"
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true,
+            "m": "a hide which is consumed by the spell"
+        },
+        "duration": [
+            {
+                "type": "concentration",
+                "duration": {
+                    "type": "hour",
+                    "amount": 1
+                }
+            }
+        ],
+        "entries": [
+            "You work magic into a hide, turning it into processed leather. If you concentrate for the duration, you can turn a single hide into a rawhide leather, boiled leather, or tanned leather. Alternatively, you can turn hide scraps into leather scraps."
+
+        ],
+        "classes": {
+            "fromClassList": [
+           
+                {
+                    "name": "Inventor",
+                    "source": "KT"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
+    },
+
+
+    {
+        "name": "Change Material",
+        "source": "BB5EKT",
+        "page": 144,
+        "level": 2,
+        "school": "T",
+        "time": [
+            {
+                "number": 2,
+                "unit": "hour"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "touch"
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true,
+            "m": "a common material used in the casting the spell which is consumed by the spell, turning into the new material"
+        },
+        "duration": [
+            {
+               "type": "instant"
+                
+            }
+        ],
+        "entries": [
+            "You convert one common material into another material of equal or lesser mass and value."
+
+        ],
+        "entriesHigherLevel": [
+            {
+                "type": "entries",
+                "name": "At Higher Levels",
+                "entries": [
+                    "When you cast this spell using a 4th- or 5th-level spell slot, you can convert a uncommon material the same way. When you cast this spell using a 6th- or 7th-level spell slot, you can convert a rare material the same way. When you cast this spell using an 8th- or 9th-level spell slot, you can convert a very rare material the same way."
+                ]
+            }
+        ],
+        "classes": {
+            "fromClassList": [
+           
+                {
+                    "name": "Inventor",
+                    "source": "KT"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
+    },
+
+
+    {
+        "name": "Conjure Tool",
+        "source": "BB5EKT",
+        "page": 144,
+        "level": 2,
+        "school": "C",
+        "time": [
+            {
+                "number": 10,
+                "unit": "minute"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "feet",
+                "amount": 5
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true
+            
+        },
+        "duration": [
+            {
+                "type": "timed",
+                "duration": {
+                    "type": "hour",
+                    "amount": 1
+                }
+            }
+        ],
+        "entries": [
+            "You conjure an artisan tool of your choice. It is magical in nature, but serves as a nonmagical version of that artisan tool for the duration."
+        ],
+        "classes": {
+            "fromClassList": [
+           
+                {
+                    "name": "Inventor",
+                    "source": "KT"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Unseen Crafter",
+        "source": "BB5EKT",
+        "page": 144,
+        "level": 5,
+        "school": "C",
+        "time": [
+            {
+                "number": 1,
+                "unit": "minute"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "feet",
+                "amount": 60
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true,
+            "m": "a bit of string and of wood"
+        },
+        "duration": [
+            {
+                "type": "timed",
+                "duration": {
+                    "type": "hour",
+                    "amount": 8
+                }
+            }
+        ],
+        "entries": [
+            "This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The crafter springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can’t attack. If it drops to 0 hit points, the spell ends. ",
+            "Once on each of your turns as a bonus action, you can mentally command the crafter to move up to 15 feet and interact with an object. The crafter can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Additionally, it can perform skilled crafting checks. It always uses the taking 10 rule for crafting checks, completing one check every 4 hours. Its crafting modifier is +5. When you summon it, you can summon it with one artisan tool of your choice, which only it can use. It can use any other artisan tools otherwise available. If you cast this spell again while the crafter still exists, the previous one vanishes. ",
+            "Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command. If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends."
+        ],
+        "entriesHigherLevel": [
+            {
+                "type": "entries",
+                "name": "At Higher Levels",
+                "entries": [
+                    "When you cast this spell using a spell slot of 6th level or higher, its crafting modifier increases by 1."
+                ]
+            }
+        ],
+        "classes": {
+            "fromClassList": [
+           
+                {
+                    "name": "Inventor",
+                    "source": "KT"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
+    },
+    
+    {
+        "name": "Dimensional Toolbox",
+        "source": "BB5EKT",
+        "page": 145,
+        "level": 3,
+        "school": "C",
+        "time": [
+            {
+                "number": 10,
+                "unit": "minute"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "feet",
+                "amount": 5
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true,
+            "m": "a key worth 50 gp"
+        },
+        "duration": [
+            {
+                "type": "timed",
+                "duration": {
+                    "type": "hour",
+                    "amount": 4
+                }
+            }
+        ],
+        "entries": [
+           " You conjure an opening to a dimensional toolbox. This is stocked with every artisan tool and up to 10 gp worth of common materials. As an action, you can reach in and take out a tool or material contained within. Any tool or material that is not used when the spell ends fades away (materials used in crafting recipes remain)."
+
+        ],
+        "entriesHigherLevel": [
+            {
+                "type": "entries",
+                "name": "At Higher Levels",
+                "entries": [
+                   " When you cast this spell using a spell slot of 5th level or higher, the toolbox contains +1 tools (tools that add +1 to the crafting check made). When you cast this spell using a spell slot of 9th level, the toolbox contains +2 tools (tools that add +2 to the crafting check made)."
+                ]
+            }
+        ],
+        "classes": {
+            "fromClassList": [
+           
+                {
+                    "name": "Inventor",
+                    "source": "KT"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Dimensional Workshop",
+        "source": "BB5EKT",
+        "page": 145,
+        "level": 6,
+        "school": "C",
+        "time": [
+            {
+                "number": 10,
+                "unit": "minute"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "feet",
+                "amount": 5
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true
+        },
+        "duration": [
+            {
+                "type": "timed",
+                "duration": {
+                    "type": "hour",
+                    "amount": 4
+                }
+            }
+        ],
+        "entries": [
+          "You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible.",
+          "Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.",
+          "You can create any floor plan you like, but the space can’t exceed 20 cubes, each cube being 10 feet on each side. The place is furnished with every artisan tool and typical crafting accessory you could need: anvils, furnaces, looms, etc. Furnishings and other objects created by this spell dissipate into smoke if removed from the workshop. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance."
+        ],
+        "entriesHigherLevel": [
+            {
+                "type": "entries",
+                "name": "At Higher Levels",
+                "entries": [
+                    "When you cast this spell using a spell slot of 7th level or higher, the dwelling lasts for 24 hours."
+                ]
+            }
+        ],
+        "classes": {
+            "fromClassList": [
+           
+                {
+                    "name": "Inventor",
+                    "source": "KT"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
 ]
 }
