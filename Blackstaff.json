@@ -30,7 +30,7 @@
 
 {
 	"name": "Ability Rip",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -89,7 +89,7 @@
 ,
 {
 	"name": "Ablative Armor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -200,7 +200,7 @@
 ,
 {
 	"name": "Abolish Shadows",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -266,7 +266,7 @@
 ,
 {
 	"name": "Absorb Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -323,7 +323,7 @@
 ,
 {
 	"name": "Absorb Strength",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -380,7 +380,7 @@
 ,
 {
 	"name": "Absorption Ward",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "A",
@@ -431,7 +431,7 @@
 ,
 {
 	"name": "Accelerate Metabolism",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -486,7 +486,7 @@
 ,
 {
 	"name": "Accelerated Movement",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -535,7 +535,7 @@
 ,
 {
 	"name": "Acid Bolts",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -595,7 +595,7 @@
 ,
 {
 	"name": "Acid Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -660,7 +660,7 @@
 ,
 {
 	"name": "Acid Fog",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -718,7 +718,7 @@
 ,
 {
 	"name": "Acid For Blood",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -793,7 +793,7 @@
 ,
 {
 	"name": "Acid Sheath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -857,7 +857,7 @@
 ,
 {
 	"name": "Acid Storm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -918,7 +918,7 @@
 ,
 {
 	"name": "Acidic Armor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "A",
@@ -987,7 +987,7 @@
 ,
 {
 	"name": "Action Trance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -1051,7 +1051,7 @@
 ,
 {
 	"name": "Active Momentum",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -1116,7 +1116,7 @@
 ,
 {
 	"name": "Adamantine Weapon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -1170,7 +1170,7 @@
 ,
 {
 	"name": "Aegis Of Assault",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -1242,7 +1242,7 @@
 ,
 {
 	"name": "Aegis Of Ensnarement",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -1322,7 +1322,7 @@
 ,
 {
 	"name": "Aegis Of Shielding",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -1389,7 +1389,7 @@
 ,
 {
 	"name": "Afterclap",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -1427,7 +1427,7 @@
 ,
 {
 	"name": "Agile Defense",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -1470,7 +1470,7 @@
 ,
 {
 	"name": "Air Jaunt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -1523,7 +1523,7 @@
 ,
 {
 	"name": "Air Lens",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -1584,7 +1584,7 @@
 ,
 {
 	"name": "Alahandra's Questing Call",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -1650,7 +1650,7 @@
 ,
 {
 	"name": "Alamanther's Return",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -1700,7 +1700,7 @@
 ,
 {
 	"name": "Alicorn Lance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -1769,7 +1769,7 @@
 ,
 {
 	"name": "Alienated Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -1836,7 +1836,7 @@
 ,
 {
 	"name": "Align Weapon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -1926,7 +1926,7 @@
 ,
 {
 	"name": "Allied Footsteps",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -1980,7 +1980,7 @@
 ,
 {
 	"name": "Alter Time",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -2027,7 +2027,7 @@
 ,
 {
 	"name": "Altered Extremity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -2080,7 +2080,7 @@
 ,
 {
 	"name": "Alternate Reality",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -2133,7 +2133,7 @@
 ,
 {
 	"name": "Altruistic Healing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -2188,7 +2188,7 @@
 ,
 {
 	"name": "Amanuensis",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "T",
@@ -2260,7 +2260,7 @@
 ,
 {
 	"name": "Amorphous Blob",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -2318,7 +2318,7 @@
 ,
 {
 	"name": "Amplify Sound",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -2367,7 +2367,7 @@
 ,
 {
 	"name": "Analyze Contraption",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -2425,7 +2425,7 @@
 ,
 {
 	"name": "Analyze Dweomer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "D",
@@ -2483,7 +2483,7 @@
 ,
 {
 	"name": "Analyze Portal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -2550,7 +2550,7 @@
 ,
 {
 	"name": "Anathema",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "E",
@@ -2607,7 +2607,7 @@
 ,
 {
 	"name": "Anesthetic Gaze",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -2672,7 +2672,7 @@
 ,
 {
 	"name": "Anger Of The Noonday Sun",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -2733,7 +2733,7 @@
 ,
 {
 	"name": "Angry Ache",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -2787,7 +2787,7 @@
 ,
 {
 	"name": "Animal Spy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -2841,7 +2841,7 @@
 ,
 {
 	"name": "Animate Blood",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -2896,7 +2896,7 @@
 ,
 {
 	"name": "Animate Legion",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -2955,7 +2955,7 @@
 ,
 {
 	"name": "Anticold Sphere",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -3005,7 +3005,7 @@
 ,
 {
 	"name": "Antimagic Ray",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -3070,7 +3070,7 @@
 ,
 {
 	"name": "Anyspell",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -3115,7 +3115,7 @@
 ,
 {
 	"name": "Apocalypse From The Sky",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "C",
@@ -3178,7 +3178,7 @@
 ,
 {
 	"name": "Appraising Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -3235,7 +3235,7 @@
 ,
 {
 	"name": "Arc Of Lightning",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -3303,7 +3303,7 @@
 ,
 {
 	"name": "Arcane Allegro",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -3353,7 +3353,7 @@
 ,
 {
 	"name": "Arcane Instincts",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -3411,7 +3411,7 @@
 ,
 {
 	"name": "Arcane Sensitivity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -3454,7 +3454,7 @@
 ,
 {
 	"name": "Arcane Springboard",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -3505,7 +3505,7 @@
 ,
 {
 	"name": "Arm Hammers",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -3557,7 +3557,7 @@
 ,
 {
 	"name": "Armathor's Step",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -3608,7 +3608,7 @@
 ,
 {
 	"name": "Arrow Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -3662,7 +3662,7 @@
 ,
 {
 	"name": "Arrow Of Bone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -3735,7 +3735,7 @@
 ,
 {
 	"name": "Arrow Storm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -3775,7 +3775,7 @@
 ,
 {
 	"name": "Articus's Devolutionary Warrior",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -3840,7 +3840,7 @@
 ,
 {
 	"name": "Ashstar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -3900,7 +3900,7 @@
 ,
 {
 	"name": "Aspect Of The Wolf",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -3958,7 +3958,7 @@
 ,
 {
 	"name": "Astaroth's Augmentation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -4049,7 +4049,7 @@
 ,
 {
 	"name": "Astral Seal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "V",
@@ -4111,7 +4111,7 @@
 ,
 {
 	"name": "Attuned Wards",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -4173,7 +4173,7 @@
 ,
 {
 	"name": "Aura Of Glory",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -4234,7 +4234,7 @@
 ,
 {
 	"name": "Aura Of Terror",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -4291,7 +4291,7 @@
 ,
 {
 	"name": "Avascular Mass",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -4356,7 +4356,7 @@
 ,
 {
 	"name": "Avasculate",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -4415,7 +4415,7 @@
 ,
 {
 	"name": "Awaken Construct",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "N",
@@ -4476,7 +4476,7 @@
 ,
 {
 	"name": "Awaken Undead",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -4533,7 +4533,7 @@
 ,
 {
 	"name": "Axe Storm Of Clangeddin",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -4587,7 +4587,7 @@
 ,
 {
 	"name": "Azure Flame",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -4657,7 +4657,7 @@
 ,
 {
 	"name": "Azuth's Alteration Mantle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "A",
@@ -4726,7 +4726,7 @@
 ,
 {
 	"name": "Azuth's Exalted Triad",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -4776,7 +4776,7 @@
 ,
 {
 	"name": "Azuth's Fedensor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -4839,7 +4839,7 @@
 ,
 {
 	"name": "Azuth's Firing Frenzy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -4897,7 +4897,7 @@
 ,
 {
 	"name": "Azuth's Spell Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -4949,7 +4949,7 @@
 ,
 {
 	"name": "Backbiter",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -5026,7 +5026,7 @@
 ,
 {
 	"name": "Backlash Curse",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -5087,7 +5087,7 @@
 ,
 {
 	"name": "Bafflement",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -5155,7 +5155,7 @@
 ,
 {
 	"name": "Balagarn's Iron Horn",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -5219,7 +5219,7 @@
 ,
 {
 	"name": "Balancing Lorecall",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -5291,7 +5291,7 @@
 ,
 {
 	"name": "Baleful Transposition",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -5343,7 +5343,7 @@
 ,
 {
 	"name": "Ball Lightning",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -5410,7 +5410,7 @@
 ,
 {
 	"name": "Balliard's Rejuvenating Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -5474,7 +5474,7 @@
 ,
 {
 	"name": "Balor's Nimbus",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -5542,7 +5542,7 @@
 ,
 {
 	"name": "Bane Of Beshaba",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -5595,7 +5595,7 @@
 ,
 {
 	"name": "Barbed Construct",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "C",
@@ -5651,7 +5651,7 @@
 ,
 {
 	"name": "Barrier Of Retention",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -5709,7 +5709,7 @@
 ,
 {
 	"name": "Basilisk Glare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -5771,7 +5771,7 @@
 ,
 {
 	"name": "Bastion Of Clarity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -5825,7 +5825,7 @@
 ,
 {
 	"name": "Bastion Of Words",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -5882,7 +5882,7 @@
 ,
 {
 	"name": "Bat Sense",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -5941,7 +5941,7 @@
 ,
 {
 	"name": "Battering Ram",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -6020,7 +6020,7 @@
 ,
 {
 	"name": "Battle Cry",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -6077,7 +6077,7 @@
 ,
 {
 	"name": "Battle Guardian's Aura",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -6146,7 +6146,7 @@
 ,
 {
 	"name": "Battle Hymn",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -6214,7 +6214,7 @@
 ,
 {
 	"name": "Battlefate",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -6283,7 +6283,7 @@
 ,
 {
 	"name": "Battlefield Shuffle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -6347,7 +6347,7 @@
 ,
 {
 	"name": "Beast Claws",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -6405,7 +6405,7 @@
 ,
 {
 	"name": "Beastlands Ferocity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -6470,7 +6470,7 @@
 ,
 {
 	"name": "Been There",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -6522,7 +6522,7 @@
 ,
 {
 	"name": "Bend Time",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -6580,7 +6580,7 @@
 ,
 {
 	"name": "Berserker Curse",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -6649,7 +6649,7 @@
 ,
 {
 	"name": "Bestow Enchantment",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -6707,7 +6707,7 @@
 ,
 {
 	"name": "Bestow Wound",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -6755,7 +6755,7 @@
 ,
 {
 	"name": "Bewildering Charm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -6820,7 +6820,7 @@
 ,
 {
 	"name": "Bewitching Glare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -6885,7 +6885,7 @@
 ,
 {
 	"name": "Bigby's Besieging Bolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -6958,7 +6958,7 @@
 ,
 {
 	"name": "Binding Winds",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -7018,7 +7018,7 @@
 ,
 {
 	"name": "Bite Of The King",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -7090,7 +7090,7 @@
 ,
 {
 	"name": "Bite Of The Werebeast",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -7162,7 +7162,7 @@
 ,
 {
 	"name": "Black Blade Of Disaster",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "C",
@@ -7220,7 +7220,7 @@
 ,
 {
 	"name": "Black Talon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -7269,7 +7269,7 @@
 ,
 {
 	"name": "Blackfire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -7333,7 +7333,7 @@
 ,
 {
 	"name": "Blacklight",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -7400,7 +7400,7 @@
 ,
 {
 	"name": "Blackmantle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -7470,7 +7470,7 @@
 ,
 {
 	"name": "Blackrot",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -7530,7 +7530,7 @@
 ,
 {
 	"name": "Blacksphere",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -7612,7 +7612,7 @@
 ,
 {
 	"name": "Blackstaff",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -7710,7 +7710,7 @@
 ,
 {
 	"name": "Blade Of Black Wind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -7783,7 +7783,7 @@
 ,
 {
 	"name": "Blade Of Dark Whispers",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -7849,7 +7849,7 @@
 ,
 {
 	"name": "Blade Of Flickering Shadows",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -7923,7 +7923,7 @@
 ,
 {
 	"name": "Blade Of Nightmares",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -7994,7 +7994,7 @@
 ,
 {
 	"name": "Blade Of Pain And Fear",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -8065,7 +8065,7 @@
 ,
 {
 	"name": "Blade Storm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -8112,7 +8112,7 @@
 ,
 {
 	"name": "Bladeweave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -8174,7 +8174,7 @@
 ,
 {
 	"name": "Blast Of Force",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -8244,7 +8244,7 @@
 ,
 {
 	"name": "Blast Rod",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -8304,7 +8304,7 @@
 ,
 {
 	"name": "Blastbones",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -8371,7 +8371,7 @@
 ,
 {
 	"name": "Blazing Starfall",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -8447,7 +8447,7 @@
 ,
 {
 	"name": "Blessed Aim",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -8497,7 +8497,7 @@
 ,
 {
 	"name": "Blinding Spittle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -8544,7 +8544,7 @@
 ,
 {
 	"name": "Blistering Radiance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -8619,7 +8619,7 @@
 ,
 {
 	"name": "Blood Bond",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -8668,7 +8668,7 @@
 ,
 {
 	"name": "Blood Curse",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -8734,7 +8734,7 @@
 ,
 {
 	"name": "Blood Frenzy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -8789,7 +8789,7 @@
 ,
 {
 	"name": "Blood Lightning",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -8858,7 +8858,7 @@
 ,
 {
 	"name": "Blood Mantle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -8919,7 +8919,7 @@
 ,
 {
 	"name": "Blood To Water",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -8971,7 +8971,7 @@
 ,
 {
 	"name": "Blood Wind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -9040,7 +9040,7 @@
 ,
 {
 	"name": "Bloodhound",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -9085,7 +9085,7 @@
 ,
 {
 	"name": "Bloodstar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -9151,7 +9151,7 @@
 ,
 {
 	"name": "Blur Of Motion",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -9205,7 +9205,7 @@
 ,
 {
 	"name": "Blurred Step",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -9251,7 +9251,7 @@
 ,
 {
 	"name": "Bodak's Glare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -9305,7 +9305,7 @@
 ,
 {
 	"name": "Body Blades",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -9363,7 +9363,7 @@
 ,
 {
 	"name": "Body Clock",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -9415,7 +9415,7 @@
 ,
 {
 	"name": "Body Harmonic",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -9471,7 +9471,7 @@
 ,
 {
 	"name": "Body Of The Sun",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -9540,7 +9540,7 @@
 ,
 {
 	"name": "Boiling Oil",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -9611,7 +9611,7 @@
 ,
 {
 	"name": "Bolt Of Glory",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -9671,7 +9671,7 @@
 ,
 {
 	"name": "Bolts Of Bedevilment",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -9731,7 +9731,7 @@
 ,
 {
 	"name": "Bone Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -9788,7 +9788,7 @@
 ,
 {
 	"name": "Bone Javelin",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -9841,7 +9841,7 @@
 ,
 {
 	"name": "Bonefiddle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -9906,7 +9906,7 @@
 ,
 {
 	"name": "Boon Of Fortune",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -9955,7 +9955,7 @@
 ,
 {
 	"name": "Boon Of The God",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -10009,7 +10009,7 @@
 ,
 {
 	"name": "Bothersome Babble",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -10074,7 +10074,7 @@
 ,
 {
 	"name": "Boulder Bombardment",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "C",
@@ -10135,7 +10135,7 @@
 ,
 {
 	"name": "Brain Spider",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "D",
@@ -10200,7 +10200,7 @@
 ,
 {
 	"name": "Brainblaze",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -10261,7 +10261,7 @@
 ,
 {
 	"name": "Brainkill",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -10317,7 +10317,7 @@
 ,
 {
 	"name": "Brand Of Fire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -10384,7 +10384,7 @@
 ,
 {
 	"name": "Breath Of The Elements",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -10439,7 +10439,7 @@
 ,
 {
 	"name": "Breathsense",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -10488,7 +10488,7 @@
 ,
 {
 	"name": "Briar Web",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -10550,7 +10550,7 @@
 ,
 {
 	"name": "Brilliant Aura",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -10611,7 +10611,7 @@
 ,
 {
 	"name": "Brilliant Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -10678,7 +10678,7 @@
 ,
 {
 	"name": "Brittleskin",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -10740,7 +10740,7 @@
 ,
 {
 	"name": "Burn Path",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "E",
@@ -10801,7 +10801,7 @@
 ,
 {
 	"name": "Burning Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -10870,7 +10870,7 @@
 ,
 {
 	"name": "Burning Blood",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -10942,7 +10942,7 @@
 ,
 {
 	"name": "Burrowing Claws",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -10995,7 +10995,7 @@
 ,
 {
 	"name": "Burst Of Glacial Wrath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -11054,7 +11054,7 @@
 ,
 {
 	"name": "Cacophonic Burst",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -11111,7 +11111,7 @@
 ,
 {
 	"name": "Cacophonic Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -11179,7 +11179,7 @@
 ,
 {
 	"name": "Caging Glaive",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -11257,7 +11257,7 @@
 ,
 {
 	"name": "Call For Capitulation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -11322,7 +11322,7 @@
 ,
 {
 	"name": "Call Forth The Beast",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -11380,7 +11380,7 @@
 ,
 {
 	"name": "Call Nightmare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -11444,7 +11444,7 @@
 ,
 {
 	"name": "Calm Winds",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -11499,7 +11499,7 @@
 ,
 {
 	"name": "Candletrick",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -11556,7 +11556,7 @@
 ,
 {
 	"name": "Capacitor Box",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -11611,7 +11611,7 @@
 ,
 {
 	"name": "Cast In Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -11669,7 +11669,7 @@
 ,
 {
 	"name": "Castigating Sanction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -11728,7 +11728,7 @@
 ,
 {
 	"name": "Catfeet",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "A",
@@ -11775,7 +11775,7 @@
 ,
 {
 	"name": "Caustic Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "V",
@@ -11837,7 +11837,7 @@
 ,
 {
 	"name": "Celebration Song",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -11895,7 +11895,7 @@
 ,
 {
 	"name": "Celestial Fist",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -11960,7 +11960,7 @@
 ,
 {
 	"name": "Chain Madness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "E",
@@ -12011,7 +12011,7 @@
 ,
 {
 	"name": "Challenger's Mark",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -12089,7 +12089,7 @@
 ,
 {
 	"name": "Chameleon Stance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -12143,7 +12143,7 @@
 ,
 {
 	"name": "Champion's Strength",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -12209,7 +12209,7 @@
 ,
 {
 	"name": "Changestaff",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -12256,7 +12256,7 @@
 ,
 {
 	"name": "Chaos Dice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -12313,7 +12313,7 @@
 ,
 {
 	"name": "Chaos Hammer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -12420,7 +12420,7 @@
 ,
 {
 	"name": "Charge Object",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -12480,7 +12480,7 @@
 ,
 {
 	"name": "Chariot Of Sustarre",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -12541,7 +12541,7 @@
 ,
 {
 	"name": "Charnel Fire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -12601,7 +12601,7 @@
 ,
 {
 	"name": "Chill Air",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -12661,7 +12661,7 @@
 ,
 {
 	"name": "Chill Of The Grave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -12723,7 +12723,7 @@
 ,
 {
 	"name": "Chilling Blow",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -12792,7 +12792,7 @@
 ,
 {
 	"name": "Chilling Frost",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -12857,7 +12857,7 @@
 ,
 {
 	"name": "Chilling Scythe",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -12910,7 +12910,7 @@
 ,
 {
 	"name": "Choking Hands",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -12976,7 +12976,7 @@
 ,
 {
 	"name": "Choose Future",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -13021,7 +13021,7 @@
 ,
 {
 	"name": "Circle Dance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -13076,7 +13076,7 @@
 ,
 {
 	"name": "Circle Of Privacy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -13135,7 +13135,7 @@
 ,
 {
 	"name": "Clarifying Impact",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -13211,7 +13211,7 @@
 ,
 {
 	"name": "Clarity Of Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -13268,7 +13268,7 @@
 ,
 {
 	"name": "Claws Of Darkness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -13321,7 +13321,7 @@
 ,
 {
 	"name": "Claws Of The Umber Hulk",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -13374,7 +13374,7 @@
 ,
 {
 	"name": "Cleansing Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -13429,7 +13429,7 @@
 ,
 {
 	"name": "Cloak Of Adeamoz",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "A",
@@ -13477,7 +13477,7 @@
 ,
 {
 	"name": "Cloak Of Bravery",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -13538,7 +13538,7 @@
 ,
 {
 	"name": "Cloak Of Khyber",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -13593,7 +13593,7 @@
 ,
 {
 	"name": "Cloud Of Pestilence",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -13662,7 +13662,7 @@
 ,
 {
 	"name": "Cloudburst",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -13711,7 +13711,7 @@
 ,
 {
 	"name": "Cloudwalkers",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -13758,7 +13758,7 @@
 ,
 {
 	"name": "Clutch Of The Mire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -13815,7 +13815,7 @@
 ,
 {
 	"name": "Clutch Of Orcus",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -13873,7 +13873,7 @@
 ,
 {
 	"name": "Coalstone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -13939,7 +13939,7 @@
 ,
 {
 	"name": "Coat Of Arms",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -14003,7 +14003,7 @@
 ,
 {
 	"name": "Cobra Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -14077,7 +14077,7 @@
 ,
 {
 	"name": "Code Of Secrecy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -14129,7 +14129,7 @@
 ,
 {
 	"name": "Cold Fire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -14196,7 +14196,7 @@
 ,
 {
 	"name": "Combined Effort",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -14271,7 +14271,7 @@
 ,
 {
 	"name": "Cometfall",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -14334,7 +14334,7 @@
 ,
 {
 	"name": "Comfort Ward",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -14416,7 +14416,7 @@
 ,
 {
 	"name": "Command Minor Beast",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -14481,7 +14481,7 @@
 ,
 {
 	"name": "Compose Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -14548,7 +14548,7 @@
 ,
 {
 	"name": "Conduit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "E",
@@ -14603,7 +14603,7 @@
 ,
 {
 	"name": "Conflagration",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -14662,7 +14662,7 @@
 ,
 {
 	"name": "Conjure Caltrops",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "T",
@@ -14725,7 +14725,7 @@
 ,
 {
 	"name": "Conjure Dragon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "C",
@@ -14776,7 +14776,7 @@
 ,
 {
 	"name": "Conjure Remorhaz",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -14827,7 +14827,7 @@
 ,
 {
 	"name": "Conquering Smite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -14890,7 +14890,7 @@
 ,
 {
 	"name": "Consumptive Field",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -14951,7 +14951,7 @@
 ,
 {
 	"name": "Contagious Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -14995,7 +14995,7 @@
 ,
 {
 	"name": "Control Temperature",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -15049,7 +15049,7 @@
 ,
 {
 	"name": "Control Thoughts",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -15112,7 +15112,7 @@
 ,
 {
 	"name": "Corpse Link",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -15181,7 +15181,7 @@
 ,
 {
 	"name": "Corpse Visage",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -15241,7 +15241,7 @@
 ,
 {
 	"name": "Courtier's Cover",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -15285,7 +15285,7 @@
 ,
 {
 	"name": "Crawling Darkness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -15341,7 +15341,7 @@
 ,
 {
 	"name": "Create Item",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -15411,7 +15411,7 @@
 ,
 {
 	"name": "Create Poison",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -15491,7 +15491,7 @@
 ,
 {
 	"name": "Create Revenant",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -15554,7 +15554,7 @@
 ,
 {
 	"name": "Creeping Cold",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -15613,7 +15613,7 @@
 ,
 {
 	"name": "Creeping Doom",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -15663,7 +15663,7 @@
 ,
 {
 	"name": "Crimson Scourge",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -15727,7 +15727,7 @@
 ,
 {
 	"name": "Critical Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -15789,7 +15789,7 @@
 ,
 {
 	"name": "Crown Of Glory",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "E",
@@ -15842,7 +15842,7 @@
 ,
 {
 	"name": "Crown Of Light",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -15911,7 +15911,7 @@
 ,
 {
 	"name": "Crushing Fist Of Spite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -15972,7 +15972,7 @@
 ,
 {
 	"name": "Crystalbrittile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -16018,7 +16018,7 @@
 ,
 {
 	"name": "Curse Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -16079,7 +16079,7 @@
 ,
 {
 	"name": "Curse Of Ill Fortune",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -16141,7 +16141,7 @@
 ,
 {
 	"name": "Curse Of Impending Blades",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -16207,7 +16207,7 @@
 ,
 {
 	"name": "Curse Of The Everbleeding Wounds",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -16259,7 +16259,7 @@
 ,
 {
 	"name": "Curse Of The Fey King",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -16310,7 +16310,7 @@
 ,
 {
 	"name": "Daggerspell Stance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -16392,7 +16392,7 @@
 ,
 {
 	"name": "Daltim's Flaming Fist",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -16461,7 +16461,7 @@
 ,
 {
 	"name": "Dance Of Ruin",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -16516,7 +16516,7 @@
 ,
 {
 	"name": "Dancing Chains",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -16586,7 +16586,7 @@
 ,
 {
 	"name": "Darkbolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -16659,7 +16659,7 @@
 ,
 {
 	"name": "Dazzling Flash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -16723,7 +16723,7 @@
 ,
 {
 	"name": "Dead End",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -16786,7 +16786,7 @@
 ,
 {
 	"name": "Dead Magic Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -16835,7 +16835,7 @@
 ,
 {
 	"name": "Dead Man's Tell",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -16951,7 +16951,7 @@
 ,
 {
 	"name": "Deadfall",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "C",
@@ -17009,7 +17009,7 @@
 ,
 {
 	"name": "Death Armor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -17076,7 +17076,7 @@
 ,
 {
 	"name": "Death Dragon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -17126,7 +17126,7 @@
 ,
 {
 	"name": "Death Knell",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -17190,7 +17190,7 @@
 ,
 {
 	"name": "Death Sight",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -17252,7 +17252,7 @@
 ,
 {
 	"name": "Death Spell",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -17309,7 +17309,7 @@
 ,
 {
 	"name": "Death Spider",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -17365,7 +17365,7 @@
 ,
 {
 	"name": "Death Talisman",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -17432,7 +17432,7 @@
 ,
 {
 	"name": "Death Throes",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -17487,7 +17487,7 @@
 ,
 {
 	"name": "Deathwatch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -17539,7 +17539,7 @@
 ,
 {
 	"name": "Decastave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -17614,7 +17614,7 @@
 ,
 {
 	"name": "Decelerating Slash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -17678,7 +17678,7 @@
 ,
 {
 	"name": "Decomposition",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -17740,7 +17740,7 @@
 ,
 {
 	"name": "Deep Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -17792,7 +17792,7 @@
 ,
 {
 	"name": "Deeper Darkvision",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -17863,7 +17863,7 @@
 ,
 {
 	"name": "Defensive Casting",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -17923,7 +17923,7 @@
 ,
 {
 	"name": "Deflecting Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -17970,7 +17970,7 @@
 ,
 {
 	"name": "Delay Death",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -18039,7 +18039,7 @@
 ,
 {
 	"name": "Delayed Magic Missile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -18104,7 +18104,7 @@
 ,
 {
 	"name": "Demand Obedience",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -18181,7 +18181,7 @@
 ,
 {
 	"name": "Desecrate",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -18244,7 +18244,7 @@
 ,
 {
 	"name": "Desperate Gambit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -18312,7 +18312,7 @@
 ,
 {
 	"name": "Detect Dragonblood",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -18367,7 +18367,7 @@
 ,
 {
 	"name": "Detho's Delirium",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -18420,7 +18420,7 @@
 ,
 {
 	"name": "Dictation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -18473,7 +18473,7 @@
 ,
 {
 	"name": "Dinosaur Stampede",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -18537,7 +18537,7 @@
 ,
 {
 	"name": "Dirge Of Ruin",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -18599,7 +18599,7 @@
 ,
 {
 	"name": "Disarming Force",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -18675,7 +18675,7 @@
 ,
 {
 	"name": "Disguise Undead",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -18742,7 +18742,7 @@
 ,
 {
 	"name": "Dissonant Chant",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -18805,7 +18805,7 @@
 ,
 {
 	"name": "Dissonant Chord",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -18864,7 +18864,7 @@
 ,
 {
 	"name": "Distort Speech",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -18924,7 +18924,7 @@
 ,
 {
 	"name": "Distracting Ray",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -18986,7 +18986,7 @@
 ,
 {
 	"name": "Distracting Visions",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -19054,7 +19054,7 @@
 ,
 {
 	"name": "Divine Sacrifice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -19098,7 +19098,7 @@
 ,
 {
 	"name": "Divine Sanction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -19160,7 +19160,7 @@
 ,
 {
 	"name": "Doomtide",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "I",
@@ -19230,7 +19230,7 @@
 ,
 {
 	"name": "Doublespeak",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -19281,7 +19281,7 @@
 ,
 {
 	"name": "Draconic Might",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -19344,7 +19344,7 @@
 ,
 {
 	"name": "Dragon Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -19430,7 +19430,7 @@
 ,
 {
 	"name": "Dragon's Roar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -19485,7 +19485,7 @@
 ,
 {
 	"name": "Dragonsight",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -19538,7 +19538,7 @@
 ,
 {
 	"name": "Dragonskin",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -19603,7 +19603,7 @@
 ,
 {
 	"name": "Drain Vitality",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -19665,7 +19665,7 @@
 ,
 {
 	"name": "Dramatic Entrance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -19722,7 +19722,7 @@
 ,
 {
 	"name": "Drawmij's Breath Of Life",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -19798,7 +19798,7 @@
 ,
 {
 	"name": "Drawmij's Light Step",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -19873,7 +19873,7 @@
 ,
 {
 	"name": "Drawmij's Toolbox",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -19941,7 +19941,7 @@
 ,
 {
 	"name": "Dread Carapace",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -20008,7 +20008,7 @@
 ,
 {
 	"name": "Dread Mercy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -20080,7 +20080,7 @@
 ,
 {
 	"name": "Dread Provocation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -20133,7 +20133,7 @@
 ,
 {
 	"name": "Dread Revelation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -20209,7 +20209,7 @@
 ,
 {
 	"name": "Dread Word",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -20263,7 +20263,7 @@
 ,
 {
 	"name": "Dreadful Warrior",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -20322,7 +20322,7 @@
 ,
 {
 	"name": "Dream Sight",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "D",
@@ -20388,7 +20388,7 @@
 ,
 {
 	"name": "Drums Of War",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -20438,7 +20438,7 @@
 ,
 {
 	"name": "Duel Ward",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -20483,7 +20483,7 @@
 ,
 {
 	"name": "Duplicate Text",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -20551,7 +20551,7 @@
 ,
 {
 	"name": "Dust Of Death",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -20603,7 +20603,7 @@
 ,
 {
 	"name": "Earth Reaver",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -20673,7 +20673,7 @@
 ,
 {
 	"name": "Earthen Grace",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -20731,7 +20731,7 @@
 ,
 {
 	"name": "Easy Climb",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -20780,7 +20780,7 @@
 ,
 {
 	"name": "Easy Trail",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -20829,7 +20829,7 @@
 ,
 {
 	"name": "Ebony Hand",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -20903,7 +20903,7 @@
 ,
 {
 	"name": "Echo Skull",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "D",
@@ -20958,7 +20958,7 @@
 ,
 {
 	"name": "Echoes Of Cowardice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -21022,7 +21022,7 @@
 ,
 {
 	"name": "Echoing Blow",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "A",
@@ -21092,7 +21092,7 @@
 ,
 {
 	"name": "Effulgent Epuration",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "A",
@@ -21144,7 +21144,7 @@
 ,
 {
 	"name": "Ego Lash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -21203,7 +21203,7 @@
 ,
 {
 	"name": "Eldritch Abduction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -21262,7 +21262,7 @@
 ,
 {
 	"name": "Eldritch Alertness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -21317,7 +21317,7 @@
 ,
 {
 	"name": "Eldritch Isolation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -21366,7 +21366,7 @@
 ,
 {
 	"name": "Eldritch Pursuit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -21427,7 +21427,7 @@
 ,
 {
 	"name": "Eldritch Speed",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -21487,7 +21487,7 @@
 ,
 {
 	"name": "Eldritch Tactics",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -21535,7 +21535,7 @@
 ,
 {
 	"name": "Eldritch Weapon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -21598,7 +21598,7 @@
 ,
 {
 	"name": "Elemental Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -21736,7 +21736,7 @@
 ,
 {
 	"name": "Elemental Body",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -21827,7 +21827,7 @@
 ,
 {
 	"name": "Elemental Burst",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -21968,7 +21968,7 @@
 ,
 {
 	"name": "Elemental Foible",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -22025,7 +22025,7 @@
 ,
 {
 	"name": "Elonia's Glamour",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -22079,7 +22079,7 @@
 ,
 {
 	"name": "Embalming Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -22138,7 +22138,7 @@
 ,
 {
 	"name": "Empathic Sense",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -22200,7 +22200,7 @@
 ,
 {
 	"name": "Endure Elements",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -22261,7 +22261,7 @@
 ,
 {
 	"name": "Energized Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -22324,7 +22324,7 @@
 ,
 {
 	"name": "Energy Alteration",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -22372,7 +22372,7 @@
 ,
 {
 	"name": "Energy Drain",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "N",
@@ -22427,7 +22427,7 @@
 ,
 {
 	"name": "Energy Immunity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "A",
@@ -22483,7 +22483,7 @@
 ,
 {
 	"name": "Energy Vortex",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -22543,7 +22543,7 @@
 ,
 {
 	"name": "Enervating Bolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -22599,7 +22599,7 @@
 ,
 {
 	"name": "Enrage Animals",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -22675,7 +22675,7 @@
 ,
 {
 	"name": "Entropic Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -22729,7 +22729,7 @@
 ,
 {
 	"name": "Eruption Of Earth's Fury",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -22782,7 +22782,7 @@
 ,
 {
 	"name": "Ethereal Smite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -22834,7 +22834,7 @@
 ,
 {
 	"name": "Evil Glare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -22892,7 +22892,7 @@
 ,
 {
 	"name": "Exploit Opening",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -22953,7 +22953,7 @@
 ,
 {
 	"name": "Expose The Dead",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -23018,7 +23018,7 @@
 ,
 {
 	"name": "Eye For An Eye",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -23079,7 +23079,7 @@
 ,
 {
 	"name": "Eye Of Power",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "D",
@@ -23134,7 +23134,7 @@
 ,
 {
 	"name": "Eye Of The Hurricane",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -23203,7 +23203,7 @@
 ,
 {
 	"name": "Eyefire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -23276,7 +23276,7 @@
 ,
 {
 	"name": "Eyes Of The Mage",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "D",
@@ -23339,7 +23339,7 @@
 ,
 {
 	"name": "Fallion's Fabulous Fireball",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -23404,7 +23404,7 @@
 ,
 {
 	"name": "Fang Trap",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -23486,7 +23486,7 @@
 ,
 {
 	"name": "Far Dash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -23538,7 +23538,7 @@
 ,
 {
 	"name": "Far Hearing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -23602,7 +23602,7 @@
 ,
 {
 	"name": "Far Realm Gaze",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -23661,7 +23661,7 @@
 ,
 {
 	"name": "Farspeaker",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -23712,7 +23712,7 @@
 ,
 {
 	"name": "Favor Of Tymora",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -23756,7 +23756,7 @@
 ,
 {
 	"name": "Feat Of Magnificence",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -23804,7 +23804,7 @@
 ,
 {
 	"name": "Fell Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -23872,7 +23872,7 @@
 ,
 {
 	"name": "Fellblade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -23944,7 +23944,7 @@
 ,
 {
 	"name": "Feywild Guardian",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -24005,7 +24005,7 @@
 ,
 {
 	"name": "Fiery Fists",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -24057,7 +24057,7 @@
 ,
 {
 	"name": "Fiery Wrath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -24130,7 +24130,7 @@
 ,
 {
 	"name": "Find The Gap",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -24174,7 +24174,7 @@
 ,
 {
 	"name": "Finger Of Agony",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -24236,7 +24236,7 @@
 ,
 {
 	"name": "Fire And Brimstone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -24295,7 +24295,7 @@
 ,
 {
 	"name": "Fire Aura",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -24377,7 +24377,7 @@
 ,
 {
 	"name": "Fire Enchantment",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -24431,7 +24431,7 @@
 ,
 {
 	"name": "Fire Hawk",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "V",
@@ -24488,7 +24488,7 @@
 ,
 {
 	"name": "Fire Of Justice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -24554,7 +24554,7 @@
 ,
 {
 	"name": "Fire Seeds",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -24618,7 +24618,7 @@
 ,
 {
 	"name": "Fire Spiders",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -24681,7 +24681,7 @@
 ,
 {
 	"name": "Fire Trap",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -24753,7 +24753,7 @@
 ,
 {
 	"name": "Firequench",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -24812,7 +24812,7 @@
 ,
 {
 	"name": "Firestride Exhalation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -24876,7 +24876,7 @@
 ,
 {
 	"name": "Fist Of Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -24939,7 +24939,7 @@
 ,
 {
 	"name": "Flare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -24996,7 +24996,7 @@
 ,
 {
 	"name": "Flensing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -25063,7 +25063,7 @@
 ,
 {
 	"name": "Flesh Ripper",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -25122,7 +25122,7 @@
 ,
 {
 	"name": "Flesh Shiver",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -25179,7 +25179,7 @@
 ,
 {
 	"name": "Flight Of The Dragon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -25228,7 +25228,7 @@
 ,
 {
 	"name": "Flying Step Stance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -25286,7 +25286,7 @@
 ,
 {
 	"name": "Focused Discipline",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "V",
@@ -25342,7 +25342,7 @@
 ,
 {
 	"name": "Foesnare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -25410,7 +25410,7 @@
 ,
 {
 	"name": "Fog Of Viscidity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -25461,7 +25461,7 @@
 ,
 {
 	"name": "Fool's Speech",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -25523,7 +25523,7 @@
 ,
 {
 	"name": "Force Hammer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -25586,7 +25586,7 @@
 ,
 {
 	"name": "Force Orb",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -25647,7 +25647,7 @@
 ,
 {
 	"name": "Force Push",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "V",
@@ -25707,7 +25707,7 @@
 ,
 {
 	"name": "Forceful Missile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -25781,7 +25781,7 @@
 ,
 {
 	"name": "Forceful Query",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -25831,7 +25831,7 @@
 ,
 {
 	"name": "Fortifying Cry",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -25903,7 +25903,7 @@
 ,
 {
 	"name": "Foundation Of Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -25962,7 +25962,7 @@
 ,
 {
 	"name": "Four-Winds Bag",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -26024,7 +26024,7 @@
 ,
 {
 	"name": "Free Will",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -26070,7 +26070,7 @@
 ,
 {
 	"name": "Freezing Ray",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -26129,7 +26129,7 @@
 ,
 {
 	"name": "Frightful Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -26215,7 +26215,7 @@
 ,
 {
 	"name": "Frost Backlash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -26277,7 +26277,7 @@
 ,
 {
 	"name": "Frost Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -26338,7 +26338,7 @@
 ,
 {
 	"name": "Frost Fingers",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -26398,7 +26398,7 @@
 ,
 {
 	"name": "Frost Whip",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -26463,7 +26463,7 @@
 ,
 {
 	"name": "Frostwind Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "V",
@@ -26527,7 +26527,7 @@
 ,
 {
 	"name": "Fugue",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "I",
@@ -26600,7 +26600,7 @@
 ,
 {
 	"name": "Fumbling Curse",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -26663,7 +26663,7 @@
 ,
 {
 	"name": "G'Elsewhere Chant",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -26707,7 +26707,7 @@
 ,
 {
 	"name": "Galkyn's Bolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -26759,7 +26759,7 @@
 ,
 {
 	"name": "Gateway",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -26817,7 +26817,7 @@
 ,
 {
 	"name": "Gemidan's Icicle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -26881,7 +26881,7 @@
 ,
 {
 	"name": "Gemjump",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -26938,7 +26938,7 @@
 ,
 {
 	"name": "General Of Undeath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -26987,7 +26987,7 @@
 ,
 {
 	"name": "Ghost Armor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -27046,7 +27046,7 @@
 ,
 {
 	"name": "Ghost Pipes",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -27093,7 +27093,7 @@
 ,
 {
 	"name": "Ghostharp",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -27132,7 +27132,7 @@
 ,
 {
 	"name": "Ghostly Tail",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -27189,7 +27189,7 @@
 ,
 {
 	"name": "Ghoul Gesture",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -27250,7 +27250,7 @@
 ,
 {
 	"name": "Ghoul Light",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -27305,7 +27305,7 @@
 ,
 {
 	"name": "Gibberish Curse",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -27377,7 +27377,7 @@
 ,
 {
 	"name": "Glamour Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -27444,7 +27444,7 @@
 ,
 {
 	"name": "Glasya's Stride",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -27504,7 +27504,7 @@
 ,
 {
 	"name": "Glimmering Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -27573,7 +27573,7 @@
 ,
 {
 	"name": "Glitterdust",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -27646,7 +27646,7 @@
 ,
 {
 	"name": "Gloom",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -27721,7 +27721,7 @@
 ,
 {
 	"name": "Glorious Transmutation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -27766,7 +27766,7 @@
 ,
 {
 	"name": "Glowglory",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -27825,7 +27825,7 @@
 ,
 {
 	"name": "Glyph Of Revealing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -27883,7 +27883,7 @@
 ,
 {
 	"name": "Goad Of Misfortune",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -27950,7 +27950,7 @@
 ,
 {
 	"name": "Grace Of The Divine",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -28017,7 +28017,7 @@
 ,
 {
 	"name": "Grasping Limb",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -28087,7 +28087,7 @@
 ,
 {
 	"name": "Gravedust Cloud",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -28157,7 +28157,7 @@
 ,
 {
 	"name": "Great Shout",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -28209,7 +28209,7 @@
 ,
 {
 	"name": "Great Thunderclap",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -28271,7 +28271,7 @@
 ,
 {
 	"name": "Great Watcher Spirit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -28339,7 +28339,7 @@
 ,
 {
 	"name": "Great Worm Of The Earth",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -28393,7 +28393,7 @@
 ,
 {
 	"name": "Greater Acupuncture",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -28460,7 +28460,7 @@
 ,
 {
 	"name": "Greater Mage Armor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -28512,7 +28512,7 @@
 ,
 {
 	"name": "Greater Resistance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -28578,7 +28578,7 @@
 ,
 {
 	"name": "Greater Sign Of Sealing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "A",
@@ -28646,7 +28646,7 @@
 ,
 {
 	"name": "Greater Stone Shape",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -28705,7 +28705,7 @@
 ,
 {
 	"name": "Greater Water To Poison",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -28796,7 +28796,7 @@
 ,
 {
 	"name": "Greater Whirlwind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -28857,7 +28857,7 @@
 ,
 {
 	"name": "Grimwald's Greymantle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -28923,7 +28923,7 @@
 ,
 {
 	"name": "Guardian's Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -28998,7 +28998,7 @@
 ,
 {
 	"name": "Guided Shot",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -29063,7 +29063,7 @@
 ,
 {
 	"name": "Guiding Snarl",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -29120,7 +29120,7 @@
 ,
 {
 	"name": "Hail Of Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -29184,7 +29184,7 @@
 ,
 {
 	"name": "Hailstones",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -29246,7 +29246,7 @@
 ,
 {
 	"name": "Hand Of Radiance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -29307,7 +29307,7 @@
 ,
 {
 	"name": "Hand Of The Sorcerer King",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -29351,7 +29351,7 @@
 ,
 {
 	"name": "Handfang",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -29410,7 +29410,7 @@
 ,
 {
 	"name": "Harden Object",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -29459,7 +29459,7 @@
 ,
 {
 	"name": "Heart Of Ice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -29524,7 +29524,7 @@
 ,
 {
 	"name": "Heart Of Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -29592,7 +29592,7 @@
 ,
 {
 	"name": "Hearth Spirit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -29669,7 +29669,7 @@
 ,
 {
 	"name": "Heartseeker",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "E",
@@ -29714,7 +29714,7 @@
 ,
 {
 	"name": "Heat Drain",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -29769,7 +29769,7 @@
 ,
 {
 	"name": "Hellfire Harrowing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -29837,7 +29837,7 @@
 ,
 {
 	"name": "Hellfire Burst",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -29902,7 +29902,7 @@
 ,
 {
 	"name": "Hell's Own Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -29961,7 +29961,7 @@
 ,
 {
 	"name": "Herald's Call",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -30009,7 +30009,7 @@
 ,
 {
 	"name": "Hero's Defiance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -30061,7 +30061,7 @@
 ,
 {
 	"name": "Hibernate",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -30113,7 +30113,7 @@
 ,
 {
 	"name": "Hidden Lodge",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -30181,7 +30181,7 @@
 ,
 {
 	"name": "Hide The Path",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "A",
@@ -30236,7 +30236,7 @@
 ,
 {
 	"name": "Hindsight",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "D",
@@ -30314,7 +30314,7 @@
 ,
 {
 	"name": "Hiss Of Sleep",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -30382,7 +30382,7 @@
 ,
 {
 	"name": "Hoar's Revenance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -30431,7 +30431,7 @@
 ,
 {
 	"name": "Holy Star",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -30485,7 +30485,7 @@
 ,
 {
 	"name": "Holy Storm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -30549,7 +30549,7 @@
 ,
 {
 	"name": "Holy Word",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -30625,7 +30625,7 @@
 ,
 {
 	"name": "Home Port",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -30677,7 +30677,7 @@
 ,
 {
 	"name": "Hornet Shot",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -30755,7 +30755,7 @@
 ,
 {
 	"name": "Hornung's Deflector",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -30804,7 +30804,7 @@
 ,
 {
 	"name": "Horrid Withering",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -30863,7 +30863,7 @@
 ,
 {
 	"name": "Hovering Snare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -30922,7 +30922,7 @@
 ,
 {
 	"name": "Howling Chain",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -30986,7 +30986,7 @@
 ,
 {
 	"name": "Hungering Curse",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -31035,7 +31035,7 @@
 ,
 {
 	"name": "Hymn Of Praise",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -31091,7 +31091,7 @@
 ,
 {
 	"name": "Hypothermia",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -31157,7 +31157,7 @@
 ,
 {
 	"name": "Ice Axe",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -31220,7 +31220,7 @@
 ,
 {
 	"name": "Ice Claw",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -31292,7 +31292,7 @@
 ,
 {
 	"name": "Icelance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -31367,7 +31367,7 @@
 ,
 {
 	"name": "Icon Of Fear",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -31440,7 +31440,7 @@
 ,
 {
 	"name": "Imbue Undead With Spell Ability",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -31488,7 +31488,7 @@
 ,
 {
 	"name": "Immunity To Poison And Disease",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -31548,7 +31548,7 @@
 ,
 {
 	"name": "Impart Knowledge",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -31596,7 +31596,7 @@
 ,
 {
 	"name": "Implosion",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -31645,7 +31645,7 @@
 ,
 {
 	"name": "Indisputable Possession",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -31697,7 +31697,7 @@
 ,
 {
 	"name": "Indomitability",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -31749,7 +31749,7 @@
 ,
 {
 	"name": "Inevitability Of The Grave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -31830,7 +31830,7 @@
 ,
 {
 	"name": "Inevitable Wave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -31908,7 +31908,7 @@
 ,
 {
 	"name": "Inevitable Winter",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -31975,7 +31975,7 @@
 ,
 {
 	"name": "Infestation Of Maggots",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -32029,7 +32029,7 @@
 ,
 {
 	"name": "Inquisitive Intuition",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -32095,7 +32095,7 @@
 ,
 {
 	"name": "Insatiable Thirst",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -32149,7 +32149,7 @@
 ,
 {
 	"name": "Insightful Feint",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -32209,7 +32209,7 @@
 ,
 {
 	"name": "Inspire Dread",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -32286,7 +32286,7 @@
 ,
 {
 	"name": "Inspire Terror",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -32362,7 +32362,7 @@
 ,
 {
 	"name": "Instant Refuge",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -32421,7 +32421,7 @@
 ,
 {
 	"name": "Instant Search",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -32469,7 +32469,7 @@
 ,
 {
 	"name": "Instill Vulnerability",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -32523,7 +32523,7 @@
 ,
 {
 	"name": "Intellect Redoubt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -32580,7 +32580,7 @@
 ,
 {
 	"name": "Intent Laid Bare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -32653,7 +32653,7 @@
 ,
 {
 	"name": "Internal Compass",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -32703,7 +32703,7 @@
 ,
 {
 	"name": "Interplanar Telepathic Bond",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "D",
@@ -32755,7 +32755,7 @@
 ,
 {
 	"name": "Invasive Id",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -32819,7 +32819,7 @@
 ,
 {
 	"name": "Invigorating Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -32874,7 +32874,7 @@
 ,
 {
 	"name": "Iron Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -32935,7 +32935,7 @@
 ,
 {
 	"name": "Iron Scarf",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -33014,7 +33014,7 @@
 ,
 {
 	"name": "Ironbreaker Claws",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -33081,7 +33081,7 @@
 ,
 {
 	"name": "Ironguard",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -33131,7 +33131,7 @@
 ,
 {
 	"name": "Ironguts",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -33198,7 +33198,7 @@
 ,
 {
 	"name": "Irregular Dispersal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "A",
@@ -33247,7 +33247,7 @@
 ,
 {
 	"name": "Jaggar's Strengthened Bastion",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -33320,7 +33320,7 @@
 ,
 {
 	"name": "Jalartan's Miraculum",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -33372,7 +33372,7 @@
 ,
 {
 	"name": "Javelin Of Retribution",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -33433,7 +33433,7 @@
 ,
 {
 	"name": "Jaws Of The Wolf",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -33487,7 +33487,7 @@
 ,
 {
 	"name": "Jergal's Mind Probe",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "D",
@@ -33548,7 +33548,7 @@
 ,
 {
 	"name": "Jinx Shot",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -33603,7 +33603,7 @@
 ,
 {
 	"name": "Jinx Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -33663,7 +33663,7 @@
 ,
 {
 	"name": "Jungle's Rapture",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -33732,7 +33732,7 @@
 ,
 {
 	"name": "Junglerazer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -33806,7 +33806,7 @@
 ,
 {
 	"name": "Keen Edge",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -33867,7 +33867,7 @@
 ,
 {
 	"name": "Kelpstrand",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -33936,7 +33936,7 @@
 ,
 {
 	"name": "Keys To The City",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -33983,7 +33983,7 @@
 ,
 {
 	"name": "Khelben's Dweomerdoom",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "A",
@@ -34047,7 +34047,7 @@
 ,
 {
 	"name": "Khelben's Suspended Silence",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -34101,7 +34101,7 @@
 ,
 {
 	"name": "Killing Ground",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -34170,7 +34170,7 @@
 ,
 {
 	"name": "Kiss Of The Vampire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -34246,7 +34246,7 @@
 ,
 {
 	"name": "Kiss Of Torment",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -34304,7 +34304,7 @@
 ,
 {
 	"name": "Knightly Intercession",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -34363,7 +34363,7 @@
 ,
 {
 	"name": "Knight's Move",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -34419,7 +34419,7 @@
 ,
 {
 	"name": "Know Customs",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -34475,7 +34475,7 @@
 ,
 {
 	"name": "Know Direction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -34515,7 +34515,7 @@
 ,
 {
 	"name": "Know Faction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -34574,7 +34574,7 @@
 ,
 {
 	"name": "Know Greatest Enemy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -34625,7 +34625,7 @@
 ,
 {
 	"name": "Know Protection",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -34687,7 +34687,7 @@
 ,
 {
 	"name": "Know School",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -34727,7 +34727,7 @@
 ,
 {
 	"name": "Know Vulnerabilities",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -34779,7 +34779,7 @@
 ,
 {
 	"name": "Knurl",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -34831,7 +34831,7 @@
 ,
 {
 	"name": "Laeral's Invisible Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -34902,7 +34902,7 @@
 ,
 {
 	"name": "Laeral's Crowning Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "N",
@@ -34964,7 +34964,7 @@
 ,
 {
 	"name": "Laeral's Cutting Hand",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -35027,7 +35027,7 @@
 ,
 {
 	"name": "Laeral's Dancing Dweomer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -35083,7 +35083,7 @@
 ,
 {
 	"name": "Laeral's Silver Lance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -35153,7 +35153,7 @@
 ,
 {
 	"name": "Lair Divination",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -35195,7 +35195,7 @@
 ,
 {
 	"name": "Lance Of Disruption",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -35263,7 +35263,7 @@
 ,
 {
 	"name": "Land Womb",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -35313,7 +35313,7 @@
 ,
 {
 	"name": "Lash Of Cruel Inspiration",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -35375,7 +35375,7 @@
 ,
 {
 	"name": "Lasting Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -35431,7 +35431,7 @@
 ,
 {
 	"name": "Laughing Water",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -35491,7 +35491,7 @@
 ,
 {
 	"name": "Launch Ammunition",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "T",
@@ -35551,7 +35551,7 @@
 ,
 {
 	"name": "Lava Eruption",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -35622,7 +35622,7 @@
 ,
 {
 	"name": "Lava Missile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -35689,7 +35689,7 @@
 ,
 {
 	"name": "Lava Splash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -35756,7 +35756,7 @@
 ,
 {
 	"name": "Leading Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -35812,7 +35812,7 @@
 ,
 {
 	"name": "Leaf Into Dagger",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -35866,7 +35866,7 @@
 ,
 {
 	"name": "Leomund's Trap",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -35912,7 +35912,7 @@
 ,
 {
 	"name": "Lesser Acupuncture",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -35972,7 +35972,7 @@
 ,
 {
 	"name": "Lesser Chainfire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -36046,7 +36046,7 @@
 ,
 {
 	"name": "Lesser Fabricate",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -36100,7 +36100,7 @@
 ,
 {
 	"name": "Lesser Guardian Seal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -36161,7 +36161,7 @@
 ,
 {
 	"name": "Lesser Ironguard",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -36222,7 +36222,7 @@
 ,
 {
 	"name": "Lesser Water To Poison",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -36312,7 +36312,7 @@
 ,
 {
 	"name": "Liberating Memory",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -36387,7 +36387,7 @@
 ,
 {
 	"name": "Life Bolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -36439,7 +36439,7 @@
 ,
 {
 	"name": "Life Drain",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -36499,7 +36499,7 @@
 ,
 {
 	"name": "Life Steal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -36570,7 +36570,7 @@
 ,
 {
 	"name": "Lifebane",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -36634,7 +36634,7 @@
 ,
 {
 	"name": "Life's Grace",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -36692,7 +36692,7 @@
 ,
 {
 	"name": "Lifesurge",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -36757,7 +36757,7 @@
 ,
 {
 	"name": "Lifetap",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -36833,7 +36833,7 @@
 ,
 {
 	"name": "Lightfoot",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -36876,7 +36876,7 @@
 ,
 {
 	"name": "Lightning Bug",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -36947,7 +36947,7 @@
 ,
 {
 	"name": "Lightning Clash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -37015,7 +37015,7 @@
 ,
 {
 	"name": "Lightning Reflection",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -37068,7 +37068,7 @@
 ,
 {
 	"name": "Lionheart",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -37117,7 +37117,7 @@
 ,
 {
 	"name": "Lion's Claws",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -37169,7 +37169,7 @@
 ,
 {
 	"name": "Listening Lorecall",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -37230,7 +37230,7 @@
 ,
 {
 	"name": "Lively Step",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -37288,7 +37288,7 @@
 ,
 {
 	"name": "Living Link",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -37354,7 +37354,7 @@
 ,
 {
 	"name": "Locate Animal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -37408,7 +37408,7 @@
 ,
 {
 	"name": "Looming Shadow",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "I",
@@ -37472,7 +37472,7 @@
 ,
 {
 	"name": "Lord's Armor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -37529,7 +37529,7 @@
 ,
 {
 	"name": "Lorloveim's Shadowy Transformation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "I",
@@ -37586,7 +37586,7 @@
 ,
 {
 	"name": "Love Bite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -37647,7 +37647,7 @@
 ,
 {
 	"name": "Love's Lament",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -37706,7 +37706,7 @@
 ,
 {
 	"name": "Loyal Vassal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -37760,7 +37760,7 @@
 ,
 {
 	"name": "Lucky Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -37813,7 +37813,7 @@
 ,
 {
 	"name": "Lullaby",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -37861,7 +37861,7 @@
 ,
 {
 	"name": "Luminous Swarm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -37915,7 +37915,7 @@
 ,
 {
 	"name": "Lungs Of Water",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -37969,7 +37969,7 @@
 ,
 {
 	"name": "Luring Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -38037,7 +38037,7 @@
 ,
 {
 	"name": "Mace Of Odo",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -38103,7 +38103,7 @@
 ,
 {
 	"name": "Maelstrom",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "C",
@@ -38161,7 +38161,7 @@
 ,
 {
 	"name": "Magecraft Focus",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -38212,7 +38212,7 @@
 ,
 {
 	"name": "Magic Fang",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -38274,7 +38274,7 @@
 ,
 {
 	"name": "Magic Fist",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -38338,7 +38338,7 @@
 ,
 {
 	"name": "Magma Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -38379,7 +38379,7 @@
 ,
 {
 	"name": "Magma Jet",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -38439,7 +38439,7 @@
 ,
 {
 	"name": "Magma Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -38499,7 +38499,7 @@
 ,
 {
 	"name": "Magmin Grasp",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -38577,7 +38577,7 @@
 ,
 {
 	"name": "Magnetism",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -38653,7 +38653,7 @@
 ,
 {
 	"name": "Major Telekinetic Weapon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -38727,7 +38727,7 @@
 ,
 {
 	"name": "Malraz's Dramatic Death",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "I",
@@ -38774,7 +38774,7 @@
 ,
 {
 	"name": "Mantle Of Baravar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -38823,7 +38823,7 @@
 ,
 {
 	"name": "Mantle Of The Slime Lord",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -38897,7 +38897,7 @@
 ,
 {
 	"name": "Manythorns",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -38962,7 +38962,7 @@
 ,
 {
 	"name": "Mark Of The Unfaithful",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -39012,7 +39012,7 @@
 ,
 {
 	"name": "Mark Of The Vigilante",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -39099,7 +39099,7 @@
 ,
 {
 	"name": "Maskstone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -39147,7 +39147,7 @@
 ,
 {
 	"name": "Marshal's Mark",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -39223,7 +39223,7 @@
 ,
 {
 	"name": "Marshal's Pursuit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -39295,7 +39295,7 @@
 ,
 {
 	"name": "Marshal's Resolve",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -39363,7 +39363,7 @@
 ,
 {
 	"name": "Marshal's Triumph",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -39428,7 +39428,7 @@
 ,
 {
 	"name": "Martyr's Cry",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -39499,7 +39499,7 @@
 ,
 {
 	"name": "Mask Of Death",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -39555,7 +39555,7 @@
 ,
 {
 	"name": "Masochist's Salvation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -39608,7 +39608,7 @@
 ,
 {
 	"name": "Mass Awaken",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -39653,7 +39653,7 @@
 ,
 {
 	"name": "Mass Curse Of Ill Fortune",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -39703,7 +39703,7 @@
 ,
 {
 	"name": "Mass Death Ward",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "A",
@@ -39749,7 +39749,7 @@
 ,
 {
 	"name": "Mass Fire Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -39799,7 +39799,7 @@
 ,
 {
 	"name": "Mass Longstrider",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -39852,7 +39852,7 @@
 ,
 {
 	"name": "Mass Sanctuary",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -39898,7 +39898,7 @@
 ,
 {
 	"name": "Mass Shield Of Faith",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -39949,7 +39949,7 @@
 ,
 {
 	"name": "Mass Shield Of Warding",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "A",
@@ -39995,7 +39995,7 @@
 ,
 {
 	"name": "Master Earth",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -40039,7 +40039,7 @@
 ,
 {
 	"name": "Master Of The Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -40103,7 +40103,7 @@
 ,
 {
 	"name": "Maximum Damage",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "D",
@@ -40157,7 +40157,7 @@
 ,
 {
 	"name": "Meld Of Lolth",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "E",
@@ -40207,7 +40207,7 @@
 ,
 {
 	"name": "Melf's Slumber Arrows",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -40263,7 +40263,7 @@
 ,
 {
 	"name": "Memorize Scene",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -40331,7 +40331,7 @@
 ,
 {
 	"name": "Memory Rot",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -40396,7 +40396,7 @@
 ,
 {
 	"name": "Merchant's Glamer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -40449,7 +40449,7 @@
 ,
 {
 	"name": "Metal To Rust",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -40556,7 +40556,7 @@
 ,
 {
 	"name": "Meteors Of Celestian",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -40627,7 +40627,7 @@
 ,
 {
 	"name": "Mighty Wallop",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -40677,7 +40677,7 @@
 ,
 {
 	"name": "Mindspeak",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -40731,7 +40731,7 @@
 ,
 {
 	"name": "Minor Creation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -40790,7 +40790,7 @@
 ,
 {
 	"name": "Minor Disguise",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "T",
@@ -40842,7 +40842,7 @@
 ,
 {
 	"name": "Minor Telekinetic Weapon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -40903,7 +40903,7 @@
 ,
 {
 	"name": "Miscast Magic",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -40957,7 +40957,7 @@
 ,
 {
 	"name": "Misdirected Mark",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -41020,7 +41020,7 @@
 ,
 {
 	"name": "Misfire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -41093,7 +41093,7 @@
 ,
 {
 	"name": "Misfortune & Misery",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -41160,7 +41160,7 @@
 ,
 {
 	"name": "Moment Reading",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -41201,7 +41201,7 @@
 ,
 {
 	"name": "Monstrous Thrall",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "E",
@@ -41266,7 +41266,7 @@
 ,
 {
 	"name": "Moon Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -41332,7 +41332,7 @@
 ,
 {
 	"name": "Moon Bolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -41396,7 +41396,7 @@
 ,
 {
 	"name": "Moon Rune",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -41451,7 +41451,7 @@
 ,
 {
 	"name": "Moonbow",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -41522,7 +41522,7 @@
 ,
 {
 	"name": "Moonfire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "C",
@@ -41585,7 +41585,7 @@
 ,
 {
 	"name": "Mordenkainen's Electric Arc",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -41653,7 +41653,7 @@
 ,
 {
 	"name": "Mordenkainen's Penultimate Cogitation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -41711,7 +41711,7 @@
 ,
 {
 	"name": "Mordenkainen's Disjunction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "E",
@@ -41764,7 +41764,7 @@
 ,
 {
 	"name": "Mordenkainen's Force Missile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -41827,7 +41827,7 @@
 ,
 {
 	"name": "Mountain Stance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -41892,7 +41892,7 @@
 ,
 {
 	"name": "Multi-Lock",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -41946,7 +41946,7 @@
 ,
 {
 	"name": "Murderous Mist",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -42021,7 +42021,7 @@
 ,
 {
 	"name": "Murderous Twin",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -42080,7 +42080,7 @@
 ,
 {
 	"name": "Mycontil's Last Resort",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -42135,7 +42135,7 @@
 ,
 {
 	"name": "Nature's Avatar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -42188,7 +42188,7 @@
 ,
 {
 	"name": "Mystical Awareness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -42224,7 +42224,7 @@
 ,
 {
 	"name": "Nauseating Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -42285,7 +42285,7 @@
 ,
 {
 	"name": "Necrotic Compulsion",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -42359,7 +42359,7 @@
 ,
 {
 	"name": "Necrotic Web",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -42427,7 +42427,7 @@
 ,
 {
 	"name": "Negative Energy Aura",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -42504,7 +42504,7 @@
 ,
 {
 	"name": "Needlestorm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -42565,7 +42565,7 @@
 ,
 {
 	"name": "Nerveskitter",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -42619,7 +42619,7 @@
 ,
 {
 	"name": "Nightmare Lullaby",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -42682,7 +42682,7 @@
 ,
 {
 	"name": "Nightscar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -42748,7 +42748,7 @@
 ,
 {
 	"name": "Nightshield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -42810,7 +42810,7 @@
 ,
 {
 	"name": "Nimodes' Major Delousing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -42872,7 +42872,7 @@
 ,
 {
 	"name": "No More Lies",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -42931,7 +42931,7 @@
 ,
 {
 	"name": "Note Of Aggression",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "E",
@@ -42984,7 +42984,7 @@
 ,
 {
 	"name": "Numinous Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -43049,7 +43049,7 @@
 ,
 {
 	"name": "Nybor's Gentle Reminder",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -43102,7 +43102,7 @@
 ,
 {
 	"name": "Nystul's Blacklight Burst",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -43167,7 +43167,7 @@
 ,
 {
 	"name": "Nystul's Flash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -43226,7 +43226,7 @@
 ,
 {
 	"name": "Oak Skewer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -43296,7 +43296,7 @@
 ,
 {
 	"name": "Oakheart",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -43345,7 +43345,7 @@
 ,
 {
 	"name": "Obedient Avalanche",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "C",
@@ -43416,7 +43416,7 @@
 ,
 {
 	"name": "Odeen's Impenetrable Lock",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -43480,7 +43480,7 @@
 ,
 {
 	"name": "Open The Floodgates",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "E",
@@ -43543,7 +43543,7 @@
 ,
 {
 	"name": "Opportune Lacuna",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "I",
@@ -43614,7 +43614,7 @@
 ,
 {
 	"name": "Orb Of Cold",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -43678,7 +43678,7 @@
 ,
 {
 	"name": "Orb Of Dancing Death",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -43744,7 +43744,7 @@
 ,
 {
 	"name": "Otiluke's Acid Cloud",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -43814,7 +43814,7 @@
 ,
 {
 	"name": "Otiluke's Boiling Oil Bath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -43879,7 +43879,7 @@
 ,
 {
 	"name": "Otiluke's Bubbling Buoyancy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -43943,7 +43943,7 @@
 ,
 {
 	"name": "Otiluke's Death Screen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -44007,7 +44007,7 @@
 ,
 {
 	"name": "Otiluke's Diamond Screen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -44068,7 +44068,7 @@
 ,
 {
 	"name": "Otiluke's Dispelling Screen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -44132,7 +44132,7 @@
 ,
 {
 	"name": "Otiluke's Electrical Screen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -44197,7 +44197,7 @@
 ,
 {
 	"name": "Otiluke's Excruciating Screen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -44258,7 +44258,7 @@
 ,
 {
 	"name": "Otiluke's Fire And Ice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -44314,7 +44314,7 @@
 ,
 {
 	"name": "Otiluke's Orb Of Containment",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -44364,7 +44364,7 @@
 ,
 {
 	"name": "Otiluke's Polar Screen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -44425,7 +44425,7 @@
 ,
 {
 	"name": "Otiluke's Radiant Screen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -44540,7 +44540,7 @@
 ,
 {
 	"name": "Otiluke's Siege Sphere",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -44622,7 +44622,7 @@
 ,
 {
 	"name": "Otiluke's Smoky Sphere",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -44681,7 +44681,7 @@
 ,
 {
 	"name": "Otiluke's Telekinetic Sphere",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -44732,7 +44732,7 @@
 ,
 {
 	"name": "Otto's Crystal Rhythms",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -44786,7 +44786,7 @@
 ,
 {
 	"name": "Overwhelming Revelations",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "D",
@@ -44844,7 +44844,7 @@
 ,
 {
 	"name": "Pain",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -44927,7 +44927,7 @@
 ,
 {
 	"name": "Painful Revelations",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -44977,7 +44977,7 @@
 ,
 {
 	"name": "Paralyzing Field",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -45039,7 +45039,7 @@
 ,
 {
 	"name": "Paralyzing Smite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -45089,7 +45089,7 @@
 ,
 {
 	"name": "Past Life",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -45146,7 +45146,7 @@
 ,
 {
 	"name": "Phantasmal Assault",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "I",
@@ -45207,7 +45207,7 @@
 ,
 {
 	"name": "Phantom Caravan",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -45261,7 +45261,7 @@
 ,
 {
 	"name": "Phantom Wind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -45319,7 +45319,7 @@
 ,
 {
 	"name": "Pierce Any Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -45369,7 +45369,7 @@
 ,
 {
 	"name": "Piercing Smite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -45413,7 +45413,7 @@
 ,
 {
 	"name": "Pinnacle Of Awareness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -45478,7 +45478,7 @@
 ,
 {
 	"name": "Plague Bearer's Masque",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "I",
@@ -45543,7 +45543,7 @@
 ,
 {
 	"name": "Plague Of Undead",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "N",
@@ -45599,7 +45599,7 @@
 ,
 {
 	"name": "Pocket Cave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -45664,7 +45664,7 @@
 ,
 {
 	"name": "Poisonous Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -45736,7 +45736,7 @@
 ,
 {
 	"name": "Poison Smite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -45798,7 +45798,7 @@
 ,
 {
 	"name": "Poisonstar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -45856,7 +45856,7 @@
 ,
 {
 	"name": "Polar Ray",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -45908,7 +45908,7 @@
 ,
 {
 	"name": "Pool Of Deeds",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -45957,7 +45957,7 @@
 ,
 {
 	"name": "Portrait",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -46011,7 +46011,7 @@
 ,
 {
 	"name": "Positive Energy Aura",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -46072,7 +46072,7 @@
 ,
 {
 	"name": "Predatory Shards",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -46148,7 +46148,7 @@
 ,
 {
 	"name": "Premonitory Vision",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -46208,7 +46208,7 @@
 ,
 {
 	"name": "Prescient Sense",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -46274,7 +46274,7 @@
 ,
 {
 	"name": "Prismal's Wormhole",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "C",
@@ -46324,7 +46324,7 @@
 ,
 {
 	"name": "Prismatic Ray",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -46386,7 +46386,7 @@
 ,
 {
 	"name": "Probe Thoughts",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "D",
@@ -46443,7 +46443,7 @@
 ,
 {
 	"name": "Project Object",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -46505,7 +46505,7 @@
 ,
 {
 	"name": "Projected Magnification",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -46555,7 +46555,7 @@
 ,
 {
 	"name": "Programmed Image",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "I",
@@ -46625,7 +46625,7 @@
 ,
 {
 	"name": "Prophesied Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -46671,7 +46671,7 @@
 ,
 {
 	"name": "Protection From Aerial Attack",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -46736,7 +46736,7 @@
 ,
 {
 	"name": "Protection From Cantrips",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -46813,7 +46813,7 @@
 ,
 {
 	"name": "Protection From Normal Missiles",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -46871,7 +46871,7 @@
 ,
 {
 	"name": "Protection From Normal Weapons",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -46933,7 +46933,7 @@
 ,
 {
 	"name": "Protection From Paralysis",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -46995,7 +46995,7 @@
 ,
 {
 	"name": "Protective Amulet",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -47045,7 +47045,7 @@
 ,
 {
 	"name": "Psychic Assessment",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -47098,7 +47098,7 @@
 ,
 {
 	"name": "Psychic Backlash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -47159,7 +47159,7 @@
 ,
 {
 	"name": "Psychic Poison",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -47220,7 +47220,7 @@
 ,
 {
 	"name": "Psychic Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -47283,7 +47283,7 @@
 ,
 {
 	"name": "Psychic Shock",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "I",
@@ -47344,7 +47344,7 @@
 ,
 {
 	"name": "Pummeling Drumbeat",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -47397,7 +47397,7 @@
 ,
 {
 	"name": "Punishing Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -47460,7 +47460,7 @@
 ,
 {
 	"name": "Pyroclastic Tide",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -47527,7 +47527,7 @@
 ,
 {
 	"name": "Quickening Breeze",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -47597,7 +47597,7 @@
 ,
 {
 	"name": "Quickling Step",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "T",
@@ -47656,7 +47656,7 @@
 ,
 {
 	"name": "Quill Blast",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -47751,7 +47751,7 @@
 ,
 {
 	"name": "Quillfire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -47807,7 +47807,7 @@
 ,
 {
 	"name": "Quivaelyn's Silversteel Veil",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -47872,7 +47872,7 @@
 ,
 {
 	"name": "Quivaelyn's Sharpening Palm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -47931,7 +47931,7 @@
 ,
 {
 	"name": "Quivaelyn's Sloth Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -48006,7 +48006,7 @@
 ,
 {
 	"name": "Quivaelyn's Wind Stepping Stance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -48070,7 +48070,7 @@
 ,
 {
 	"name": "Radiant Assault",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -48140,7 +48140,7 @@
 ,
 {
 	"name": "Rage Beacon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -48190,7 +48190,7 @@
 ,
 {
 	"name": "Rain Of Blood",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -48255,7 +48255,7 @@
 ,
 {
 	"name": "Rain Of Steel",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -48318,7 +48318,7 @@
 ,
 {
 	"name": "Rainbow Beam",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -48421,7 +48421,7 @@
 ,
 {
 	"name": "Rainbow Blast",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -48489,7 +48489,7 @@
 ,
 {
 	"name": "Random Casualty",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -48538,7 +48538,7 @@
 ,
 {
 	"name": "Rarys Mnemonic Enhancer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -48587,7 +48587,7 @@
 ,
 {
 	"name": "Rary's Superior Spell Enhancer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -48645,7 +48645,7 @@
 ,
 {
 	"name": "Ray Of Entropy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -48707,7 +48707,7 @@
 ,
 {
 	"name": "Ray Of Exhaustion",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -48771,7 +48771,7 @@
 ,
 {
 	"name": "Ray Of Ondovir",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -48823,7 +48823,7 @@
 ,
 {
 	"name": "Ray Of Reprisal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -48871,7 +48871,7 @@
 ,
 {
 	"name": "Razorscales",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -48940,7 +48940,7 @@
 ,
 {
 	"name": "Read Moods",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -48999,7 +48999,7 @@
 ,
 {
 	"name": "Read Object",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "D",
@@ -49065,7 +49065,7 @@
 ,
 {
 	"name": "Reality Maelstrom",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "V",
@@ -49245,7 +49245,7 @@
 ,
 {
 	"name": "Reaver's Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -49316,7 +49316,7 @@
 ,
 {
 	"name": "Recitation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "E",
@@ -49374,7 +49374,7 @@
 ,
 {
 	"name": "Redirect Spell",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -49440,7 +49440,7 @@
 ,
 {
 	"name": "Reflect Elements",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -49496,7 +49496,7 @@
 ,
 {
 	"name": "Refuge Talisman",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -49551,7 +49551,7 @@
 ,
 {
 	"name": "Regal Procession",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -49603,7 +49603,7 @@
 ,
 {
 	"name": "Rejuvenate Self",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -49664,7 +49664,7 @@
 ,
 {
 	"name": "Remote Viewing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "D",
@@ -49716,7 +49716,7 @@
 ,
 {
 	"name": "Revenance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -49761,7 +49761,7 @@
 ,
 {
 	"name": "Reverse Arrows",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -49822,7 +49822,7 @@
 ,
 {
 	"name": "Reverse Teleport",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "C",
@@ -49875,7 +49875,7 @@
 ,
 {
 	"name": "Righteous Might",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -49938,7 +49938,7 @@
 ,
 {
 	"name": "Rip Creature",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -50015,7 +50015,7 @@
 ,
 {
 	"name": "Ripen",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -50066,7 +50066,7 @@
 ,
 {
 	"name": "Rune Of Peace",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -50130,7 +50130,7 @@
 ,
 {
 	"name": "Ruthless Assault",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -50174,7 +50174,7 @@
 ,
 {
 	"name": "Sacred Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -50237,7 +50237,7 @@
 ,
 {
 	"name": "Saga Of Foretold Doom",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "D",
@@ -50295,7 +50295,7 @@
 ,
 {
 	"name": "Salutary Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -50354,7 +50354,7 @@
 ,
 {
 	"name": "Sand Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -50410,7 +50410,7 @@
 ,
 {
 	"name": "Scattered Form",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -50469,7 +50469,7 @@
 ,
 {
 	"name": "Scintillating Sphere",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -50521,7 +50521,7 @@
 ,
 {
 	"name": "Seal Mouth",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -50584,7 +50584,7 @@
 ,
 {
 	"name": "Searing Light",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -50646,7 +50646,7 @@
 ,
 {
 	"name": "Secret Page",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -50709,7 +50709,7 @@
 ,
 {
 	"name": "See Hidden Doors",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -50767,7 +50767,7 @@
 ,
 {
 	"name": "See Through Other Eyes",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -50824,7 +50824,7 @@
 ,
 {
 	"name": "Seed Of Fire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -50895,7 +50895,7 @@
 ,
 {
 	"name": "Seek Eternal Rest",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -50947,7 +50947,7 @@
 ,
 {
 	"name": "Seeking Missile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -51003,7 +51003,7 @@
 ,
 {
 	"name": "Seize Mind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -51078,7 +51078,7 @@
 ,
 {
 	"name": "Sensate's Rush",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -51134,7 +51134,7 @@
 ,
 {
 	"name": "Sensory Caress",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -51201,7 +51201,7 @@
 ,
 {
 	"name": "Sensory Deprivation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "I",
@@ -51276,7 +51276,7 @@
 ,
 {
 	"name": "Sentinel's Mark",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -51335,7 +51335,7 @@
 ,
 {
 	"name": "Serenity Of Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -51408,7 +51408,7 @@
 ,
 {
 	"name": "Serpent Arrows",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -51485,7 +51485,7 @@
 ,
 {
 	"name": "Serpent Missile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -51564,7 +51564,7 @@
 ,
 {
 	"name": "Serten's Spell Immunity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -51609,7 +51609,7 @@
 ,
 {
 	"name": "Servant Army",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -51687,7 +51687,7 @@
 ,
 {
 	"name": "Shadow Burst",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -51752,7 +51752,7 @@
 ,
 {
 	"name": "Shadow Form",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "I",
@@ -51811,7 +51811,7 @@
 ,
 {
 	"name": "Shadow Magic",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "I",
@@ -51888,7 +51888,7 @@
 ,
 {
 	"name": "Shadow Missile",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -51973,7 +51973,7 @@
 ,
 {
 	"name": "Shadow Monsters",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -52039,7 +52039,7 @@
 ,
 {
 	"name": "Shadow Sight",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -52098,7 +52098,7 @@
 ,
 {
 	"name": "Shadow Walk",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -52154,7 +52154,7 @@
 ,
 {
 	"name": "Shadowing Mark",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -52227,7 +52227,7 @@
 ,
 {
 	"name": "Shard Storm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -52283,7 +52283,7 @@
 ,
 {
 	"name": "Shield Of Warding",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -52343,7 +52343,7 @@
 ,
 {
 	"name": "Shieldbearer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -52407,7 +52407,7 @@
 ,
 {
 	"name": "Shielding Cube",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -52468,7 +52468,7 @@
 ,
 {
 	"name": "Shift Glyph",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -52527,7 +52527,7 @@
 ,
 {
 	"name": "Shifting Paths",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "I",
@@ -52593,7 +52593,7 @@
 ,
 {
 	"name": "Shifting Shadow",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "C",
@@ -52640,7 +52640,7 @@
 ,
 {
 	"name": "Shockwave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -52703,7 +52703,7 @@
 ,
 {
 	"name": "Shroud Of Undeath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -52775,7 +52775,7 @@
 ,
 {
 	"name": "Shooting Stars",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "V",
@@ -52840,7 +52840,7 @@
 ,
 {
 	"name": "Shout Of Deafening Thunder",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -52907,7 +52907,7 @@
 ,
 {
 	"name": "Sign Of Sealing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -52976,7 +52976,7 @@
 ,
 {
 	"name": "Sign Of Warning",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -53035,7 +53035,7 @@
 ,
 {
 	"name": "Silent Portal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "I",
@@ -53088,7 +53088,7 @@
 ,
 {
 	"name": "Simbul's Spell Sequencer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -53146,7 +53146,7 @@
 ,
 {
 	"name": "Sinsabur's Baleful Bolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -53210,7 +53210,7 @@
 ,
 {
 	"name": "Sinuous Horrors",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -53261,7 +53261,7 @@
 ,
 {
 	"name": "Skip Time",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -53318,7 +53318,7 @@
 ,
 {
 	"name": "Skulking Spy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "I",
@@ -53362,7 +53362,7 @@
 ,
 {
 	"name": "Slaying Arrow",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -53422,7 +53422,7 @@
 ,
 {
 	"name": "Sleep Of Horror",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -53482,7 +53482,7 @@
 ,
 {
 	"name": "Sleeper Awakens",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "D",
@@ -53534,7 +53534,7 @@
 ,
 {
 	"name": "Slime Wave",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -53588,7 +53588,7 @@
 ,
 {
 	"name": "Snilloc's Snowball",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -53651,7 +53651,7 @@
 ,
 {
 	"name": "Snow Boots",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -53719,7 +53719,7 @@
 ,
 {
 	"name": "Snow Snakes",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -53785,7 +53785,7 @@
 ,
 {
 	"name": "Song Of Battle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "E",
@@ -53839,7 +53839,7 @@
 ,
 {
 	"name": "Sorcerous Scribe",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -53899,7 +53899,7 @@
 ,
 {
 	"name": "Soul Scour",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -53972,7 +53972,7 @@
 ,
 {
 	"name": "Sow Confusion",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "I",
@@ -54033,7 +54033,7 @@
 ,
 {
 	"name": "Spark Of Life",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -54089,7 +54089,7 @@
 ,
 {
 	"name": "Speechlink",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -54137,7 +54137,7 @@
 ,
 {
 	"name": "Speed Of Thought",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -54218,7 +54218,7 @@
 ,
 {
 	"name": "Spell Engine",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "A",
@@ -54263,7 +54263,7 @@
 ,
 {
 	"name": "Spell Resistance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -54325,7 +54325,7 @@
 ,
 {
 	"name": "Sphere Of Adaptation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "D",
@@ -54382,7 +54382,7 @@
 ,
 {
 	"name": "Sphere Of Ultimate Destruction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "C",
@@ -54449,7 +54449,7 @@
 ,
 {
 	"name": "Sphere Of Wonder",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -54504,7 +54504,7 @@
 ,
 {
 	"name": "Spider Gout",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -54559,7 +54559,7 @@
 ,
 {
 	"name": "Spider Plague",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -54622,7 +54622,7 @@
 ,
 {
 	"name": "Spidersilk Slash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -54683,7 +54683,7 @@
 ,
 {
 	"name": "Spirit Annihilation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -54739,7 +54739,7 @@
 ,
 {
 	"name": "Spirit Mask",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -54796,7 +54796,7 @@
 ,
 {
 	"name": "Spirit Of Flame",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -54849,7 +54849,7 @@
 ,
 {
 	"name": "Spirits Of Victory",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "C",
@@ -54909,7 +54909,7 @@
 ,
 {
 	"name": "Spiteful Glamour",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -54968,7 +54968,7 @@
 ,
 {
 	"name": "Spy's Recovery",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -55017,7 +55017,7 @@
 ,
 {
 	"name": "Stalwart Pact",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -55082,7 +55082,7 @@
 ,
 {
 	"name": "Static Shock",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "A",
@@ -55142,7 +55142,7 @@
 ,
 {
 	"name": "Steal Speed",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "N",
@@ -55212,7 +55212,7 @@
 ,
 {
 	"name": "Step Of A Dozen Paces",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -55275,7 +55275,7 @@
 ,
 {
 	"name": "Sticks To Snakes",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -55342,7 +55342,7 @@
 ,
 {
 	"name": "Stolen Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -55388,7 +55388,7 @@
 ,
 {
 	"name": "Stone Body",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -55453,7 +55453,7 @@
 ,
 {
 	"name": "Stone Spiders",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -55511,7 +55511,7 @@
 ,
 {
 	"name": "Stone Tell",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "D",
@@ -55556,7 +55556,7 @@
 ,
 {
 	"name": "Stone Walk",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -55604,7 +55604,7 @@
 ,
 {
 	"name": "Stony Grasp",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -55667,7 +55667,7 @@
 ,
 {
 	"name": "Storm Cone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -55731,7 +55731,7 @@
 ,
 {
 	"name": "Storm Of Elemental Fury",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -55790,7 +55790,7 @@
 ,
 {
 	"name": "Storm Shield",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -55840,7 +55840,7 @@
 ,
 {
 	"name": "Storm Tower",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -55895,7 +55895,7 @@
 ,
 {
 	"name": "Stormrage",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -55948,7 +55948,7 @@
 ,
 {
 	"name": "Strength Of One",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -56006,7 +56006,7 @@
 ,
 {
 	"name": "Strength Of Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -56055,7 +56055,7 @@
 ,
 {
 	"name": "Succor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "E",
@@ -56110,7 +56110,7 @@
 ,
 {
 	"name": "Sudden Formation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -56161,7 +56161,7 @@
 ,
 {
 	"name": "Sudden Stalagmite",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -56219,7 +56219,7 @@
 ,
 {
 	"name": "Sudden Transposition",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "C",
@@ -56273,7 +56273,7 @@
 ,
 {
 	"name": "Suffer The Flesh",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -56326,7 +56326,7 @@
 ,
 {
 	"name": "Summons Of Justice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -56387,7 +56387,7 @@
 ,
 {
 	"name": "Summons Of Khirad",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "C",
@@ -56442,7 +56442,7 @@
 ,
 {
 	"name": "Sunbolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -56500,7 +56500,7 @@
 ,
 {
 	"name": "Sundered Bravery",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -56575,7 +56575,7 @@
 ,
 {
 	"name": "Sunscorch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -56652,7 +56652,7 @@
 ,
 {
 	"name": "Sunstone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -56709,7 +56709,7 @@
 ,
 {
 	"name": "Superior Invisibility",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "I",
@@ -56770,7 +56770,7 @@
 ,
 {
 	"name": "Superior Resistance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "A",
@@ -56832,7 +56832,7 @@
 ,
 {
 	"name": "Suppress Lycanthropy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -56886,7 +56886,7 @@
 ,
 {
 	"name": "Surge Of Speed",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -56941,7 +56941,7 @@
 ,
 {
 	"name": "Sustain Fire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -57001,7 +57001,7 @@
 ,
 {
 	"name": "Sustaining Meditation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -57088,7 +57088,7 @@
 ,
 {
 	"name": "Sword Of Sigils",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -57148,7 +57148,7 @@
 ,
 {
 	"name": "Swordshun",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -57206,7 +57206,7 @@
 ,
 {
 	"name": "Sympathetic Agony",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -57262,7 +57262,7 @@
 ,
 {
 	"name": "Symphonic Nightmare",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "E",
@@ -57327,7 +57327,7 @@
 ,
 {
 	"name": "Synostodweomer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -57380,7 +57380,7 @@
 ,
 {
 	"name": "Tactical Precision",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -57441,7 +57441,7 @@
 ,
 {
 	"name": "Talona's Blessing",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -57486,7 +57486,7 @@
 ,
 {
 	"name": "Target Of All",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -57548,7 +57548,7 @@
 ,
 {
 	"name": "Tartarean Tomb",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -57615,7 +57615,7 @@
 ,
 {
 	"name": "Tattoo Projectiles",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "I",
@@ -57702,7 +57702,7 @@
 ,
 {
 	"name": "Tearing Claws",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -57773,7 +57773,7 @@
 ,
 {
 	"name": "Telekinetic Slam",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -57830,7 +57830,7 @@
 ,
 {
 	"name": "Telepathic Link",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -57891,7 +57891,7 @@
 ,
 {
 	"name": "Tempestcone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "A",
@@ -57952,7 +57952,7 @@
 ,
 {
 	"name": "Temporal Push",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "C",
@@ -58010,7 +58010,7 @@
 ,
 {
 	"name": "Temporal Stasis",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -58067,7 +58067,7 @@
 ,
 {
 	"name": "Tendrils Of Thuban",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "C",
@@ -58132,7 +58132,7 @@
 ,
 {
 	"name": "Tenser's Destructive Resonance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -58222,7 +58222,7 @@
 ,
 {
 	"name": "Tenser's Eye Of The Eagle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -58274,7 +58274,7 @@
 ,
 {
 	"name": "Tenser's Masters Of Arms",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -58333,7 +58333,7 @@
 ,
 {
 	"name": "Tentacular Transformation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -58402,7 +58402,7 @@
 ,
 {
 	"name": "Thanguul''s Preservation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -58450,7 +58450,7 @@
 ,
 {
 	"name": "The Doom Of Bane",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -58492,7 +58492,7 @@
 ,
 {
 	"name": "Thief's Lament",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "E",
@@ -58554,7 +58554,7 @@
 ,
 {
 	"name": "Thornwrack",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -58611,7 +58611,7 @@
 ,
 {
 	"name": "Thought Blast",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -58683,7 +58683,7 @@
 ,
 {
 	"name": "Thought Harvest",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "D",
@@ -58747,7 +58747,7 @@
 ,
 {
 	"name": "Thought Projection",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -58796,7 +58796,7 @@
 ,
 {
 	"name": "Threefold Boon",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "A",
@@ -58844,7 +58844,7 @@
 ,
 {
 	"name": "Threehorn's Charge",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -58912,7 +58912,7 @@
 ,
 {
 	"name": "Thunder Riposte",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -58977,7 +58977,7 @@
 ,
 {
 	"name": "Thundering Armor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -59059,7 +59059,7 @@
 ,
 {
 	"name": "Thunderlance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -59117,7 +59117,7 @@
 ,
 {
 	"name": "Thunderous Reprisal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -59198,7 +59198,7 @@
 ,
 {
 	"name": "Tortoise Shell",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -59252,7 +59252,7 @@
 ,
 {
 	"name": "Touch Of The Blackened Soul",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -59306,7 +59306,7 @@
 ,
 {
 	"name": "Touch Of The Talontar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -59370,7 +59370,7 @@
 ,
 {
 	"name": "Trait Rip",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -59433,7 +59433,7 @@
 ,
 {
 	"name": "Transmute Rock To Lava",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -59489,7 +59489,7 @@
 ,
 {
 	"name": "Trapspringer",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -59554,7 +59554,7 @@
 ,
 {
 	"name": "Treasure Scent",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -59604,7 +59604,7 @@
 ,
 {
 	"name": "Tremorsense",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -59670,7 +59670,7 @@
 ,
 {
 	"name": "Trollish Fortitude",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -59722,7 +59722,7 @@
 ,
 {
 	"name": "Turn Pebble To Boulder",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "T",
@@ -59792,7 +59792,7 @@
 ,
 {
 	"name": "Twisting Throw",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -59850,7 +59850,7 @@
 ,
 {
 	"name": "Unbinding",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "A",
@@ -59904,7 +59904,7 @@
 ,
 {
 	"name": "Uncanny Balance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "T",
@@ -59956,7 +59956,7 @@
 ,
 {
 	"name": "Undead Battlemight",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "N",
@@ -60015,7 +60015,7 @@
 ,
 {
 	"name": "Undead Focus",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -60077,7 +60077,7 @@
 ,
 {
 	"name": "Undead Regeneration",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -60139,7 +60139,7 @@
 ,
 {
 	"name": "Undeath's Eternal Foe",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "A",
@@ -60186,7 +60186,7 @@
 ,
 {
 	"name": "Undeath To Death",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -60252,7 +60252,7 @@
 ,
 {
 	"name": "Undersong",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -60298,7 +60298,7 @@
 ,
 {
 	"name": "Unexpected Clarity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "E",
@@ -60374,7 +60374,7 @@
 ,
 {
 	"name": "Unified Resilience",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "A",
@@ -60422,7 +60422,7 @@
 ,
 {
 	"name": "Unleash Devastation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -60473,7 +60473,7 @@
 ,
 {
 	"name": "Unleash Instincts",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "T",
@@ -60544,7 +60544,7 @@
 ,
 {
 	"name": "Unluck",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -60617,7 +60617,7 @@
 ,
 {
 	"name": "Unname",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "N",
@@ -60676,7 +60676,7 @@
 ,
 {
 	"name": "Unpickable Lock",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -60729,7 +60729,7 @@
 ,
 {
 	"name": "Unshakable Bond",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -60807,7 +60807,7 @@
 ,
 {
 	"name": "Unyielding Roots",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "T",
@@ -60862,7 +60862,7 @@
 ,
 {
 	"name": "Updraft",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "C",
@@ -60920,7 +60920,7 @@
 ,
 {
 	"name": "Valiancy",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -60985,7 +60985,7 @@
 ,
 {
 	"name": "Valiant Fury",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -61038,7 +61038,7 @@
 ,
 {
 	"name": "Vampiric Lash",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -61105,7 +61105,7 @@
 ,
 {
 	"name": "Vampiric Mists",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "N",
@@ -61179,7 +61179,7 @@
 ,
 {
 	"name": "Vampiric Youthfulness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -61220,7 +61220,7 @@
 ,
 {
 	"name": "Vaporize",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -61277,7 +61277,7 @@
 ,
 {
 	"name": "Vecna's Final Command",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -61340,7 +61340,7 @@
 ,
 {
 	"name": "Venom Bolt",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -61420,7 +61420,7 @@
 ,
 {
 	"name": "Venomfire",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "T",
@@ -61496,7 +61496,7 @@
 ,
 {
 	"name": "Vigilante Grit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -61543,7 +61543,7 @@
 ,
 {
 	"name": "Vigor",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "V",
@@ -61604,7 +61604,7 @@
 ,
 {
 	"name": "Vigorous Circle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -61666,7 +61666,7 @@
 ,
 {
 	"name": "Vipergout",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -61732,7 +61732,7 @@
 ,
 {
 	"name": "Virtuous Strike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "V",
@@ -61785,7 +61785,7 @@
 ,
 {
 	"name": "Virus Charm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "E",
@@ -61851,7 +61851,7 @@
 ,
 {
 	"name": "Visage Of The Deity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -61920,7 +61920,7 @@
 ,
 {
 	"name": "Vision Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "D",
@@ -61976,7 +61976,7 @@
 ,
 {
 	"name": "Vocalize",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -62029,7 +62029,7 @@
 ,
 {
 	"name": "Voice Of Battle",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "E",
@@ -62087,7 +62087,7 @@
 ,
 {
 	"name": "Volcanic Eruption",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "T",
@@ -62157,7 +62157,7 @@
 ,
 {
 	"name": "Volcanic Rage",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "E",
@@ -62239,7 +62239,7 @@
 ,
 {
 	"name": "Vorpal Doom",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "E",
@@ -62311,7 +62311,7 @@
 ,
 {
 	"name": "Vortex",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "V",
@@ -62381,7 +62381,7 @@
 ,
 {
 	"name": "Wail Of The Banshee",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 9,
 	"school": "N",
@@ -62430,7 +62430,7 @@
 ,
 {
 	"name": "Wailing Wind",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "A",
@@ -62486,7 +62486,7 @@
 ,
 {
 	"name": "Wakefulness",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -62542,7 +62542,7 @@
 ,
 {
 	"name": "Wall Run",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "T",
@@ -62590,7 +62590,7 @@
 ,
 {
 	"name": "Wandbane",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -62652,7 +62652,7 @@
 ,
 {
 	"name": "War Cry",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "E",
@@ -62720,7 +62720,7 @@
 ,
 {
 	"name": "Warning Breath",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -62792,7 +62792,7 @@
 ,
 {
 	"name": "Warning Shout",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "T",
@@ -62844,7 +62844,7 @@
 ,
 {
 	"name": "Warp Stone",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -62898,7 +62898,7 @@
 ,
 {
 	"name": "Wasting",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -62956,7 +62956,7 @@
 ,
 {
 	"name": "Watchware",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -63019,7 +63019,7 @@
 ,
 {
 	"name": "Waterspout",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "C",
@@ -63087,7 +63087,7 @@
 ,
 {
 	"name": "Water To Poison",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -63157,7 +63157,7 @@
 ,
 {
 	"name": "Wave Of Death",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "N",
@@ -63213,7 +63213,7 @@
 ,
 {
 	"name": "Weaken Ability",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "N",
@@ -63276,7 +63276,7 @@
 ,
 {
 	"name": "Weightless Pursuit",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "E",
@@ -63350,7 +63350,7 @@
 ,
 {
 	"name": "Wesley's Delayed Damage",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "A",
@@ -63404,7 +63404,7 @@
 ,
 {
 	"name": "Whip Of Flame",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -63465,7 +63465,7 @@
 ,
 {
 	"name": "Whip Of Pain",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -63532,7 +63532,7 @@
 ,
 {
 	"name": "Whip Of Shar",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 3,
 	"school": "V",
@@ -63606,7 +63606,7 @@
 ,
 {
 	"name": "Whip Of Woe",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -63675,7 +63675,7 @@
 ,
 {
 	"name": "Whirl Of Fangs",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -63744,7 +63744,7 @@
 ,
 {
 	"name": "Whirling Blade",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -63801,7 +63801,7 @@
 ,
 {
 	"name": "Wieldskill",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "D",
@@ -63859,7 +63859,7 @@
 ,
 {
 	"name": "Wind At Back",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -63908,7 +63908,7 @@
 ,
 {
 	"name": "Wind Compass",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "D",
@@ -63961,7 +63961,7 @@
 ,
 {
 	"name": "Windlance",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -64017,7 +64017,7 @@
 ,
 {
 	"name": "Wind Tunnel",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "V",
@@ -64070,7 +64070,7 @@
 ,
 {
 	"name": "Wing Gifting",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "T",
@@ -64122,7 +64122,7 @@
 ,
 {
 	"name": "Winged Horde",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 0,
 	"school": "I",
@@ -64185,7 +64185,7 @@
 ,
 {
 	"name": "Withering Palm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 7,
 	"school": "N",
@@ -64250,7 +64250,7 @@
 ,
 {
 	"name": "Wolfjaws",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -64300,7 +64300,7 @@
 ,
 {
 	"name": "Word Of Law",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "V",
@@ -64368,7 +64368,7 @@
 ,
 {
 	"name": "Wrack",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "N",
@@ -64439,7 +64439,7 @@
 ,
 {
 	"name": "Wracking Touch",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "N",
@@ -64490,7 +64490,7 @@
 ,
 {
 	"name": "Wraithstrike",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "T",
@@ -64534,7 +64534,7 @@
 ,
 {
 	"name": "Wrathful Castigation",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 8,
 	"school": "E",
@@ -64602,7 +64602,7 @@
 ,
 {
 	"name": "Xorn Movement",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 5,
 	"school": "T",
@@ -64657,7 +64657,7 @@
 ,
 {
 	"name": "Your Glorious Sacrifice",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 1,
 	"school": "N",
@@ -64714,7 +64714,7 @@
 ,
 {
 	"name": "Zala's Amberhelm",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 4,
 	"school": "A",
@@ -64772,7 +64772,7 @@
 ,
 {
 	"name": "Zeal",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "A",
@@ -64821,7 +64821,7 @@
 ,
 {
 	"name": "Zealot Pact",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 6,
 	"school": "V",
@@ -64865,7 +64865,7 @@
 ,
 {
 	"name": "Zealous Sanction",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
@@ -64932,7 +64932,7 @@
 ,
 {
 	"name": "Zone Of Natural Purity",
-	"source": "BlackstaffsBookofSpells",
+	"source": "BB5EBS",
 	"page": 0,
 	"level": 2,
 	"school": "V",
