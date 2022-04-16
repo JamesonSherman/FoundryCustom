@@ -3970,6 +3970,61 @@
                 }
             ]
         }
+    },
+
+    {
+        "name": "Gwynharwyf’s Passage",
+        "source": "BB5EBSC",
+        "page": 3,
+        "level": 2,
+        "school": "V",
+        "time": [
+            {
+                "number": 1,
+                "unit": "action"
+            }
+        ],
+        "range": {
+            "type": "cylinder",
+            "distance": {
+                "type": "feet",
+                "amount": 20
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true
+        },
+        "duration": [
+            {
+                "type": "timed",
+                "duration": {
+                    "type": "minute",
+                    "amount": 1
+                },
+                "concentration": true
+            }
+        ],
+        "entries": [
+            "A furious whirlwind of glittering sand spins around you in a 20-ft. radius and moves with you, remaining centered on you.There is a 10-ft. radius cylinder of unaffected space inside thewhirlwind. Creatures in the affected area treat it as difficultterrain and take {@damage 4d6} slashing damage when they enter the area or when they begin their turn there. The whirlwind grants you and those inside it +2 AC against ranged attacks. Creatures in the affected area become blinded while inside itand for 1 round thereafter. The whirlwind also hedges outvapor, gas, and fog."
+        ],
+        "entriesHigherLevel": [
+            {
+                "type": "entries",
+                "name": "At Higher Levels",
+                "entries": [
+                    "When you cast this spell using a spell slotof 3rd or higher, the damage increases by {@damage 2d6} for each spellslot above 2nd."
+                ]
+            }
+        ],
+        "classes": {
+            "fromClassList": [
+                {
+                    "name": "Warlock",
+                    "source": "PHB"
+                }
+            ]
+        }
     }
 
 
