@@ -23,7 +23,7 @@
 	},
     "subclass": [
         {
-			"name": "College of the Battlesong",
+			"name": "College of the Battlesong", 
 			"source": "BB5E",
 			"className": "Bard",
 			"classSource": "PHB",
@@ -66,7 +66,7 @@
 		},
         {
 			"name": "Circle of the Woe Warden",
-			"source": "BB5e",
+			"source": "BB5E",
 			"className": "Druid",
 			"classSource": "PHB",
 			"shortName": "Woe",
@@ -295,7 +295,7 @@
 		},
         {
             "name": "Crucible Shield",
-            "source": "BB5E",
+           "source": "BB5E",
             "className": "Cleric",
             "classSource": "PHB",
             "subclassShortName": "Flame Hammer",
@@ -312,7 +312,7 @@
         },
         {
             "name": "Bonus Proficiencies",
-            "source": "BB5E",
+           "source": "BB5E",
             "className": "Cleric",
             "classSource": "PHB",
             "subclassShortName": "Flame Hammer",
@@ -325,7 +325,7 @@
         },
         {
             "name": "Channel Divinity: Shield of the Forgemaster",
-            "source": "BB5E",
+           "source": "BB5E",
             "className": "Cleric",
             "classSource": "PHB",
             "subclassShortName": "Flame Hammer",
@@ -339,7 +339,7 @@
         },
         {
             "name": "Fanning the Flames",
-            "source": "BB5E",
+           "source": "BB5E",
             "className": "Cleric",
             "classSource": "PHB",
             "subclassShortName": "Flame Hammer",
@@ -353,7 +353,7 @@
         },
 		{
             "name": "Channel Divinity: Blade of the Forgemaster",
-            "source": "BB5E",
+           "source": "BB5E",
             "className": "Cleric",
             "classSource": "PHB",
             "subclassShortName": "Flame Hammer",
@@ -366,7 +366,7 @@
         },
         {
             "name": "Divine Strike",
-            "source": "BB5E",
+           "source": "BB5E",
             "className": "Cleric",
             "classSource": "PHB",
             "subclassShortName": "Flame Hammer",
@@ -379,7 +379,7 @@
         },
         {
             "name": "True Forge Lord",
-            "source": "BB5E",
+           "source": "BB5E",
             "className": "Cleric",
             "classSource": "PHB",
             "subclassShortName": "Flame Hammer",
@@ -2259,7 +2259,7 @@
         ],
         "rarity": "Common",
         "value": 680000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             {
                 "type": "entries",
@@ -2285,7 +2285,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} fire damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2304,7 +2304,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} cold damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2323,7 +2323,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} thunder damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2342,7 +2342,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} acid damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2361,7 +2361,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} force damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2380,7 +2380,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} piercing damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2399,7 +2399,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} necrotic damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2418,7 +2418,7 @@
         ],
         "range": "60/60",
         "rarity": "Common",
-        "source": "BB5E",
+       "source": "BB5E",
         "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} radiant damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
@@ -2431,7 +2431,7 @@
         "ac": 1,
         "rarity": "none",
         "value": 2000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This small metal shield is held by a simple handle for ease of maneuvering. It increases your Armor Class by 1 (replacing the shield's normal bonus to AC) and you are proficient in its use if you are proficient with light armor. It also weighs half as much as a regular shield and can be donned or doffed without using an action."
         ]
@@ -2450,7 +2450,7 @@
         ],
         "rarity": "uncommon",
         "value": 200000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This mighty silver and gem-bladed weapon deals {@dice 1d10} slashing damage when wielded one handed and {@dice 1d12} slashing damage when wielded with two hands.",
 			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
@@ -2470,7 +2470,7 @@
         ],
         "rarity": "uncommon",
         "value": 500000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This power hammer shaped like a might titan deals {@dice 1d12} damage when wielded.",
 			"This weapon inflicts one stack of bleeding on a successful attack",
@@ -2492,7 +2492,7 @@
         ],
         "rarity": "uncommon",
         "value": 100000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This jagged heavy spear deals {@dice 1d6} damage",
 			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
@@ -2516,7 +2516,7 @@
         "range": "20/60",
         "rarity": "common",
         "value": 20000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
 			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
             "This heavy small hammer, while commonly used for construction, makes for a great improvised throwing weapon. This weapon deals {@dice 1d6} slashing damage."
@@ -2537,7 +2537,7 @@
         ],
         "rarity": "uncommon",
         "value": 65000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This gently curved sword allows a properly trained wielder to make blindingly quick strikes.This weapon has the finesse property and deals {@dice 1d8} damage while wielded one handed and {@dice 1d10} while weilded in two hands.",
             "blade master: At the start of combat, you gain advantage on your first attack with this weapon."
@@ -2556,7 +2556,7 @@
         ],
         "rarity": "Common",
         "value": 30000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This common farming tool is a common weapon used by cultists and those who worship death. The Ritual Scythe deals {@dice 1d8} damage",
             "Drained Blade: Every time you kill a creature with the ritual scythe, your next successful attack deals an additional 1d8 necrotic damage."
@@ -2576,7 +2576,7 @@
         ],
         "rarity": "Uncommon",
         "value": 60000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
 			"this weapon may only be wielded by Gith or those with training in Korasiam weaponry.",
             "This verstatile blade actually uses mental energy to create a sharp plasma based blade. THe Gith Mind blade deals {@dice 1d4} damage one handed and {@dice 1d6} two handed",
@@ -2598,7 +2598,7 @@
         ],
         "rarity": "Uncommon",
         "value": 50000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
 			"this weapon may only be wielded by Gith or those with training in Korasiam weaponry.",
             "This peculiar verstatile whip uses mental energy to create a sharp plasma based blade. THe Gith Mind Whip deals {@dice 1d4} damage one handed and {@dice 1d6} two handed",
@@ -2628,7 +2628,7 @@
         "stealth": true,
         "rarity": "Rare",
         "value": 1500000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This inhuman stone slab is enchanted with countless runes and is ordained with jewels and precious metals. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor.",
             "Mountain Wall: As an action you may slam your shield into the ground and 'lock down'. While in this stance the shield acts as a 5 ft. full cover wall (200 HP. 22 AC) and is resistant to all damage types. It takes an action to lift your shield out of the ground."
@@ -2652,7 +2652,7 @@
             "A",
             "L"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
 
         "entries": [
             "The most common and yet most deadly firearm, cog revolvers are staples of most modern armies.Cog revolvers use cartridge ammunition and do {@dice 1d8} piercing damage.",
@@ -2680,7 +2680,7 @@
             "SP",
 			"2H"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
         
          "entries": [
         "The short range but powerful boomstick is a common weapon of riflemen as it is able to unleash close range destruction. The boomstick does {@dice 4d4} piercing damage and consume two ammunition per shot.",
@@ -2704,7 +2704,7 @@
             "A",
             "LD"				
         ],
-        "source": "BB5E",
+       "source": "BB5E",
      "entries": [
         "A powerful long range weapon able to send destruction down range, steam rifles are common place amongst scouts. Steam rifles deal {@dice 3d6} piercing damage and use cartridge ammunition. It takes an action to reload the steam rifle",
 		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
@@ -2729,7 +2729,7 @@
             "A",
             "LD"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
         "fluff": {
             "entries": [
                 {
@@ -2765,7 +2765,7 @@
             "A",
             "L"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
 
         "entries": [
 		"This strange four barreled box loads four shells at a time to be used. Inaccurate but wildly effective against multiple targets clumped together.",
@@ -2790,7 +2790,7 @@
             "A",
 			"H"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
 		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
 		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
@@ -2816,7 +2816,7 @@
             "LD",
 			"L"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
         "A tried and true firearm from the United Empires to the West, the Dragoon is a testament to engineering as it is capable of being used in any weather or battle condition. The dragoon deals {@dice 1d8} bludgeoning damage.",
 		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
@@ -2840,7 +2840,7 @@
 			"2H",
 			"H"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
 		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
 		"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a Dexterity saving throw (DC 15) or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
@@ -2865,7 +2865,7 @@
             "A",
             "LD"
         ],
-        "source": "BB5E",
+       "source": "BB5E",
  
         "entries": [
         "Magazine Load: It is an action to reload this weapon with a premade Rifle clip.",
@@ -2892,7 +2892,7 @@
         ],
         "rarity": "uncommon",
         "value": 15000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This strange combination of chained throwing knives and rope daggers seems to be obtuse to use but in the hands of a deadly kenku can have serious side effects for ones health.",
 			"this weapon may only be wielded by Kenku or those with training in Goldwing Rookery weaponry.",
@@ -2918,7 +2918,7 @@
         ],
         "rarity": "uncommon",
         "value": 15000,
-        "source": "BB5E",
+       "source": "BB5E",
         "entries": [
             "This strange club contains a hollowed interior able to produce astonisingly powerful wind gusts. Those hit by it have their skin rended open.",
 			"this weapon may only be wielded by Kenku or those with training in Goldwing Rookery weaponry.",
@@ -2929,7 +2929,7 @@
     },
     {
         "name": "Stone Armor",
-        "source": "BB5E",
+       "source": "BB5E",
         "type": "HA",
         "rarity": "none",
         "weight": 100,
@@ -2943,7 +2943,7 @@
     },
     {
         "name": "Hunter's Armor",
-        "source": "BB5E",
+       "source": "BB5E",
         "type": "HA",
         "rarity": "none",
         "weight": 45,
@@ -2958,7 +2958,7 @@
     },
     {
         "name": "Void Armor",
-        "source": "BB5E",
+       "source": "BB5E",
         "type": "HA",
         "rarity": "none",
         "weight": 65,
@@ -2980,7 +2980,7 @@
 
     {
         "name": "Reinforced Plate Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 145,
         "srd": true,
         "basicRules": true,
@@ -3000,7 +3000,7 @@
     },
     {
         "name": "Absorbant Breastplate",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 145,
         "srd": true,
         "basicRules": true,
@@ -3020,7 +3020,7 @@
     },
     {
         "name": "Half Plate Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 145,
         "srd": true,
         "basicRules": true,
@@ -3037,7 +3037,7 @@
     },
     {
         "name": "Breathable Leather Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3054,7 +3054,7 @@
     },
     {
         "name": "Chain Mail",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 145,
         "srd": true,
         "basicRules": true,
@@ -3072,7 +3072,7 @@
     },
     {
         "name": "Chain Shirt",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3089,7 +3089,7 @@
 
     {
         "name": "Piercing Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3107,7 +3107,7 @@
     },
     {
         "name": "Acidic Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3125,7 +3125,7 @@
     },
     {
         "name": "Soft Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3143,7 +3143,7 @@
     },
     {
         "name": "Quilted Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3161,7 +3161,7 @@
     },
     {
         "name": "Heated Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3179,7 +3179,7 @@
     },
     {
         "name": "Iced Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3197,7 +3197,7 @@
     },
     {
         "name": "Rubber Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3215,7 +3215,7 @@
     },
     {
         "name": "Sound Absorbant Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3233,7 +3233,7 @@
     },
     {
         "name": "Lead Lined Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3251,7 +3251,7 @@
     },
     {
         "name": "Poppy Milk Padded Armor",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3275,7 +3275,7 @@
 
     {
         "name": "Camouflaged Scale Mail",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 144,
         "srd": true,
         "basicRules": true,
@@ -3311,7 +3311,7 @@
 
     {
         "name": "Club",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3333,7 +3333,7 @@
     },
     {
         "name": "Dagger",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3358,7 +3358,7 @@
     },
     {
         "name": "Flail",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3376,7 +3376,7 @@
     },
     {
         "name": "Glaive",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3399,7 +3399,7 @@
     },
     {
         "name": "Greataxe",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3422,7 +3422,7 @@
     },
     {
         "name": "Greatclub",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3444,7 +3444,7 @@
     },
     {
         "name": "Greatsword",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3467,7 +3467,7 @@
     },
     {
         "name": "Halberd",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3490,7 +3490,7 @@
     },
     {
         "name": "Handaxe",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3514,7 +3514,7 @@
     },
     {
         "name": "Javelin",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3537,7 +3537,7 @@
     },
     {
         "name": "Light Hammer",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3561,7 +3561,7 @@
     },
     {
         "name": "Mace",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3580,7 +3580,7 @@
     },
     {
         "name": "Quarterstaff",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3602,7 +3602,7 @@
     },
     {
         "name": "Sickle",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3623,7 +3623,7 @@
     },
     {
         "name": "Spear",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3648,7 +3648,7 @@
     },
     {
         "name": "Battleaxe",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3671,7 +3671,7 @@
     },
     {
         "name": "Lance",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3700,7 +3700,7 @@
     },
     {
         "name": "Longsword",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3723,7 +3723,7 @@
     },
     {
         "name": "Maul",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3746,7 +3746,7 @@
     },
     {
         "name": "Morningstar",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3765,7 +3765,7 @@
     },
     {
         "name": "Net",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3793,7 +3793,7 @@
     },
     {
         "name": "Pike",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3816,7 +3816,7 @@
     },
     {
         "name": "Scimitar",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3839,7 +3839,7 @@
     },
     {
         "name": "Shortsword",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3862,7 +3862,7 @@
     },
     {
         "name": "Trident",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3886,7 +3886,7 @@
     },
     {
         "name": "War Pick",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3904,7 +3904,7 @@
     },
     {
         "name": "Warhammer",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3927,7 +3927,7 @@
     },
     {
         "name": "Whip",
-        "source": "PHB",
+        "source": "BB5E",
         "page": 149,
         "srd": true,
         "basicRules": true,
@@ -3955,7 +3955,7 @@
         "srd": true,
         "otherSources": [
             {
-                "source": "PHB",
+                "source": "BB5E",
                 "page": 153
             }
         ],
