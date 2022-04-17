@@ -881,7 +881,7 @@
 			"header": 2,
 			"entries": [
 				"At 14th level, when you use your Imposing Splendor to improve your armor class, allies within 30 feet of you gain the bonus as well.",
-				"Each turn that you spend your bonus action to pose, enemies that can see you or that can see your Manifest Soul must make a Wisdom saving throw against your spell save DC or be Frightened until the start of your next turn. "
+				"Each turn that you spend your bonus action to pose, enemies that can see you or that can see your Manifest Soul must make a Wisdom saving throwagainst your spell save DC or be Frightened until the start of your next turn. "
 			]
 		}
     ],
@@ -1108,7 +1108,7 @@
         "weapon": true,
         "weaponCategory": "Martial",
         "rarity": "none",
-        "value": 3500,
+        "value": 350000,
         "weight": 6,
         "dmg1": "2d4",
         "dmg2": "2d6",
@@ -1190,7 +1190,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 1000,
+        "value": 2000,
         "weight": 2,
         "dmg1": "1d6",
         "dmgType": "S",
@@ -1218,7 +1218,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 400,
+        "value": 500,
         "weight": 4,
         "dmg1": "1d8",
         "dmgType": "P",
@@ -1239,7 +1239,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 1500,
+        "value": 1000,
         "weight": 2,
         "dmg1": "1d4",
         "dmgType": "S",
@@ -1296,7 +1296,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 9000,
+        "value": 13000,
         "weight": 30,
         "dmg1": "3d6",
         "dmgType": "B",
@@ -1356,7 +1356,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 5000,
+        "value": 15000,
         "weight": 12,
         "dmg1": "1d6",
 		"dmg2": "1d8",
@@ -1386,7 +1386,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 3000,
+        "value": 25000,
         "weight": 8,
         "dmg1": "1d10",
         "dmgType": "S",
@@ -1469,7 +1469,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 10000,
+        "value": 40000,
         "weight": 120,
         "dmg1": "2d8",
         "dmgType": "S",
@@ -1496,7 +1496,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 1000,
+        "value": 6000,
         "weight": 5,
         "dmg1": "1d6",
         "dmgType": "P",
@@ -1579,7 +1579,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 10000,
+        "value": 85000,
         "weight": 22,
         "dmg1": "1d12",
         "dmgType": "P",
@@ -1664,7 +1664,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 1500,
+        "value": 25000,
         "weight": 10,
         "dmg1": "1d10",
         "dmgType": "P",
@@ -1719,7 +1719,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 2000,
+        "value": 12000,
         "weight": 12,
         "dmg1": "1d8",
         "dmgType": "S",
@@ -1747,7 +1747,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 1500,
+        "value": 15000,
         "weight": 9,
         "dmg1": "1d8",
         "dmgType": "P",
@@ -1773,7 +1773,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 1000,
+        "value": 500000,
         "weight": 1,
         "dmg1": "2d6",
         "dmgType": "I",
@@ -1801,7 +1801,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 40000,
+        "value": 400000,
         "weight": 6,
         "dmg1": "1d8",
         "dmg2": "1d10",
@@ -1831,7 +1831,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 6000,
+        "value": 60000,
         "weight": 15,
         "dmg1": "1d8",
         "dmgType": "S",
@@ -1858,7 +1858,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 100,
+        "value": 40000,
         "weight": 55,
         "dmg1": "5d4",
         "dmgType": "B",
@@ -1914,7 +1914,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 4000,
+        "value": 400000,
         "weight": 12,
         "dmg1": "1d10",
         "dmgType": "P",
@@ -1945,7 +1945,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 2500,
+        "value": 25000,
         "weight": 6,
         "dmg1": "1d8",
         "dmgType": "P",
@@ -1975,7 +1975,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 1500,
+        "value": 15000,
         "weight": 6,
         "dmg1": "1d6",
         "dmgType": "S",
@@ -2032,7 +2032,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 2500,
+        "value": 5500,
         "weight": 10,
         "dmg1": "2d4",
         "dmgType": "P",
@@ -2062,7 +2062,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 200,
+        "value": 20000,
         "weight": 2,
         "dmg1": "1d8",
         "dmgType": "P",
@@ -2119,7 +2119,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 800,
+        "value": 8000,
         "weight": 2,
         "dmg1": "1d4",
         "dmgType": "P",
@@ -2147,7 +2147,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 400,
+        "value": 4000,
         "weight": 8,
         "dmg1": "1d8",
         "dmgType": "B",
@@ -2202,7 +2202,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 10000,
+        "value": 100000,
         "weight": 10,
         "dmg1": "1d6",
         "dmgType": "S",
@@ -2228,7 +2228,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 1000,
+        "value": 8000,
         "weight": 4,
         "dmg1": "Special",
         "property": [
@@ -2258,7 +2258,7 @@
             "2H"
         ],
         "rarity": "Common",
-        "value": 68000,
+        "value": 680000,
         "source": "BB5E",
         "entries": [
             {
@@ -2286,7 +2286,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} fire damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2305,7 +2305,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} cold damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2324,7 +2324,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} thunder damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2343,7 +2343,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} acid damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2362,7 +2362,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} force damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2381,7 +2381,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} piercing damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2400,7 +2400,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} necrotic damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2419,7 +2419,7 @@
         "range": "60/60",
         "rarity": "Common",
         "source": "BB5E",
-        "value": 8000,
+        "value": 80000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} radiant damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2430,7 +2430,7 @@
         "weight": 3,
         "ac": 1,
         "rarity": "none",
-        "value": 200,
+        "value": 2000,
         "source": "BB5E",
         "entries": [
             "This small metal shield is held by a simple handle for ease of maneuvering. It increases your Armor Class by 1 (replacing the shield's normal bonus to AC) and you are proficient in its use if you are proficient with light armor. It also weighs half as much as a regular shield and can be donned or doffed without using an action."
@@ -2449,7 +2449,7 @@
             "DWRF"
         ],
         "rarity": "uncommon",
-        "value": 20000,
+        "value": 200000,
         "source": "BB5E",
         "entries": [
             "This mighty silver and gem-bladed weapon deals {@dice 1d10} slashing damage when wielded one handed and {@dice 1d12} slashing damage when wielded with two hands.",
@@ -2469,7 +2469,7 @@
             "DWRF"
         ],
         "rarity": "uncommon",
-        "value": 20000,
+        "value": 500000,
         "source": "BB5E",
         "entries": [
             "This power hammer shaped like a might titan deals {@dice 1d12} damage when wielded.",
@@ -2491,7 +2491,7 @@
             "DWRF"
         ],
         "rarity": "uncommon",
-        "value": 10000,
+        "value": 100000,
         "source": "BB5E",
         "entries": [
             "This jagged heavy spear deals {@dice 1d6} damage",
@@ -2515,7 +2515,7 @@
         ],
         "range": "20/60",
         "rarity": "common",
-        "value": 400,
+        "value": 20000,
         "source": "BB5E",
         "entries": [
 			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
@@ -2555,7 +2555,7 @@
             "2H"	
         ],
         "rarity": "Common",
-        "value": 3000,
+        "value": 30000,
         "source": "BB5E",
         "entries": [
             "This common farming tool is a common weapon used by cultists and those who worship death. The Ritual Scythe deals {@dice 1d8} damage",
@@ -2613,7 +2613,7 @@
         "ac": 3,
         "stealth": true,
         "rarity": "uncommon",
-        "value": 25000,
+        "value": 250000,
         "source": "BB6E",
         "entries": [
             "This thick, unwieldy shield is large enough to cover you from ankle to shoulder. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor. It weighs twice as much as a regular shield."
@@ -2627,7 +2627,7 @@
         "ac": 3,
         "stealth": true,
         "rarity": "Rare",
-        "value": 300000,
+        "value": 1500000,
         "source": "BB5E",
         "entries": [
             "This inhuman stone slab is enchanted with countless runes and is ordained with jewels and precious metals. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor.",
@@ -2667,7 +2667,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 25000,
+        "value": 250000,
         "weight": 3,
         "range": "10/15",
         "dmg1": "4d4",
@@ -2693,7 +2693,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 35000,
+        "value": 350000,
         "weight": 3,
         "range": "60/120",
         "dmg1": "3d6",
@@ -2718,7 +2718,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 45000,
+        "value": 450000,
         "weight": 3,
         "range": "60/150",
         "dmg1": "2d4",
@@ -2754,7 +2754,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 10000,
+        "value": 100000,
         "weight": 3,
         "range": "10/60",
         "dmg1": "1d4",
@@ -2779,7 +2779,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 35000,
+        "value": 350000,
         "weight": 3,
         "range": "50/150",
         "dmg1": "5d4",
@@ -2803,7 +2803,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 25000,
+        "value": 150000,
         "weight": 3,
         "range": "60/150",
         "dmg1": "1d8",
@@ -2829,7 +2829,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 35000,
+        "value": 3500000,
         "weight": 3,
         "range": "20/30",
         "dmg1": "3d4",
@@ -2843,7 +2843,7 @@
         "source": "BB5E",
         "entries": [
 		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
-		"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
+		"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a Dexterity saving throw (DC 15) or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
 		"This item requires a special backpack item called a 'Fuel Tank' to be used. It is a full round action to attach a fuel tank to the flamethrower. Fuel Tanks carry 50 units of ammunition."
         ]
     },
@@ -2853,7 +2853,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 35000,
+        "value": 1550000,
         "weight": 3,
         "range": "20/80",
         "dmg1": "3d4",
@@ -2869,7 +2869,7 @@
  
         "entries": [
         "Magazine Load: It is an action to reload this weapon with a premade Rifle clip.",
-        "Burst Fire: Burst fire firearms are able to make a special attack that releases a stream of multiple bullets. As an action, you can force up to 3 creatures of your choice in a 15-foot square centered on a point within your gun's maximum range to make a Dexterity saving throw, taking your gun's burst fire damage on a failed save, and half that damage on a success. This action subtracts rounds from your gun equal to the number of creatures affected, to a maximum of 3.",
+        "Burst Fire: Burst fire firearms are able to make a special attack that releases a stream of multiple bullets. As an action, you can force up to 3 creatures of your choice in a 15-foot square centered on a point within your gun's maximum range to make a Dexterity saving throw (DC 13), taking your gun's burst fire damage on a failed save, and half that damage on a success. This action subtracts rounds from your gun equal to the number of creatures affected, to a maximum of 3.",
 		"Additionally, guns with the burst fire property always expend 3 rounds per attack.",
 		"Burst Fire Save DC (Not Proficienct) = 12",
 		"Burst Fire Save DC (Proficient) = 8 + Dexterity + Profiicency Bonus"
@@ -2891,7 +2891,7 @@
             "KK"
         ],
         "rarity": "uncommon",
-        "value": 150,
+        "value": 15000,
         "source": "BB5E",
         "entries": [
             "This strange combination of chained throwing knives and rope daggers seems to be obtuse to use but in the hands of a deadly kenku can have serious side effects for ones health.",
@@ -2917,7 +2917,7 @@
             "KK"
         ],
         "rarity": "uncommon",
-        "value": 150,
+        "value": 15000,
         "source": "BB5E",
         "entries": [
             "This strange club contains a hollowed interior able to produce astonisingly powerful wind gusts. Those hit by it have their skin rended open.",
@@ -2933,7 +2933,7 @@
         "type": "HA",
         "rarity": "none",
         "weight": 100,
-        "value": 3000,
+        "value": 300000,
         "ac": 16,
         "armor": true,
         "stealth": true,
@@ -2947,7 +2947,7 @@
         "type": "HA",
         "rarity": "none",
         "weight": 45,
-        "value": 10000,
+        "value": 1000000,
         "ac": 16,
         "armor": true,
         "stealth": true,
@@ -2962,7 +2962,7 @@
         "type": "HA",
         "rarity": "none",
         "weight": 65,
-        "value": 150000,
+        "value": 150000000,
         "ac": 22,
         "armor": true,
         "stealth": true,
@@ -2975,6 +2975,339 @@
 
 
 
+
+
+
+    {
+        "name": "Reinforced Plate Armor",
+        "source": "PHB",
+        "page": 145,
+        "srd": true,
+        "basicRules": true,
+        "type": "HA",
+        "rarity": "none",
+        "weight": 65,
+        "value": 180000,
+        "ac": 18,
+        "strength": "15",
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.",
+            "This armor or shield has been reinforced at the joints and other weak points. While wearing it, critical damage you take from nonmagical attacks is reduced by 3."
+        
+        ]
+    },
+    {
+        "name": "Absorbant Breastplate",
+        "source": "PHB",
+        "page": 145,
+        "srd": true,
+        "basicRules": true,
+        "type": "MA",
+        "rarity": "none",
+        "weight": 20,
+        "value": 40000,
+        "ac": 14,
+        "armor": true,
+        "entries": [
+            "This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.",
+            "The armor is padded with thick batting made from special absorbent fibers. This tends to wipe clean any sharp objects that penetrate it.",
+            "The wearer of this armor has resistance to poison damage from poison-coated weapons, but not from the fangs of creatures that inject their venom as they bite."
+      
+      
+        ]
+    },
+    {
+        "name": "Half Plate Armor",
+        "source": "PHB",
+        "page": 145,
+        "srd": true,
+        "basicRules": true,
+        "type": "MA",
+        "rarity": "none",
+        "weight": 40,
+        "value": 75000,
+        "ac": 15,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps."
+        ]
+    },
+    {
+        "name": "Breathable Leather Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 10,
+        "value": 1000,
+        "ac": 11,
+        "armor": true,
+        "entries": [
+            "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.",
+            "While wearing this armor, you have advantage on saving throws you make against exhaustion effects due to extreme heat, as described in chapter 5 of the Dungeon Master's Guide."
+        ]
+    },
+    {
+        "name": "Chain Mail",
+        "source": "PHB",
+        "page": 145,
+        "srd": true,
+        "basicRules": true,
+        "type": "HA",
+        "rarity": "none",
+        "weight": 55,
+        "value": 7500,
+        "ac": 16,
+        "strength": "13",
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets."
+        ]
+    },
+    {
+        "name": "Chain Shirt",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "MA",
+        "rarity": "none",
+        "weight": 20,
+        "value": 5000,
+        "ac": 13,
+        "armor": true,
+        "entries": [
+            "Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers."
+        ]
+    },
+
+    {
+        "name": "Piercing Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all piercing damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Acidic Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all acid damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Soft Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all bludgeoning damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Quilted Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all slashing damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Heated Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all cold damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Iced Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all fire damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Rubber Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all lighting damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Sound Absorbant Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all thunder damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Lead Lined Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all radiant damage is reduced by 3."
+        ]
+    },
+    {
+        "name": "Poppy Milk Padded Armor",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "LA",
+        "rarity": "none",
+        "weight": 8,
+        "value": 700,
+        "ac": 11,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Padded armor consists of quilted layers of cloth and batting.",
+            "While wearing this armor, all necrotic damage is reduced by 3."
+        ]
+    },
+
+
+
+
+
+
+    {
+        "name": "Camouflaged Scale Mail",
+        "source": "PHB",
+        "page": 144,
+        "srd": true,
+        "basicRules": true,
+        "type": "MA",
+        "rarity": "none",
+        "weight": 45,
+        "value": 40000,
+        "ac": 14,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.",
+            "You can take 1 hour to aquire natural foliage and materials to create a thin layering on this armor. If you do, you gain advantage on stealth rolls while in this specific type of terrain. If takes 1 hour to remove the thin camouflage layering."
+        ]
+    },
+    {
+        "name": "Spiked Armor",
+        "source": "SCAG",
+        "page": 121,
+        "type": "MA",
+        "rarity": "unknown",
+        "weight": 45,
+        "value": 8500,
+        "ac": 14,
+        "armor": true,
+        "stealth": true,
+        "entries": [
+            "Spiked armor is a rare type of medium armor made by dwarves. It consists of a leather coat and leggings covered with spikes that are usually made of metal.",
+            "When you use the attack action to grapple a creature, the target takes {@dice 1d3} piercing damage if your grapple check succeeds."
+
+        ]
+    },
 
     {
         "name": "Club",
@@ -2991,7 +3324,7 @@
             "L"
         ],
         "entries": [
-           
+           "blackjack: Make a single attack roll with your club against a humanoid target. If the attack hits, it does no damage, but the target must make a Constitution saving throw (DC 12) or be stunned until the beginning of its next turn." 
         ],
         "dmg1": "1d4",
         "dmgType": "B",
@@ -3014,6 +3347,9 @@
             "L",
             "T"
         ],
+        "entries":[
+            "Concealed Blade: Instead of making a Dexterity (Stealth) check to hide yourself, you may make a Dexterity (Sleight of Hand) check—contested by an active or passive Wisdom (Perception) check—to conceal your dagger. As an action, you may make a weapon attack with a concealed dagger against a creature that has not yet acted in combat. This attack has advantage."
+        ],
         "range": "20/60",
         "dmg1": "1d4",
         "dmgType": "P",
@@ -3028,6 +3364,9 @@
         "basicRules": true,
         "type": "M",
         "rarity": "none",
+        "entries":[
+            "Shield Snare: As an action while wielding a flail, you may make a single attack roll against a target carrying a shield or a similar defensive tool. This attack ignores any bonus to AC granted by the shield and deals normal weapon damage. If the attack hits, the target must also make a Strength saving throw (DC 12). On a failure, its shield is pulled from its grip and lands at its feet."
+        ],
         "weight": 2,
         "value": 1000,
         "weaponCategory": "martial",
@@ -3051,6 +3390,9 @@
             "R",
             "2H"
         ],
+        "entries":[
+            "Glaive: As an attack while you are wielding a glaive, you may sweep your opponent’s legs in an attempt to trip them. Make an attack roll against a Large or smaller creature. If the attack hits, it must succeed on a Strength saving throw (DC 12) or fall prone."
+        ],
         "dmg1": "1d10",
         "dmgType": "S",
         "weapon": true
@@ -3069,6 +3411,9 @@
         "property": [
             "H",
             "2H"
+        ],
+        "entries":[
+           "Sundering Blow: As part of the attack action, make a single attack roll with your greataxe against a creature wielding a weapon, including natural weapons at disadvantage. If the attack hits, the weapon is damaged, and all attacks made with this weapon have disadvantage. Another sundering strike destroys the weapon. This attack has no effect on magical weapons, unless your nordmansch is also magical."
         ],
         "dmg1": "1d12",
         "dmgType": "S",
@@ -3089,6 +3434,9 @@
         "property": [
             "2H"
         ],
+        "entries":[
+            " SKull Basher: Make a single attack roll with your greatclub against a humanoid target. This attack does normal weapon damage and the target must make a Constitution saving throw (DC 12). On a failure, it is stunned until the beginning of its next turn. If the damage you dealt was greater than the creature’s maximum hit dice, it is stunned until the end of its next turn."
+        ],
         "dmg1": "1d8",
         "dmgType": "B",
         "club": true,
@@ -3108,6 +3456,9 @@
         "property": [
             "H",
             "2H"
+        ],
+        "entries":[
+            "Arching Slice: When you attack with a greatsword, you may choose to target two creatures within your reach with a single attack. This attack uses the same attack roll for both targets and deals slashing damage equal to 1d6 plus your Strength modifier to each target."
         ],
         "dmg1": "2d6",
         "dmgType": "S",
@@ -3130,6 +3481,9 @@
             "R",
             "2H"
         ],
+        "entries":[
+            "Rubuff: As an attack while you are wielding a halberd, you may use the haft of your weapon to rebuff up to two adjacent creatures. Make a single attack roll against one or two adjacent creatures within 5 feet of you. If the attack hits a target, you push it up to 10 feet away from you."
+        ],
         "dmg1": "1d10",
         "dmgType": "S",
         "weapon": true
@@ -3148,6 +3502,9 @@
         "property": [
             "L",
             "T"
+        ],
+        "entries":[
+            "Pinning Edge: When you make a melee or ranged weapon attack with a hand axe, you may attempt to pin a Large or smaller creature to a wall or surface by catching their clothing with the axe’s edge. This maneuver can be used against creatures without clothing at the GM’s discretion. Make an attack roll; if the attack hits, the target must make a Strength saving throw (DC 12). On a failure, the target’s speed is reduced to zero until the axe is removed. The target can make another Strength saving throw as an action on its turn."
         ],
         "range": "20/60",
         "dmg1": "1d6",
@@ -3168,6 +3525,9 @@
         "weaponCategory": "simple",
         "property": [
             "T"
+        ],
+        "entries":[
+            "Javelin: As an attack, you may throw your javelin at a creature at the very limit of your range. Make an attack roll against a creature exactly 120 feet away. If the attack hits, the creature takes normal damage and must make a Wisdom saving throw. On a failure, the creature becomes frightened of you for 1 minute."
         ],
         "range": "30/120",
         "dmg1": "1d6",
@@ -3190,6 +3550,9 @@
             "L",
             "T"
         ],
+        "entries":[
+            "As an action, you may make a single ranged weapon attack with a light hammer. If the attack hits, the target must make a Constitution saving throw (DC 10) or be incapacitated until the end of its next turn."
+        ],
         "range": "20/60",
         "dmg1": "1d4",
         "dmgType": "B",
@@ -3207,6 +3570,9 @@
         "weight": 4,
         "value": 500,
         "weaponCategory": "simple",
+        "entries":[
+            "Ribshatter: Make a single attack roll with your mace or morningstar against a humanoid target. This attack does normal weapon damage and the target must make a Constitution saving throw (DC 12). On a failure, it is stunned until the beginning of its next turn. If the damage you dealt was greater than the creature’s maximum hit dice, it is stunned until the end of its next turn."
+        ],
         "dmg1": "1d6",
         "dmgType": "B",
         "mace": true,
@@ -3225,6 +3591,9 @@
         "weaponCategory": "simple",
         "property": [
             "V"
+        ],
+        "entries":[
+            "Vault: You can use your quarterstaff to help you leap long distances. You can use an action to double the length of your long jump, allowing you to leap a number of feet up to twice your Strength score (this jump is part of your movement). If you land adjacent to a creature at the end of this jump, you can make a single attack with your quarterstaff as part of this action."
         ],
         "dmg1": "1d6",
         "dmgType": "B",
@@ -3245,6 +3614,9 @@
         "property": [
             "L"
         ],
+        "entries":[
+            "Bloody Cut: When you deal damage to a living creature with a Sickle, you may twist the blade as a bonus action. The creature must make a Constitution saving throw (DC 12) or take 2d4 slashing damage."
+        ],
         "dmg1": "1d4",
         "dmgType": "S",
         "weapon": true
@@ -3263,6 +3635,9 @@
         "property": [
             "T",
             "V"
+        ],
+        "entries":[
+            "Phalanx: If you are adjacent to at least two other spear-wielders, your spear attacks have advantage."
         ],
         "range": "20/60",
         "dmg1": "1d6",
@@ -3284,6 +3659,9 @@
         "weaponCategory": "martial",
         "property": [
             "V"
+        ],
+        "entries":[
+            "Executioners Axe: If you move at least 20 feet straight toward a target, you can make a single attack with your Battleaxe as an action. If you hit, you deal damage as normal, and the target must make a Strength saving throw (DC 12) or fall prone."
         ],
         "dmg1": "1d8",
         "dmgType": "S",
@@ -3314,7 +3692,8 @@
                 "type": "entries",
                 "name": "Special",
                 "entries": [
-                    "You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted."
+                    "You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.",
+                    "Charge: If you move at least 20 feet straight toward a creature before hitting it with a lance attack, the target takes an extra 1d12 piercing damage and must make a Strength saving throw. On a failure, the target falls prone."
                 ]
             }
         ]
@@ -3332,6 +3711,9 @@
         "weaponCategory": "martial",
         "property": [
             "V"
+        ],
+        "entries":[
+            "When a creature attacks you with a weapon, you may use your reaction to attempt to lock blades and parry their attack. Make an attack roll with your longsword. If the result of this roll equals or exceeds their attack roll, their attack misses."
         ],
         "dmg1": "1d8",
         "dmgType": "S",
@@ -3354,6 +3736,9 @@
             "H",
             "2H"
         ],
+        "entries":[
+            "As an action, you can make a single attack roll with your maul against a Medium or smaller target. If the attack hits, it does normal weapon damage, and the target must make a Strength saving throw (DC 14) . On a failure, the target is pushed up to 15 feet away from you."
+        ],
         "dmg1": "2d6",
         "dmgType": "B",
         "hammer": true,
@@ -3370,32 +3755,13 @@
         "weight": 4,
         "value": 1500,
         "weaponCategory": "martial",
+        "entries":[
+            "Ribshatter: Make a single attack roll with your mace or morningstar against a humanoid target. This attack does normal weapon damage and the target must make a Constitution saving throw (DC 12). On a failure, it is stunned until the beginning of its next turn. If the damage you dealt was greater than the creature’s maximum hit dice, it is stunned until the end of its next turn."
+        ],
         "dmg1": "1d8",
         "dmgType": "P",
         "mace": true,
         "weapon": true
-    },
-    {
-        "name": "Musket",
-        "source": "DMG",
-        "page": 268,
-        "type": "R",
-        "rarity": "none",
-        "weight": 10,
-        "value": 50000,
-        "weaponCategory": "martial",
-        "age": "renaissance",
-        "property": [
-            "AF",
-            "LD",
-            "2H"
-        ],
-        "range": "40/120",
-        "dmg1": "1d12",
-        "dmgType": "P",
-        "firearm": true,
-        "weapon": true,
-        "ammoType": "renaissance bullet"
     },
     {
         "name": "Net",
@@ -3441,6 +3807,9 @@
             "R",
             "2H"
         ],
+        "entries":[
+            "Phalanx: If you are adjacent to at least two other spear-wielders, your spear attacks have advantage."
+        ],
         "dmg1": "1d10",
         "dmgType": "P",
         "weapon": true
@@ -3459,6 +3828,9 @@
         "property": [
             "F",
             "L"
+        ],
+        "entries":[
+            "Pommel Blow: As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action."
         ],
         "dmg1": "1d6",
         "dmgType": "S",
@@ -3480,6 +3852,9 @@
             "F",
             "L"
         ],
+        "entries":[
+            "Pommel Blow: As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action."
+        ],
         "dmg1": "1d6",
         "dmgType": "P",
         "sword": true,
@@ -3500,6 +3875,9 @@
             "T",
             "V"
         ],
+        "entries":[
+            "Snare: As an action, make an attack roll against a Medium creature you are grappling. If the attack hits, you catch one of the target’s limbs between the tines and bury the trident in the ground, restraining the creature until the weapon is dislodged. The target may make a Strength or Dexterity saving throw (their choice)(DC 13) at the end of each of their turns to escape."
+        ],
         "range": "20/60",
         "dmg1": "1d6",
         "dmgType": "P",
@@ -3517,6 +3895,9 @@
         "weight": 2,
         "value": 500,
         "weaponCategory": "martial",
+        "entries":[
+            "Pointed Blow: As an action, you may pinpoint a weak point of an opponent’s armor and make a single attack with your war pick against it. This attack pierces armor, treating the target’s AC as 10 + their Dexterity modifier + 2. On a hit, this attack does normal weapon damage."
+        ],
         "dmg1": "1d8",
         "dmgType": "P",
         "weapon": true
@@ -3534,6 +3915,9 @@
         "weaponCategory": "martial",
         "property": [
             "V"
+        ],
+        "entries":[
+           "Sundering Strike: As an attack, make an attack roll with your warhammer against a creature wielding a weapon, including natural weapons. If the attack hits, the weapon is damaged, and all attacks made with this weapon have disadvantage. Another sundering strike destroys the weapon. This attack has no effect on magical weapons unless your warhammer is also magical."
         ],
         "dmg1": "1d8",
         "dmgType": "B",
@@ -3556,30 +3940,425 @@
             "F",
             "R"
         ],
+        "entries":[
+            "Bull Whip: As part of your attack action, make a whip attack against a beast or a creature with an Intelligence score of 2 or lower. The target must make a Wisdom saving throw (DC 12) or be frightened of you until the end of its next turn."
+        ],
         "dmg1": "1d4",
         "dmgType": "S",
         "weapon": true
     },
+
     {
-        "name": "Wooden Staff",
-        "source": "PHB",
-        "page": 151,
+        "name": "Potion of Healing",
+        "source": "DMG",
+        "page": 187,
         "srd": true,
-        "basicRules": true,
-        "type": "SCF",
-        "scfType": "druid",
-        "rarity": "none",
-        "weight": 4,
-        "value": 500,
-        "weaponCategory": "simple",
-        "property": [
-            "V"
+        "otherSources": [
+            {
+                "source": "PHB",
+                "page": 153
+            }
         ],
-        "dmg1": "1d6",
-        "dmgType": "B",
-        "dmg2": "1d8"
+        "type": "P",
+        "tier": "minor",
+        "rarity": "common",
+        "weight": 0.5,
+        "value": 5000,
+        "entries": [
+            "You regain {@dice 2d4 + 2} hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+        ],
+        "lootTables": [
+            "Magic Item Table A"
+        ]
+    },
+
+    {
+        "name": "Potion of Greater Healing",
+        "source": "DMG",
+        "page": 187,
+        "value": 10000,
+        "srd": true,
+        "type": "P",
+        "tier": "minor",
+        "rarity": "uncommon",
+        "entries": [
+            "You regain {@dice 4d4 + 4} hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+        ],
+        "lootTables": [
+            "Magic Item Table A",
+            "Magic Item Table B"
+        ]
+    },
+
+    {
+        "name": "Potion of Superior Healing",
+        "source": "DMG",
+        "page": 187,
+        "value": 15000,
+        "srd": true,
+        "type": "P",
+        "tier": "minor",
+        "rarity": "rare",
+        "entries": [
+            "You regain {@dice 8d4 + 8} hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+        ],
+        "lootTables": [
+            "Magic Item Table C"
+        ]
+    },
+    {
+        "name": "Potion of Supreme Healing",
+        "source": "DMG",
+        "page": 187,
+        "value": 20000,
+        "srd": true,
+        "type": "P",
+        "tier": "minor",
+        "rarity": "very rare",
+        "entries": [
+            "You regain {@dice 10d4 + 20} hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+        ],
+        "lootTables": [
+            "Magic Item Table D",
+            "Magic Item Table E"
+        ]
+    },
+
+
+    {
+        "name": "Arcanaloth Venom",
+        "source": "DMG",
+        "page": 258,
+        "srd": true,
+        "type": "G",
+        "rarity": "none",
+        "value": 45000,
+        "poison": true,
+        "entries": [
+            "This poison must be harvested from a dead or incapacitated arcanoloth. A creature subjected to this poison must make a DC 14 Constitution saving throw, taking 10 {@dice 3d6} poison damage on a failed save, or half as much damage on a successful one."
+        ],
+        "poisonTypes": [
+            "injury"
+        ]
+    },
+    {
+        "name": "Arcanaloth Venom",
+        "source": "DMG",
+        "page": 258,
+        "srd": true,
+        "type": "G",
+        "rarity": "none",
+        "value": 20000,
+        "poison": true,
+        "entries": [
+            "This sticky, adhesive poison must be harvested from an Assassin Vine plant. A creature subjected to this poison suffers 21 {@dice 6d6} poison damage."
+        ],
+        "poisonTypes": [
+            "injury"
+        ]
+    },
+    {
+        "name": "Armor Oil",
+        "source": "DMG",
+        "rarity": "Uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This thick, gleaming liquid contains enough to fully coat one set of armor. For 1 hour, the armor gives +1 AC"
+        ]
+    },
+    {
+        "name": "Comprehension Potion",
+        "source": "DMG",
+        "rarity": "Uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This sparkling, bubbling clear liqid gives the drinker intelligence for one hour. The drinker gains proficiency with INT saving throws and all INT-based skills for 1 hour."
+        ]
+    },
+    {
+        "name": "Flexing Potion",
+        "source": "DMG",
+        "rarity": "Uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This dark, heavy and brooding liquid gives the drinker strength for one hour. The drinker gains proficiency with STR saving throws and all STR-based skills for 1 hour."
+        ]
+    },
+    {
+        "name": "Dancing Potion",
+        "source": "DMG",
+        "rarity": "Uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This whispy, oily and airy liquid gives the drinker dexterity for one hour. The drinker gains proficiency with DEX saving throws and all DEX-based skills for 1 hour."
+        ]
+    },
+    {
+        "name": "Librarians Potion",
+        "source": "DMG",
+        "rarity": "Uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This stringent thick and lush liquid gives the drinker widsom for one hour. The drinker gains proficiency with WIS saving throws and all WIS-based skills for 1 hour."
+        ]
+    },
+    {
+        "name": "Speakers Potion",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This gleaming, and radiant liquid gives the drinker dexterity for one hour. The drinker gains proficiency with CHA saving throws and all CHA-based skills for 1 hour."
+        ]
+    },
+
+
+    {
+        "name": "Dragon Scale Potion",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "This potion, similar in appearance to that of ancient dragon scales. The drinker gains thick scales offering a +2 bonus to their AC for one hour after drinking."
+        ]
+    },
+
+
+    {
+        "name": "Element Oil",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "This small bottle of purplish oil contains enough liquid to coat one Medium size creature or one object no larger than 5 sq. ft. This creature or object is resistant to one type of damage for 1 hour. Roll 1d4. 1 - Fire, 2 - Cold, 3 - Radiant, 4 - Necrotic."
+        ]
+    },
+    {
+        "name": "Elixer of Awareness",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This persistently bubbling liquid is primarily clear, but flashes bright red periodically. For 2 hours after the drinker consumes the potion, they have a +5 bonus to their passive Perception and cannot be surprised."
+        ]
+    },
+    {
+        "name": "Elixer of Day",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "The liquid in this potion seems to give off an internal light; the potion gives off dim light in a 5 ft. radius while still in its bottle. When it is consumed, the drinker begins to emit bright light in a 10 ft. radius and dim light for an additional 10 ft. They also become resistant to radiant damage. This effect lasts for 1 hour."
+        ]
+    },
+    {
+        "name": "Elixir of Living Death",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "This pure black potion, appearing for all intents like a hole in space. When consumed as an action, the potion has the effects of the spell Feign Death for 1 hour. The drinker cannot be woken before the 1 hour has passed."
+        ]
+    },
+    {
+        "name": "Elixir of Night",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "This potion is colored in shades of gray and black that never mix, getting darker towards the center of the bottle. The drinker gains 60 ft. darkvision and can see through magical darkness for 1 hour."
+        ]
+    },
+    {
+        "name": "Elixer of Peace",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This potion is light pink, with a perpetually fogged glass bottle. The drinker falls under the effect of the spell Calm Emotions: any effect causing them to be charmed or frightened is suppressed. This effect lasts for 10 minutes."
+        ]
+    },
+    {
+        "name": "Elixer of Satisfaction",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This dark green potion is brewed from the leaves of magically summoned Goodberries. One sip of the potion satisfies the thirst and hunger of the drinker for 1 day. The bottle contains enough liquid for 3 sips."
+        ]
+    },
+    {
+        "name": "Elixer of True Dreams",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This soft, swirling blue potion must be consumed before a long rest. The drinker will experience true dreams for the duration of their rest. Roll 1d100; there is a 20% chance that they forget the dreams upon waking."
+        ]
+    },
+    {
+        "name": "Energy Potion",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "The bright blue liquid in this potion is shot through with moving bolts of bright yellow. The drinker gains 15 temporary hit points that last 1 hour. Once during that hour, they may also use an Action Surge and take one additional action on their turn beyond what they would normally be able to do."
+        ]
+    },
+    {
+        "name": "Elixir of Fey",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "This potion appears clear at first glance, but gives off opalescent swirls of color when caught by the light. For 1 day, the drinker has advantage on saving throws against being charmed and cannot be put to sleep by magic. Any magical ability that detects different types of creatures will register the drinker as fey."
+        ]
+    },
+    {
+        "name": "Fog Breath Potion",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This potion resembles a smaller version of an Eversmoking Bottle. When consumed, the drinker begins to emit fog from their mouth, immediately emanating to a radius of 30 ft. For each round that they hold their mouth open, up to 1 minute, the fog spreads another 10 ft. The area of fog is heavily obscured. If the drinker attempts to close their mouth and hold in the fog, they must make a DC 13 Constitution saving throw or take 1d6 force damage."
+        ]
+    },
+    {
+        "name": "Glamour Potion",
+        "source": "DMG",
+        "rarity": "very rare",
+        "value": 400000,
+        "entriesTemplate": [
+            "This clear liquid appears at first to be unassuming and plain, but then catches the eye, drawing attention when seen. The drinker gains proficiency with CHA saving throws and all CHA-based skills for 1 day."
+        ]
+    },
+    {
+        "name": "Judgement Potion",
+        "source": "DMG",
+        "rarity": "very rare",
+        "value": 400000,
+        "entriesTemplate": [
+            "This clear potion appears completely still, but occasionally releases a bubble or two. The drinker gains proficiency with WIS saving throws and all WIS-based skills for 1 day."
+        ]
+    },
+    {
+        "name": "Mind Blast Potion",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+           "This deep purple potion allows the drinker to emit psychic energy. When consumed, all creatures within a 30 ft. radius of the drinker must make a DC 13 INT saving throw or take {@dice 2d8} psychic damage. The drinker becomes resistant to psychic damage for 1 hour."
+        ]
+    },
+    {
+        "name": "Oil Accuracy",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+           "This light brown oil is sufficient to coat one weapon or up to 5 pieces of ammunition. For 1 hour, attacks made with this weapon have a +2 bonus to hit."
+        ]
+    },
+    {
+        "name": "Potion of Rest",
+        "source": "DMG",
+        "rarity": "very rare",
+        "value": 400000,
+        "entriesTemplate": [
+            "This red potion, which tastes sugary sweet and fizzes on the tongue, invigorates the drinker. The potion can take the place of one long rest. The drinker gains all the benefits of a long rest, including restoration of hit points and spell slots."
+        ]
+    },
+    {
+        "name": "Potion of Steel",
+        "source": "DMG",
+        "rarity": "rare",
+        "value": 300000,
+        "entriesTemplate": [
+            "This steely gray potion grants the drinker 20 temporary hit points and gives them resistance to non-magical piercing, bludgeoning, and slashing damage. This effect lasts for 10 minutes."
+        ]
+    },
+    {
+        "name": "Potion of Shadows",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "This potion is contained in a shadowed glass bottle, hiding the contents within. The drinker gains a +5 bonus to DEX (Stealth) checks they make for 1 hour."
+        ]
+    },
+    {
+        "name": "Potion of Song",
+        "source": "DMG",
+        "rarity": "uncommon",
+        "value": 100000,
+        "entriesTemplate": [
+            "Opening the stopper of this potion reveals the faint notes of music emitted by the liquid within. When consumed, the drinker can sing a few notes, and all creatures within 30 ft. must make a DC 13 CHA saving throw against being charmed."
+        ]
+    },
+    {
+        "name": "Aboleth Oil",
+        "source": "DMG",
+        "type": "G",
+        "rarity": "very Rare",
+        "value": 400000,
+        "poison": true,
+        "entries": [
+            "A creature subjected to this oil must make a Constitution saving throw (DC 14) or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease, but the creature is unaware that they have been affected After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by Sea/ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed B c Ivv Pxs  (CONTACT)"
+        ],
+        "poisonTypes": [
+            "injury"
+        ]
+    },
+    {
+        "name": "Radiant Oils",
+        "source": "DMG",
+        "type": "G",
+        "rarity": "rare",
+        "value": 200000,
+        "poison": true,
+        "entries": [
+            " An undead creature subjected to this poison must succeed on a Constitution saving throw (DC 16) or be poisoned for 1 minute, also taking 18 {@dice 4d8} radiant damage on a failed save, or half as much damage on a successful one. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+
+        ],
+        "poisonTypes": [
+            "injury"
+        ]
+    },
+    {
+        "name": "Midnight Strike",
+        "source": "DMG",
+        "type": "G",
+        "rarity": "uncommon",
+        "value": 100000,
+        "poison": true,
+        "entries": [
+            "  A creature subjected to this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a Constitution saving throw (DC 15), taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one."
+        ],
+        "poisonTypes": [
+            "injury"
+        ]
+    },
+    {
+        "name": "Clarity Noose",
+        "source": "DMG",
+        "type": "G",
+        "rarity": "rare",
+        "value": 200000,
+        "poison": true,
+        "entries": [
+            "A creature subjected to this poison must make a Constitution saving throw (DC 10). On a failed save, it takes 6 (1d12) poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn't poisoned"
+        ],
+        "poisonTypes": [
+            "injury"
+        ]
     }
 ],
+
+
+
+
+
+
 "spell":[
     {
         "name": "Forge Fire",
@@ -4026,80 +4805,5 @@
             ]
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
 ]
 }
