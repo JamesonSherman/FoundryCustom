@@ -3950,7 +3950,7 @@
 
     {
         "name": "Potion of Healing",
-        "source": "DMG",
+        "source": "BB5E",
         "page": 187,
         "srd": true,
         "otherSources": [
@@ -3974,7 +3974,7 @@
 
     {
         "name": "Potion of Greater Healing",
-        "source": "DMG",
+        "source": "BB5E",
         "page": 187,
         "value": 10000,
         "srd": true,
@@ -3992,7 +3992,7 @@
 
     {
         "name": "Potion of Superior Healing",
-        "source": "DMG",
+        "source": "BB5E",
         "page": 187,
         "value": 15000,
         "srd": true,
@@ -4008,7 +4008,7 @@
     },
     {
         "name": "Potion of Supreme Healing",
-        "source": "DMG",
+        "source": "BB5E",
         "page": 187,
         "value": 20000,
         "srd": true,
@@ -4027,7 +4027,7 @@
 
     {
         "name": "Arcanaloth Venom",
-        "source": "DMG",
+        "source": "BB5E",
         "page": 258,
         "srd": true,
         "type": "G",
@@ -4043,7 +4043,7 @@
     },
     {
         "name": "Arcanaloth Venom",
-        "source": "DMG",
+        "source": "BB5E",
         "page": 258,
         "srd": true,
         "type": "G",
@@ -4060,55 +4060,55 @@
     {
         "name": "Armor Oil",
         "type": "P",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "Uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This thick, gleaming liquid contains enough to fully coat one set of armor. For 1 hour, the armor gives +1 AC"
         ]
     },
     {
         "name": "Comprehension Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "Uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This sparkling, bubbling clear liqid gives the drinker intelligence for one hour. The drinker gains proficiency with INT saving throws and all INT-based skills for 1 hour."
         ]
     },
     {
         "name": "Flexing Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "Uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This dark, heavy and brooding liquid gives the drinker strength for one hour. The drinker gains proficiency with STR saving throws and all STR-based skills for 1 hour."
         ]
     },
     {
         "name": "Dancing Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "Uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This whispy, oily and airy liquid gives the drinker dexterity for one hour. The drinker gains proficiency with DEX saving throws and all DEX-based skills for 1 hour."
         ]
     },
     {
         "name": "Librarians Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "Uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This stringent thick and lush liquid gives the drinker widsom for one hour. The drinker gains proficiency with WIS saving throws and all WIS-based skills for 1 hour."
         ]
     },
     {
         "name": "Speakers Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This gleaming, and radiant liquid gives the drinker dexterity for one hour. The drinker gains proficiency with CHA saving throws and all CHA-based skills for 1 hour."
         ]
     },
@@ -4116,10 +4116,10 @@
 
     {
         "name": "Dragon Scale Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "This potion, similar in appearance to that of ancient dragon scales. The drinker gains thick scales offering a +2 bonus to their AC for one hour after drinking."
         ]
     },
@@ -4127,178 +4127,178 @@
 
     {
         "name": "Element Oil",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "This small bottle of purplish oil contains enough liquid to coat one Medium size creature or one object no larger than 5 sq. ft. This creature or object is resistant to one type of damage for 1 hour. Roll 1d4. 1 - Fire, 2 - Cold, 3 - Radiant, 4 - Necrotic."
         ]
     },
     {
         "name": "Elixer of Awareness",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This persistently bubbling liquid is primarily clear, but flashes bright red periodically. For 2 hours after the drinker consumes the potion, they have a +5 bonus to their passive Perception and cannot be surprised."
         ]
     },
     {
         "name": "Elixer of Day",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "The liquid in this potion seems to give off an internal light; the potion gives off dim light in a 5 ft. radius while still in its bottle. When it is consumed, the drinker begins to emit bright light in a 10 ft. radius and dim light for an additional 10 ft. They also become resistant to radiant damage. This effect lasts for 1 hour."
         ]
     },
     {
         "name": "Elixir of Living Death",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "This pure black potion, appearing for all intents like a hole in space. When consumed as an action, the potion has the effects of the spell Feign Death for 1 hour. The drinker cannot be woken before the 1 hour has passed."
         ]
     },
     {
         "name": "Elixir of Night",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "This potion is colored in shades of gray and black that never mix, getting darker towards the center of the bottle. The drinker gains 60 ft. darkvision and can see through magical darkness for 1 hour."
         ]
     },
     {
         "name": "Elixer of Peace",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This potion is light pink, with a perpetually fogged glass bottle. The drinker falls under the effect of the spell Calm Emotions: any effect causing them to be charmed or frightened is suppressed. This effect lasts for 10 minutes."
         ]
     },
     {
         "name": "Elixer of Satisfaction",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This dark green potion is brewed from the leaves of magically summoned Goodberries. One sip of the potion satisfies the thirst and hunger of the drinker for 1 day. The bottle contains enough liquid for 3 sips."
         ]
     },
     {
         "name": "Elixer of True Dreams",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This soft, swirling blue potion must be consumed before a long rest. The drinker will experience true dreams for the duration of their rest. Roll 1d100; there is a 20% chance that they forget the dreams upon waking."
         ]
     },
     {
         "name": "Energy Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "The bright blue liquid in this potion is shot through with moving bolts of bright yellow. The drinker gains 15 temporary hit points that last 1 hour. Once during that hour, they may also use an Action Surge and take one additional action on their turn beyond what they would normally be able to do."
         ]
     },
     {
         "name": "Elixir of Fey",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "This potion appears clear at first glance, but gives off opalescent swirls of color when caught by the light. For 1 day, the drinker has advantage on saving throws against being charmed and cannot be put to sleep by magic. Any magical ability that detects different types of creatures will register the drinker as fey."
         ]
     },
     {
         "name": "Fog Breath Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This potion resembles a smaller version of an Eversmoking Bottle. When consumed, the drinker begins to emit fog from their mouth, immediately emanating to a radius of 30 ft. For each round that they hold their mouth open, up to 1 minute, the fog spreads another 10 ft. The area of fog is heavily obscured. If the drinker attempts to close their mouth and hold in the fog, they must make a DC 13 Constitution saving throw or take 1d6 force damage."
         ]
     },
     {
         "name": "Glamour Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "very rare",
         "value": 40000,
-        "entriesTemplate": [
+        "entries": [
             "This clear liquid appears at first to be unassuming and plain, but then catches the eye, drawing attention when seen. The drinker gains proficiency with CHA saving throws and all CHA-based skills for 1 day."
         ]
     },
     {
         "name": "Judgement Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "very rare",
         "value": 40000,
-        "entriesTemplate": [
+        "entries": [
             "This clear potion appears completely still, but occasionally releases a bubble or two. The drinker gains proficiency with WIS saving throws and all WIS-based skills for 1 day."
         ]
     },
     {
         "name": "Mind Blast Potion",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
            "This deep purple potion allows the drinker to emit psychic energy. When consumed, all creatures within a 30 ft. radius of the drinker must make a DC 13 INT saving throw or take {@dice 2d8} psychic damage. The drinker becomes resistant to psychic damage for 1 hour."
         ]
     },
     {
         "name": "Oil Accuracy",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
            "This light brown oil is sufficient to coat one weapon or up to 5 pieces of ammunition. For 1 hour, attacks made with this weapon have a +2 bonus to hit."
         ]
     },
     {
         "name": "Potion of Rest",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "very rare",
         "value": 40000,
-        "entriesTemplate": [
+        "entries": [
             "This red potion, which tastes sugary sweet and fizzes on the tongue, invigorates the drinker. The potion can take the place of one long rest. The drinker gains all the benefits of a long rest, including restoration of hit points and spell slots."
         ]
     },
     {
         "name": "Potion of Steel",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "rare",
         "value": 30000,
-        "entriesTemplate": [
+        "entries": [
             "This steely gray potion grants the drinker 20 temporary hit points and gives them resistance to non-magical piercing, bludgeoning, and slashing damage. This effect lasts for 10 minutes."
         ]
     },
     {
         "name": "Potion of Shadows",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "This potion is contained in a shadowed glass bottle, hiding the contents within. The drinker gains a +5 bonus to DEX (Stealth) checks they make for 1 hour."
         ]
     },
     {
         "name": "Potion of Song",
-        "source": "DMG",
+        "source": "BB5E",
         "rarity": "uncommon",
         "value": 10000,
-        "entriesTemplate": [
+        "entries": [
             "Opening the stopper of this potion reveals the faint notes of music emitted by the liquid within. When consumed, the drinker can sing a few notes, and all creatures within 30 ft. must make a DC 13 CHA saving throw against being charmed."
         ]
     },
     {
         "name": "Aboleth Oil",
-        "source": "DMG",
+        "source": "BB5E",
         "type": "G",
         "rarity": "very Rare",
         "value": 40000,
@@ -4312,7 +4312,7 @@
     },
     {
         "name": "Radiant Oils",
-        "source": "DMG",
+        "source": "BB5E",
         "type": "G",
         "rarity": "rare",
         "value": 20000,
@@ -4327,7 +4327,7 @@
     },
     {
         "name": "Midnight Strike",
-        "source": "DMG",
+        "source": "BB5E",
         "type": "G",
         "rarity": "uncommon",
         "value": 10000,
@@ -4341,7 +4341,7 @@
     },
     {
         "name": "Clarity Noose",
-        "source": "DMG",
+        "source": "BB5E",
         "type": "G",
         "rarity": "rare",
         "value": 20000,
