@@ -4059,9 +4059,10 @@
     },
     {
         "name": "Armor Oil",
+        "type": "P",
         "source": "DMG",
         "rarity": "Uncommon",
-        "value": 1000,
+        "value": 10000,
         "entriesTemplate": [
             "This thick, gleaming liquid contains enough to fully coat one set of armor. For 1 hour, the armor gives +1 AC"
         ]
