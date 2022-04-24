@@ -1108,7 +1108,7 @@
         "weapon": true,
         "weaponCategory": "Martial",
         "rarity": "none",
-        "value": 350000,
+        "value": 35000,
         "weight": 6,
         "dmg1": "2d4",
         "dmg2": "2d6",
@@ -1412,7 +1412,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 100000,
+        "value": 10000,
         "weight": 3,
         "dmg1": "1d8/1d8",
         "dmgType": "P",
@@ -1579,7 +1579,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 85000,
+        "value": 65000,
         "weight": 22,
         "dmg1": "1d12",
         "dmgType": "P",
@@ -1719,7 +1719,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 12000,
+        "value": 1200,
         "weight": 12,
         "dmg1": "1d8",
         "dmgType": "S",
@@ -1747,7 +1747,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 15000,
+        "value": 1500,
         "weight": 9,
         "dmg1": "1d8",
         "dmgType": "P",
@@ -1773,7 +1773,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 500000,
+        "value": 50000,
         "weight": 1,
         "dmg1": "2d6",
         "dmgType": "I",
@@ -1801,7 +1801,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 400000,
+        "value": 40000,
         "weight": 6,
         "dmg1": "1d8",
         "dmg2": "1d10",
@@ -1831,7 +1831,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 60000,
+        "value": 6000,
         "weight": 15,
         "dmg1": "1d8",
         "dmgType": "S",
@@ -1858,7 +1858,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 40000,
+        "value": 4000,
         "weight": 55,
         "dmg1": "5d4",
         "dmgType": "B",
@@ -1914,7 +1914,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 400000,
+        "value": 40000,
         "weight": 12,
         "dmg1": "1d10",
         "dmgType": "P",
@@ -1975,7 +1975,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 15000,
+        "value": 1500,
         "weight": 6,
         "dmg1": "1d6",
         "dmgType": "S",
@@ -2092,7 +2092,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 20000,
+        "value": 2000,
         "weight": 4,
         "dmg1": "1d4",
         "dmgType": "B",
@@ -2119,7 +2119,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 8000,
+        "value": 800,
         "weight": 2,
         "dmg1": "1d4",
         "dmgType": "P",
@@ -2202,7 +2202,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 100000,
+        "value": 10000,
         "weight": 10,
         "dmg1": "1d6",
         "dmgType": "S",
@@ -2228,7 +2228,7 @@
         "weapon": true,
         "weaponCategory": "simple",
         "rarity": "none",
-        "value": 8000,
+        "value": 800,
         "weight": 4,
         "dmg1": "Special",
         "property": [
@@ -2258,7 +2258,7 @@
             "2H"
         ],
         "rarity": "Common",
-        "value": 680000,
+        "value": 68000,
        "source": "BB5E",
         "entries": [
             {
@@ -2286,7 +2286,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} fire damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2305,7 +2305,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} cold damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2324,7 +2324,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} thunder damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2343,7 +2343,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} acid damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2362,7 +2362,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} force damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2381,7 +2381,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} piercing damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2400,7 +2400,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} necrotic damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2419,7 +2419,7 @@
         "range": "60/60",
         "rarity": "Common",
        "source": "BB5E",
-        "value": 80000,
+        "value": 8000,
         "entries": [
             "This iron ball is filled with alchemical explosives and has a short fuse extending from it. As an action, a character can light and throw it at a point up to 60 feet away. Each character within 5 feet of that point must make a DC 12 dexterity saving throw, taking {@dice 3d6} radiant damage on a failed save or half as much damage on a successful one. This item weighs 1 lb."
         ]
@@ -2449,7 +2449,7 @@
             "DWRF"
         ],
         "rarity": "uncommon",
-        "value": 200000,
+        "value": 20000,
        "source": "BB5E",
         "entries": [
             "This mighty silver and gem-bladed weapon deals {@dice 1d10} slashing damage when wielded one handed and {@dice 1d12} slashing damage when wielded with two hands.",
@@ -2469,7 +2469,7 @@
             "DWRF"
         ],
         "rarity": "uncommon",
-        "value": 500000,
+        "value": 50000,
        "source": "BB5E",
         "entries": [
             "This power hammer shaped like a might titan deals {@dice 1d12} damage when wielded.",
@@ -2491,7 +2491,7 @@
             "DWRF"
         ],
         "rarity": "uncommon",
-        "value": 100000,
+        "value": 10000,
        "source": "BB5E",
         "entries": [
             "This jagged heavy spear deals {@dice 1d6} damage",
@@ -2515,7 +2515,7 @@
         ],
         "range": "20/60",
         "rarity": "common",
-        "value": 20000,
+        "value": 2000,
        "source": "BB5E",
         "entries": [
 			"this weapon may only be wielded by dwarves or those with training in dwarven weaponry.",
@@ -2555,7 +2555,7 @@
             "2H"	
         ],
         "rarity": "Common",
-        "value": 30000,
+        "value": 3000,
        "source": "BB5E",
         "entries": [
             "This common farming tool is a common weapon used by cultists and those who worship death. The Ritual Scythe deals {@dice 1d8} damage",
@@ -2613,7 +2613,7 @@
         "ac": 3,
         "stealth": true,
         "rarity": "uncommon",
-        "value": 250000,
+        "value": 25000,
         "source": "BB6E",
         "entries": [
             "This thick, unwieldy shield is large enough to cover you from ankle to shoulder. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor. It weighs twice as much as a regular shield."
@@ -2627,7 +2627,7 @@
         "ac": 3,
         "stealth": true,
         "rarity": "Rare",
-        "value": 1500000,
+        "value": 150000,
        "source": "BB5E",
         "entries": [
             "This inhuman stone slab is enchanted with countless runes and is ordained with jewels and precious metals. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor.",
@@ -2667,7 +2667,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 250000,
+        "value": 35000,
         "weight": 3,
         "range": "10/15",
         "dmg1": "4d4",
@@ -2693,7 +2693,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 350000,
+        "value": 45000,
         "weight": 3,
         "range": "60/120",
         "dmg1": "3d6",
@@ -2718,7 +2718,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 450000,
+        "value": 50000,
         "weight": 3,
         "range": "60/150",
         "dmg1": "2d4",
@@ -2754,7 +2754,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 100000,
+        "value": 10000,
         "weight": 3,
         "range": "10/60",
         "dmg1": "1d4",
@@ -2779,7 +2779,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 350000,
+        "value": 35000,
         "weight": 3,
         "range": "50/150",
         "dmg1": "5d4",
@@ -2803,7 +2803,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 150000,
+        "value": 25000,
         "weight": 3,
         "range": "60/150",
         "dmg1": "1d8",
@@ -2829,7 +2829,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 3500000,
+        "value": 350000,
         "weight": 3,
         "range": "20/30",
         "dmg1": "3d4",
@@ -2853,7 +2853,7 @@
         "weapon": true,
         "weaponCategory": "martial",
         "rarity": "none",
-        "value": 1550000,
+        "value": 155000,
         "weight": 3,
         "range": "20/80",
         "dmg1": "3d4",
@@ -2891,7 +2891,7 @@
             "KK"
         ],
         "rarity": "uncommon",
-        "value": 15000,
+        "value": 1500,
        "source": "BB5E",
         "entries": [
             "This strange combination of chained throwing knives and rope daggers seems to be obtuse to use but in the hands of a deadly kenku can have serious side effects for ones health.",
@@ -2917,7 +2917,7 @@
             "KK"
         ],
         "rarity": "uncommon",
-        "value": 15000,
+        "value": 1500,
        "source": "BB5E",
         "entries": [
             "This strange club contains a hollowed interior able to produce astonisingly powerful wind gusts. Those hit by it have their skin rended open.",
@@ -2947,7 +2947,7 @@
         "type": "HA",
         "rarity": "none",
         "weight": 45,
-        "value": 1000000,
+        "value": 100000,
         "ac": 16,
         "armor": true,
         "stealth": true,
@@ -2962,7 +2962,7 @@
         "type": "HA",
         "rarity": "none",
         "weight": 65,
-        "value": 150000000,
+        "value": 1500000,
         "ac": 22,
         "armor": true,
         "stealth": true,
@@ -3096,7 +3096,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3114,7 +3114,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3132,7 +3132,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3150,7 +3150,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3168,7 +3168,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3186,7 +3186,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3204,7 +3204,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3222,7 +3222,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3240,7 +3240,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
@@ -3258,7 +3258,7 @@
         "type": "LA",
         "rarity": "none",
         "weight": 8,
-        "value": 700,
+        "value": 7000,
         "ac": 11,
         "armor": true,
         "stealth": true,
