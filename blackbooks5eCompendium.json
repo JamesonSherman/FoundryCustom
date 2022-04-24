@@ -4042,22 +4042,6 @@
         ]
     },
     {
-        "name": "Arcanaloth Venom",
-        "source": "BB5E",
-        "page": 258,
-        "srd": true,
-        "type": "G",
-        "rarity": "none",
-        "value": 20000,
-        "poison": true,
-        "entries": [
-            "This sticky, adhesive poison must be harvested from an Assassin Vine plant. A creature subjected to this poison suffers 21 {@dice 6d6} poison damage."
-        ],
-        "poisonTypes": [
-            "injury"
-        ]
-    },
-    {
         "name": "Armor Oil",
         "type": "P",
         "source": "BB5E",
