@@ -1102,6 +1102,23 @@
 	
 ],
 "item": [
+
+
+    {
+        "name": "Dwarven Tower Shield (weapon)",
+        "type": "M",
+        "weaponCategory": "Martial",
+        "weight": 0,
+        "rarity": "Rare",
+        "dmg1": "2d4",
+        "dmgType": "B",
+       "source": "BB5E",
+        "entries": [
+            "This inhuman stone slab is enchanted with countless runes and is ordained with jewels and precious metals. It increases your armor class by 3 (this replaces the shield's normal bonus to AC.) While this shield is equipped, you have disadvantage on Dexterity (Stealth) checks, and if your Strength score is lower than 15, your speed is reduced by 10 feet as if you were wearing heavy armor.",
+            "Mountain Wall: As an action you may slam your shield into the ground and 'lock down'. While in this stance the shield acts as a 5 ft. full cover wall (200 HP. 22 AC) and is resistant to all damage types. It takes an action to lift your shield out of the ground."
+        
+        ]
+    },
 	{
         "name": "Bastard Sword",
         "type": "M",
