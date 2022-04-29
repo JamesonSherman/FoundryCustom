@@ -2636,7 +2636,7 @@
         "dmg1": "1d6",
         "dmg2": "1d4",
         "dmgType": "P",
-        "reload": 4,
+        "reload": 10,
         "property": [
             "FA",
             "A",
@@ -2683,6 +2683,81 @@
         
         ]
     },
+
+
+    {
+        "name": "Firearm Ammunition",
+        "source": "BB5E",
+        "type": "A",
+        "rarity": "Common",
+        "value": 100,
+        "entries": [
+            "These rounds are simplistic in nature and are invidiual pieces used for firearms."
+        ]
+       
+    },
+    {
+        "name": "Firearm Shell",
+        "source": "BB5E",
+        "type": "A",
+        "rarity": "Common",
+        "value": 100,
+        "entries": [
+            "These rounds are a more advanced types of ammunition. Bearings, slugs, or other projectiles loaded into shells with an ignition cap allow the projectiles to explode foreward."
+        ]
+       
+    },
+    {
+        "name": "Harmonica Clip",
+        "source": "BB5E",
+        "type": "A",
+        "rarity": "Common",
+        "value": 100,
+        "entries": [
+            "Specialty clip used for a harmonica rifle. This device holds 6 rounds"
+        ]
+       
+    },
+    {
+        "name": "Astral 900 Magazine",
+        "source": "BB5E",
+        "type": "A",
+        "rarity": "Common",
+        "value": 100,
+        "entries": [
+            "Specialty magazine used for a Astral. This device holds 10 rounds"
+        ]
+       
+    },
+    {
+        "name": "Fuel Tank",
+        "source": "BB5E",
+        "type": "A",
+        "weight": 15,
+        "rarity": "Common",
+        "value": 1000,
+        "entries": [
+            "Specialty Tank used for the flame thrower. Holds 5 units of fuel.",
+            "Fuel tanks can be reloaded with 10 units of alchemical fire over a five minute time period to be reloaded."
+        ]
+       
+    },
+    {
+        "name": "Alchemical Fire",
+        "source": "BB5E",
+        "type": "EXP",
+        "rarity": "Common",
+        "value": 100,
+        "entries": [
+            "A key component in explosives and ignition. ALchemical fire can come in many form such as powder, liquid, and gelatinous states."
+        ]
+       
+    },
+
+
+
+
+
     {
         "name": "Cog Revolver",
         "type": "R",
@@ -2892,7 +2967,7 @@
         "entries": [
 		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
 		"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a Dexterity saving throw (DC 15) or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
-		"This item requires a special backpack item called a 'Fuel Tank' to be used. It is a full round action to attach a fuel tank to the flamethrower. Fuel Tanks carry 50 units of ammunition."
+		"This item requires a special backpack item called a 'Fuel Tank' to be used. It is a full round action to attach a fuel tank to the flamethrower. Fuel Tanks carry 5 units of ammunition."
         ]
     },
 	{
