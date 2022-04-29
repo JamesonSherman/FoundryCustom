@@ -2645,6 +2645,7 @@
        "source": "BB5E",
 
         "entries": [
+            "Reload: 10",
             "this weapon may only be wielded by Gith or those with training in Korasiam weaponry.",
             "This strange block pistol has a 12 inch elongated barrell with purple crystaline streaks on each side, rectangular magazine, and pristine exact machining that makes it hard to differentiate between an artistic metal figure and a firearm with a break. This weapon deals {@dice 1d6} piercing damage and {@dice 1d4} Psychic damage.",
 			"Quick Load: It is a Bonus action to reload this weapon with a premade Astral 900 Magazine."
