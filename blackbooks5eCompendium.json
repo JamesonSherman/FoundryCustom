@@ -2779,6 +2779,7 @@
        "source": "BB5E",
 
         "entries": [
+            "Reload: 4",
             "The most common and yet most deadly firearm, cog revolvers are staples of most modern armies.Cog revolvers use cartridge ammunition and do {@dice 1d8} piercing damage.",
 			"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
 			"Highnoon: As an action you may speed fire all the ammunition in the revolver. You may make separate attacks at creatures within range at disadvantage for every round fired. It takes half the rounds fired (rounded down) for the gun to cool down so it may be reloaded."
@@ -2807,6 +2808,7 @@
        "source": "BB5E",
         
          "entries": [
+             "Reload: 2",
         "The short range but powerful boomstick is a common weapon of riflemen as it is able to unleash close range destruction. The boomstick does {@dice 4d4} piercing damage and consume two ammunition per shot.",
         "breakaction: As a bonus acction you may reload all ammunition in this weapon."								
 		]
@@ -2830,6 +2832,7 @@
         ],
        "source": "BB5E",
      "entries": [
+         "Reload: 1",
         "A powerful long range weapon able to send destruction down range, steam rifles are common place amongst scouts. Steam rifles deal {@dice 3d6} piercing damage and use cartridge ammunition. It takes an action to reload the steam rifle",
 		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
 		"Steady Shot: As an action you may crouch to steady your aim. Your movement speed is reduced to zero and you are treated as prone.  While in this state you gain an additonal +5 to all attack rolls made with the steam rifle. It is an action to stand up."								
@@ -2862,6 +2865,7 @@
                         {
                             "type": "entries",
                             "entries": [
+                                "Reload: 6",
                                 "This peculiar weapon uses a harmonica like magazine to pass bullets into into the chamber.",
                                 "Quick Load: It is a Bonus action to reload this weapon with a premade harmonica clip."
 
@@ -2892,6 +2896,7 @@
        "source": "BB5E",
 
         "entries": [
+            "Reload: 3",
 		"This strange four barreled box loads four shells at a time to be used. Inaccurate but wildly effective against multiple targets clumped together.",
         "Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. "
 
@@ -2916,6 +2921,7 @@
         ],
        "source": "BB5E",
         "entries": [
+            "Reload: 1",
 		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
 		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
 		"Firing Platform: as a bonus action you may stand the base of the arquebus into the ground. Your movement speed becomes zero and any attacks with the arquebus have advantage. It is a free action to abandon the arqebus and a full round action to restock the stand."
@@ -2933,7 +2939,7 @@
         "dmg1": "1d8",
 		"dmg2": "1d4",
         "dmgType": "B",
-        "reload": 4,
+        "reload": 6,
         "property": [
             "FA",
             "A",
@@ -2942,6 +2948,7 @@
         ],
        "source": "BB5E",
         "entries": [
+            "Reload: 6",
         "A tried and true firearm from the United Empires to the West, the Dragoon is a testament to engineering as it is capable of being used in any weather or battle condition. The dragoon deals {@dice 1d8} bludgeoning damage.",
 		"Shell Loading:Firearms with the shell loading property require you to reload your gun by inserting each piece of ammunition in at a time. As a bonus action, you can reload three pieces of ammunition into the weapon on your turn. Alternatively, you can spend an action during your turn to reload every piece of ammunition into the gun at once. ",
 		"Scatter: Firearms with the scatter property have two types of damage, a regular damage roll and a scatter damage roll. When you make an attack roll with one of these guns against a creature, compare your attack roll to the AC of all creatures within 5 feet of the target. If your attack would hit them, deal the firearm's scatter damage roll to the creatures. You do not add your ability score modifier to the damage of this attack, unless that modifier is negative."
@@ -2966,6 +2973,7 @@
         ],
        "source": "BB5E",
         "entries": [
+            "Reload: 5",
 		"Bulky: Firearms and ranged weapons with the bulky property have to be made stable in order to be fired effectively due to their weight and the damage they can put out with a single shot. You cannot attack more than once during your turn while wielding a bulky firearm.",
 		"Firestarter: You can make a normal single-target attack with a flamethrower using 1 unit of ammunition, or you can spray everything in a 5-foot-wide, 30-foot long line by dispensing 10 units of Ammunition. Each creature in the area must succeed on a Dexterity saving throw (DC 15) or take the flamethrower's normal damage. The flames of the flamethrower linger for six rounds and any creature who enters,starts, or ends the space of the flame takes the full damage of the flame thrower.",
 		"This item requires a special backpack item called a 'Fuel Tank' to be used. It is a full round action to attach a fuel tank to the flamethrower. Fuel Tanks carry 5 units of ammunition."
@@ -2992,6 +3000,7 @@
        "source": "BB5E",
  
         "entries": [
+            "Reload: 6",
         "Magazine Load: It is an action to reload this weapon with a premade Rifle clip.",
         "Burst Fire: Burst fire firearms are able to make a special attack that releases a stream of multiple bullets. As an action, you can force up to 3 creatures of your choice in a 15-foot square centered on a point within your gun's maximum range to make a Dexterity saving throw (DC 13), taking your gun's burst fire damage on a failed save, and half that damage on a success. This action subtracts rounds from your gun equal to the number of creatures affected, to a maximum of 3.",
 		"Additionally, guns with the burst fire property always expend 3 rounds per attack.",
