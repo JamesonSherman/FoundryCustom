@@ -2697,6 +2697,20 @@
         ]
        
     },
+
+    
+    {
+        "name": "Empty Magazine",
+        "source": "BB5E",
+        "type": "A",
+        "rarity": "Common",
+        "value": 100,
+        "entries": [
+            "An empty magazine needing to be filled."
+        ]
+       
+    },
+
     {
         "name": "Firearm Shell",
         "source": "BB5E",
