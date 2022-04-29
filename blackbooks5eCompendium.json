@@ -2764,7 +2764,7 @@
         "name": "Alchemical Fire",
         "source": "BB5E",
         "type": "A",
-        "Weight": 3,
+        "Weight": 1,
         "rarity": "Common",
         "value": 100,
         "entries": [
