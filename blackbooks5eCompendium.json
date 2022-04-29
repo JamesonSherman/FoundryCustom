@@ -2757,10 +2757,14 @@
         ]
        
     },
+
+
+
     {
         "name": "Alchemical Fire",
         "source": "BB5E",
-        "type": "EXP",
+        "type": "A",
+        "Weight": 3,
         "rarity": "Common",
         "value": 100,
         "entries": [
