@@ -4935,5 +4935,72 @@
             ]
         }
     }
+],
+"background": [
+    {
+        "name": "Roving Itinerant",
+        "source": "BB5E",
+        "skillProficiencies": [
+            {
+              
+                "survival": true
+            }
+        ],
+        "entries": [
+            {
+                "type": "list",
+                "style": "list-hang-notitle",
+                "items": [
+                    {
+                        "type": "item",
+                        "name": "Skill Proficiencies",
+                        "entry": "You are proficient with {@skill Survival} and may choose one other from  {@skill Medicine}, {@skill Nature}, or {@skill History}."
+                    },
+                    {
+                        "type": "item",
+                        "name": "Tool Proficiencies",
+                        "entry": "Your choice of Herbalism kit or Navigator's Tools"
+                    },
+                    {
+                        "type": "item",
+                        "name": "Languages",
+                        "entry": "Draconic"
+                    },
+                    {
+                        "type": "item",
+                        "name": "Equipment",
+                        "entry": "A set of traveler's clothes, a bedroll, a signal whistle, a staff, and a trinket from man made monument you have visited"
+                    }
+                ]
+            },
+            {
+                "name": "Overview:",
+                "type": "entries",
+                "entries": [
+                    "As a palmer makes his way to his holy ground, the Roving Itinerant meets his mecca in the lands travled, stories collected, and the lessons learned."
+                ]
+            },
+            {
+                "name": "Feature: Sightseer",
+                "type": "entries",
+                "entries": [
+                    "You have traveled far and wide in search of geological formations, man made monuments, and all sorts of wondrous creations that threaten to dull the world with their comparative splendor. You are always aware of attractions and other points of interest (natural and otherwise) in the lands you are traveling. You can also orient towards them and find a route of travel if you can observe them from a vantage point, or speak to a local about their location. This allows you to avoid hazardous or otherwise slow routes of travel at your DM's discretion."
+                ],
+                "data": {
+                    "isFeature": true
+                }
+            },
+            {
+                "name": "Feature: Squire",
+                "type": "entries",
+                "entries": [
+                    "Roving Itinerants are shaped by their experiences during their travels. They are pilgrims, explorers, scholars, and adventurers between work, and their reason for travel and what occurs to them shapes their mannerisms and ideals."
+                ],
+                "data": {
+                    "isFeature": true
+                }
+            }
+        ]
+    }
 ]
 }
