@@ -4989,16 +4989,6 @@
                 "data": {
                     "isFeature": true
                 }
-            },
-            {
-                "name": "Feature: Squire",
-                "type": "entries",
-                "entries": [
-                    "Roving Itinerants are shaped by their experiences during their travels. They are pilgrims, explorers, scholars, and adventurers between work, and their reason for travel and what occurs to them shapes their mannerisms and ideals."
-                ],
-                "data": {
-                    "isFeature": true
-                }
             }
         ]
     }
