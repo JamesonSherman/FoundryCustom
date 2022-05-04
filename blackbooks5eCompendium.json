@@ -3981,6 +3981,30 @@
         "weapon": true
     },
     {
+        "name": "Chieftan's Tribal Spear",
+        "source": "BB5E",
+       
+        "srd": false,
+        "type": "M",
+        "rarity": "none",
+        "weight": 16,
+        "value": 400,
+        "weaponCategory": "martial",
+        "property": [
+            "H",
+            "R",
+            "2H"
+        ],
+        "entries":[
+            "Phalanx: If you are adjacent to at least two other spear-wielders, your spear attacks have advantage.",
+            "Killer of the Pure: This weapon does an additional {@dice 1d4} non- to Good aligned creatures it damages.",
+        ],
+        "dmg1": "1d10",
+        "dmgType": "P",
+        "weapon": true
+    },
+
+    {
         "name": "Scimitar",
         "source": "BB5E",
         "page": 149,
