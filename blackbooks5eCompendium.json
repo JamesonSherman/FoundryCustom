@@ -4502,7 +4502,50 @@
         "poisonTypes": [
             "injury"
         ]
-    }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+		{
+			"name": "Weapon Augment: MasterWork",
+			"type": "BB5E",
+			"rarity": "none",
+			"source": "5etools",
+			"entries": [
+				"Weapon augments allow a weapon to have extraneous properties that can alter its abilites.",
+                "Masterwork: Masterwork weapons increase attacka and damage rolls by (1,2, or 3). You may upgrade this weapon with this augment up to three times."
+			]
+		},
+
+        
+		{
+			"name": "Weapon Augment: MasterWork",
+			"type": "BB5E",
+			"rarity": "none",
+			"source": "5etools",
+			"entries": [
+				"Weapon augments allow a weapon to have extraneous properties that can alter its abilites.",
+                "Firesteel: A weapon forged from firesteel deals an extra {@dice 1d4} fire damage on hit."
+			]
+		}
 ],
 "spell":[
     {
