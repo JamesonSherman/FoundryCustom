@@ -4518,7 +4518,16 @@
 
 
 
-
+	{
+        "name": "Weapon Augment: Test Augment Do not use!",
+        "type": "OTH",
+        "rarity": "none",
+        "source": "BB5E",
+        "entries": [
+            "Weapon augments allow a weapon to have extraneous properties that can alter its abilites.",
+            "Masterwork: Masterwork weapons increase attacka and damage rolls by (1,2, or 3). You may upgrade this weapon with this augment up to three times."
+        ]
+    },
 
 
 
