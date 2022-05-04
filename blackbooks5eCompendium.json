@@ -4136,7 +4136,7 @@
         ],
         "entries":[
             "Phalanx: If you are adjacent to at least two other spear-wielders, your spear attacks have advantage.",
-            "Bane of Good: If this weapon deals damage to a good aligned creature it deals an additonal non-mitigatable 4 necrotic damage."
+            "Bane of Good: If this weapon deals damage to a good-aligned creature it deals an additional non-mitigatable 4 necrotic damage."
         ],
         "dmg1": "2d4",
         "dmgType": "P",
