@@ -1103,6 +1103,21 @@
 ],
 "item": [
 
+    {
+        "name": "CopperSteel's Magnanimous Tent",
+        "wondrous": true,
+        "tier": "minor",
+        "rarity": "uncommon",
+        "source": "BB5E",
+        "entries": [
+            "This small innocuous tent is emrboirdered with runic symbology and is made of a deep crimson rugged fabric. This tent takes 10 minutes to setup but once done acts as a portal to a custom created temporal home within the astral plane itself. The home at a base has a living room, bedroom, kitchen, and bathroom with a admixture of other rooms such as parlor and winecellar with all rooms fully furnished. The exterior tent itself has 25 hp and a DC 8 AC. ","  A creature subjected to this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a Constitution saving throw (DC 15), taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "If the tent is destroyed, the occupants are thrust outward at a speed of 30 feet per for 1 round. A tent can be repaired by any leather worker and its difficulty is increased by 1 for every missing point of HP."
+        ]
+    },
+
+
+
+
 
     {
         "name": "Dwarven Tower Shield (weapon)",
