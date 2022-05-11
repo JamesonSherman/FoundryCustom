@@ -4533,6 +4533,60 @@
         ]
     },
 
+    {
+        "name": "Arcane Ichor Vial",
+        "source": "BB5E",
+        "type": "G",
+        "rarity": "none",
+        "weight": 0.2,
+        "value": 200,
+        "entries": [
+            "An Arcane Ichor Vial is a special synthetic arcane essence that allows casters to substitute it for spell components. Because of its lightweight and relatively cheap production, Arcane Ichor is the primary choice for on the go spell casting. One vial of arcane ichor may substitute for up to 8 hours of spell components except for those components that have a specific cost (as indicated in a spell's description).",
+            "If a spell requries a material that requires a cost and arcane ichor is used in substitution, the spell fails and the entire vial of ichor dries up.",
+            "Bottles of Ichor last only 8 hours and a new vial must be opened to cast spells or another source of components must be used"
+        ]
+    },
+    {
+        "name": "Component Pouch",
+        "source": "PHB",
+        "page": 151,
+        "srd": true,
+        "basicRules": true,
+        "type": "G",
+        "rarity": "none",
+        "weight": 2,
+        "value": 2500,
+        "entries": [
+            "A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description)."
+        ]
+    },
+    {
+        "name": "Bag of Cairn Crystals",
+        "source": "BB5E",
+        "type": "G",
+        "rarity": "none",
+        "weight": 2,
+        "value": 400,
+        "entries": [
+            "This bag of broken cairn crystals may substitute for spell components except for those components that have a specific cost (as indicated in a spell's description).",
+            "If a spell requries a material that requires a cost and cairn crystals are used as substitution, the spell fails but no cairn crystals are lost in the process.",
+            "a single bag of cairn crystals lasts 48 hours of time once opened."
+        ]
+    },
+    {
+        "name": "Tablet of Sending",
+        "wondrous": true,
+        "tier": "minor",
+        "rarity": "uncommon",
+        "source": "BB5E",
+        "entries": [
+            "This strange stone tablet is small enough to be held in the palm of your hand with ease. If a creature writes up to 25 words upon the tablet with any writing instrument the tablet then casts the sending spell with the written words.",
+            "Instead of appearing ina  creatures mind all Tablets of Sending have a secondary pair. The written text will show up on the paired tablet and anyone in range with the ability to write upon the tablet can respond.",
+            "Similar to Sending, You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn’t arrive."
+        ]
+    },
+
+
 
 
 
@@ -4557,6 +4611,7 @@
             "Masterwork: Masterwork weapons increase attacka and damage rolls by (1,2, or 3). You may upgrade this weapon with this augment up to three times."
         ]
     },
+
 
 
 
