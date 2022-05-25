@@ -4594,7 +4594,7 @@
     {
         "name": "Arcane Ichor Vial",
         "source": "BB5E",
-        "type": "A",
+        "type": "G",
         "rarity": "none",
         "weight": 0.2,
         "value": 200,
@@ -4621,7 +4621,7 @@
     {
         "name": "Bag of Cairn Crystals",
         "source": "BB5E",
-        "type": "A",
+        "type": "G",
         "rarity": "none",
         "weight": 2,
         "value": 400,
