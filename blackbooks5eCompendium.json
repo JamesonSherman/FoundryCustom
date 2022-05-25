@@ -2843,7 +2843,36 @@
          "entries": [
              "Reload: 2",
         "The short range but powerful boomstick is a common weapon of riflemen as it is able to unleash close range destruction. The boomstick does {@dice 4d4} piercing damage and consume two ammunition per shot.",
-        "breakaction: As a bonus acction you may reload all ammunition in this weapon."								
+        "breakaction: As a bonus action you may reload all ammunition in this weapon."								
+		]
+    },
+    {
+        "name": "Blunderbus",
+        
+        "type": "R",
+        "weapon": true,
+        "weaponCategory": "martial",
+        "rarity": "none",
+        "value": 35000,
+        "weight": 3,
+        "range": "10/15",
+        "dmg1": "3d4",
+        "dmgType": "P",
+        "reload": 2,
+        "property": [
+            "FA",
+            "A",
+            "LD",
+            "SP",
+			"2H"
+        ],
+       "source": "BB5E",
+        
+         "entries": [
+             "Reload: 1",
+        "The short range but powerful blunderbus is a common weapon of frontiermen and old vanguard as it is able to unleash close range destruction. The blunderbus does {@dice 3d4} piercing damage and consume one ammunition per shot.",
+        "breakaction: As a bonus action you may reload all ammunition in this weapon.",
+        "Explosive: Upon a hit, everything within 5 ft of the target must make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 fire damage. If the weapon misses, the ammunition fails to detonate, or bounces away harmlessly before doing so."				
 		]
     },
     {
@@ -5340,9 +5369,9 @@
                 "page": 153,
                 "entries": [
                     "Arcane contamination is not a common ailment but one that is known about and documented readily by most scholars.",
-                    "The method of contamination is incredibly simple. All that is needed is a highly potent direct source of arcane energy within close proximity. Pieces of divine power, ancient artifcats, creatures, and even ley lines can cause arcane contamination.",
+                    "The method of contamination is incredibly simple. All that is needed is a highly potent direct source of arcane energy within close proximity. Pieces of divine power, ancient artifacts, creatures, and even ley lines can cause arcane contamination.",
                     "Even spells that are considered of eighth level or higher have a raw chance at inflicing Arcane Contamination to an area. Once an area is contaminated it takes around 30 days for the natural environment to store the arcane energy or use it.",
-                    "special cases like the badlands can occur where there is permanent arcane contamination in areas that schoalrs are unsure of the source or the duration."
+                    "special cases like the badlands can occur where there is permanent arcane contamination in areas that scholars are unsure of the source or the duration."
                 ]
             },
             {
@@ -5350,7 +5379,7 @@
                 "name": "Infection",
                 "page": 153,
                 "entries": [
-                    "Creatures affected by arcane contamination are aqutely aware within moments. Once a creature has been contaminated they suffer the first signs of illness with slugishness and difficulty breathing.",
+                    "Creatures affected by arcane contamination are acutely aware within moments. Once a creature has been contaminated they suffer the first signs of illness with slugishness and difficulty breathing.",
                     "As they are exposed more and more to arcane contamination, the symptoms increase in severity."
                 ]
             },
@@ -5362,10 +5391,10 @@
                     "There are six major levels of symptoms at arcane contamination onset depending on the exposure to concentrated arcane energy",
                     "1. The creature has disadvantage on all saving throws.",
                     "2. The creatures hitpoints gained on short or long rests are halved and movement speed is reduced by 10 feet",
-                    "3. The creatures gains not hitpoints on short or long rests and is unable to be healed of diseases or conditions until Arcane Contamination is healed.",
+                    "3. The creatures gains no hitpoints on short or long rests and is unable to be healed of diseases or conditions until Arcane Contamination is healed.",
                     "4. Damage dealt by all weapons, spells, and attacks is halved and attacks are made at disadvantage.",
                     "5. The creature becomes incapacitated and gains the insanity condition.",
-                    "6. The creature instantly has a wilg magic warp event and burts into arcane energy exploding in an area of thirty feet."
+                    "6. The creature instantly has a wild magic warp event and bursts into arcane energy ,exploding in an area of thirty feet."
 
                 ]
             },
@@ -5374,7 +5403,7 @@
                 "name": "Recovery",
                 "page": 154,
                 "entries": [
-                    "Arcane contamination is a highly deadly disease and can only be treated one of two ways.",
+                    "Arcane contamination is a highly deadly disease and can only be cured by specialized magic and minimally treated.",
                     "1. Using the specialized purge contamination spell completely cures the disease.",
                     "2. Greater Healing may reduce the contamination level to 1 but may not heal the disease",
                     "3. Arcane Filtration pills may be taken but a creatures health is reduced by half for 48 hours while undergoing treatment."
