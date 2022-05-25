@@ -5155,7 +5155,68 @@
                 }
             ]
         }
+    },
+
+
+
+    {
+        "name": "Purge Contamination",
+        "source": "BB5EDDH",
+        "level": 3,
+        "school": "A",
+        "time": [
+            {
+                "number": 1,
+                "unit": "hour"
+            }
+        ],
+        "range": {
+            "type": "point",
+            "distance": {
+                "type": "touch",
+                "amount": 5
+            }
+        },
+        "components": {
+            "v": true,
+            "s": true,
+            "m": "100 gp of alchemical fluids or holy water, which the spell consumes"
+        },
+        "duration": [
+            {
+               "type": "instant"
+                
+            }
+        ],
+        "entries": [
+            "You apply alchemical fluids or holy water to a contaminated humanoid creature while reciting an exacting magical chant that expels arcane contaminants from the target’s body. When you finish casting the spell, all contamination levels are removed from the creature. It then gains one level of exhaustion for each contamination level removed with this spell."
+        ],
+      
+        "classes": {
+            "fromClassList": [
+
+                {
+                    "name": "Cleric",
+                    "source": "PHB"
+                },
+                {
+                    "name": "Druid",
+                    "source": "PHB"
+                },
+                {
+                    "name": "Paladin",
+                    "source": "PHB"
+                },
+                {
+                    "name": "Wizard",
+                    "source": "PHB"
+                }
+            ]
+        }
     }
+
+
+
 ],
 "background": [
     {
@@ -5213,5 +5274,123 @@
             }
         ]
     }
+],
+"disease": [
+
+    {
+        "name": "Fey Rot",
+        "source": "BB5E",
+        "page": 153,
+        "entries": [
+            "The Feylingarian Abrocious, also known as \"fey rot,\" is known in every corner of the common lands and is feared just as much as the creatures that carry the disease.",
+            {
+                "type": "entries",
+                "name": "Transmission",
+                "page": 153,
+                "entries": [
+                    "Fey Rot is spread by both creatures of the fey wilds and the mold like grass that inhabits most of the fey wild. What most legends consider to be fey whisps, the beauitful glowing flashes of light, that eminate from fey land are actually bioluminescent mold particles that spread the disease",
+                    "Additionally, most fey creatures transmit the disease just by breath or touching creatures of different planes that are not inoculated against the rot "
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Infection",
+                "page": 153,
+                "entries": [
+                    "Creatures exposed to the disease must succeed on a DC 10 Constitution saving throw or become infected. The DC of this saving throw can increase depending on the severity of the plague's spread."
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Symptoms",
+                "page": 153,
+                "entries": [
+                    "It takes {@dice 1d12} + 2 days for the fey rot symptoms to manifest in an infected creature.",
+                    "After the gestation period, the creature must make a DC 12 Consitutiton saving throw every eight hours. If they succeed the next checks difficulty is increased by 2. Upon a failure the infected creatures total maximum hp is reduced by 10 until they are cured. Every eight hours if they fail the next constitution saving throw their HP is reduced by another 10 points.",
+                    "If a creature is reduced to 0 or less HP by this method their skin sloughs off over the next hour and their corpse becomes fey ground emitting toxic spores. All creatures within 100 feet of the corpse in an open environment must make a Constitution saving throw equal to the last failed DC of the creature who died."
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Recovery",
+                "page": 154,
+                "entries": [
+                    "A creature may be cured of Feyling rot by the powers of a greater restoration spell or by the use of a potion containing the heart of a great fey."
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Immunity",
+                "page": 154,
+                "entries": [
+                    "All Fey type creatures are immune to Fey Rot."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Arcane Contamination",
+        "source": "BB5E",
+        "page": 153,
+        "entries": [
+            "All magic is inherently powerful, yet some sources such as powerful magic items or raw ley lines emit a strange force that causes horrifying symptoms in mortal creatures",
+            {
+                "type": "entries",
+                "name": "Transmission",
+                "page": 153,
+                "entries": [
+                    "Arcane contamination is not a common ailment but one that is known about and documented readily by most scholars.",
+                    "The method of contamination is incredibly simple. All that is needed is a highly potent direct source of arcane energy within close proximity. Pieces of divine power, ancient artifcats, creatures, and even ley lines can cause arcane contamination.",
+                    "Even spells that are considered of eighth level or higher have a raw chance at inflicing Arcane Contamination to an area. Once an area is contaminated it takes around 30 days for the natural environment to store the arcane energy or use it.",
+                    "special cases like the badlands can occur where there is permanent arcane contamination in areas that schoalrs are unsure of the source or the duration."
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Infection",
+                "page": 153,
+                "entries": [
+                    "Creatures affected by arcane contamination are aqutely aware within moments. Once a creature has been contaminated they suffer the first signs of illness with slugishness and difficulty breathing.",
+                    "As they are exposed more and more to arcane contamination, the symptoms increase in severity."
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Symptoms",
+                "page": 153,
+                "entries": [
+                    "There are six major levels of symptoms at arcane contamination onset depending on the exposure to concentrated arcane energy",
+                    "1. The creature has disadvantage on all saving throws.",
+                    "2. The creatures hitpoints gained on short or long rests are halved and movement speed is reduced by 10 feet",
+                    "3. The creatures gains not hitpoints on short or long rests and is unable to be healed of diseases or conditions until Arcane Contamination is healed.",
+                    "4. Damage dealt by all weapons, spells, and attacks is halved and attacks are made at disadvantage.",
+                    "5. The creature becomes incapacitated and gains the insanity condition.",
+                    "6. The creature instantly has a wilg magic warp event and burts into arcane energy exploding in an area of thirty feet."
+
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Recovery",
+                "page": 154,
+                "entries": [
+                    "Arcane contamination is a highly deadly disease and can only be treated one of two ways.",
+                    "1. Using the specialized purge contamination spell completely cures the disease.",
+                    "2. Greater Healing may reduce the contamination level to 1 but may not heal the disease",
+                    "3. Arcane Filtration pills may be taken but a creatures health is reduced by half for 48 hours while undergoing treatment."
+                ]
+            },
+            {
+                "type": "entries",
+                "name": "Immunity",
+                "page": 154,
+                "entries": [
+                    "All Arcane and Elemental creatures are immune to Arcane Contamination."
+                ]
+            }
+        ]
+    }
+
+
 ]
 }
