@@ -73,6 +73,7 @@
 			"subclassFeatures": [
 				"Primordial Panoply|Druid|PHB|Woe|BB5E|2",
 				"Grove of Woe|Druid|PHB|Woe|BB5E|2",
+                "BrambleBloom|Druid|PHB|Woe|BB5E2",
 				"Extra Attack|Druid|PHB|Woe|BB5E|6",
 				"Greater Grove|Druid|PHB|Woe|BB5E|10",
 				"Steelbark & Spiterazor|Druid|PHB|Woe|BB5E|14"
@@ -468,6 +469,51 @@
 				"You can conjure your Grove of Woe a number of times equal to your Wisdom modifier, regaining all expended uses after a long rest."
 			]
 		},
+
+        {
+			"name": "Bramblebloom",
+			"source": "BB5E",
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Woe",
+			"subclassSource": "BB5E",
+			"level": 2,
+			"entries": [
+                "Starting at 2nd level, you can expend a use of your Wild Shape feature as a bonus action to take on an aspect of growth. Your body is woven-through by overlapping vines and fresh, green outgrowths, attuning you to the natural world and the companions around you.",
+				"Whenever you assume your aspect of growth, choose which of the following aspects to embody, gaining the benefits thereof for one minute.",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Aspect of the Sycamore",
+							"entry": "You take on the qualities of a sturdy, weather-proof tree. For the duration of this ability, you have advantage on saving throws and ability checks against any effect that would move you against your will, unless that effect is a form of teleportation, and have advantage on Strength, Dexterity, and Constitution saving throws against spells and effects that affect an area. If your Grove of Woe ability is active while you embrace the Aspect of the Sycamore, enemies within the radius of your Grove that you successfully hit with a Razorkeen weapon have disadvantage on attack rolls against you until the start of your next turn, or until they are no longer in the Grove’s area for any reason."
+
+						},
+						{
+							"type": "item",
+							"name": "Aspect of the Lotus",
+							"entry":"You take on the qualities of the lotus flower, embodying the essence of growth, death, and rebirth. For the duration of this ability, whenever you hit a creature with a Razorkeen weapon, you regain hit points equal to the damage dealt. Excess hit points are treated as temporary hit points instead, though temporary hit points from this ability only last until the end of your next turn, and they overlap with themselves, rather than stacking. If the creature struck is in the radius of your Grove of Woe, you may choose to apply the healing to any creature within the Grove’s area instead. In any case, this healing may only occur once per round."
+						},
+						{
+							"type": "item",
+							"name": "Aspect of the Nightshade",
+							"entry": "You take on the qualities of the nightshade flower, infamous for its deadly poison. For the duration of this ability, whenever you hit a creature with a Razorkeen weapon, you apply one point of Nightshade Toxin. At the start of the victim’s turn, the affected creature takes 1d6 points of Poison damage, halved on a successful Constitution saving throw against your spell save DC, per point of Nightshade Toxin applied. If the victim is currently affected by your Grove of Woe, i.e. they are affected by the penalty for failing their saving throw against it, your successful attacks apply two points of Nightshade Toxin instead. All points of Nightshade Toxin present on any creatures affected by this ability disappear when this ability’s duration ends, and points of Nightshade Toxin are considered a single poison effect for the purposes of spells and effects that remove poisons. The damage of this ability increases to 2d6 per point at 8th level, and increases again to 3d6 per point at 15th level."
+						}
+					]
+				}
+			]
+		},
+
+
+
+
+
+
+
+
+
 		{
 			"name": "Extra Attack",
 			"source": "BB5E",
@@ -668,7 +714,7 @@
 			"subclassSource": "BB5E",
 			"level": 3,
 			"entries": [
-				"You gain proficiency with tower shields and the {@skill Medicine} skill."
+				"At third level, you gain proficiency with tower shields and the {@skill Medicine} skill. If you already have proficiency you gain expertise."
 			]
 		},
 		{
