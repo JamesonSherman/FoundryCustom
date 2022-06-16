@@ -4620,6 +4620,22 @@
         ]
     },
     {
+        "name": "Fairy Bait",
+        "source": "BB5E",
+        "type": "G",
+        "rarity": "uncommon",
+        "value": 10,
+        "poison": true,
+        "entries": [
+            "This poison requires an action to setup. Once place, within 5 minutes of time all fey creatures within your hex and all adjacent hexes will be drawn to the location of the fairy bait.",
+            "If the fairy bait poison is consumed all fey stop attempting to move towards it are no longer drawn. The fey consuming it has disadvantage on constitution saving throws for one hour.",
+            "If the fairy bait is not consumed within one hour of placing it is ruined and becomes unusable. Once place a fair bait is unable to be packed up and placed in its special container."
+        ],
+        "poisonTypes": [
+            "injury"
+        ]
+    },
+    {
         "name": "Clarity Noose",
         "source": "BB5E",
         "type": "G",
@@ -4680,6 +4696,10 @@
             "Bottles of Ichor last only 8 hours and a new vial must be opened to cast spells or another source of components must be used"
         ]
     },
+
+
+
+
     {
         "name": "Component Pouch",
         "source": "PHB",
@@ -4729,6 +4749,18 @@
             "This strange checkered leather saddle hums with powerful arcane energies. As an action, the owner of this saddle may reduce the size of a creature it is mounted upon by one category for up to one hour as if the spell Enlarge/Reduce was cast upon it",
             "This ability may be used a number of times per day equal to the saddled animals constitution modifier."
 
+        ]
+    },
+    {
+        "name": "Cage",
+        "source": "BB5E",
+        "type": "G",
+        "rarity": "none",
+        "weight": 5,
+        "value": 1,
+        "entries": [
+
+            "This sturdy device is able to hold a creature of small size or less. Once capture the creature has disadvantage on Strength Saving throws to get out. The creature trapped may attempt once an hour to bend the bars to escape. The check for this attempt is DC (18). THe creature must succeed three times in order to bend the bars enough to escape."
         ]
     },
 
